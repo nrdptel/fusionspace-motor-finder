@@ -39923,10 +39923,10 @@
     "price_high_cents": 19600
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=101502105556613#1596-K500-18A%20-%20Red_Lightning": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:36+00:00",
-    "last_change_at": "2026-08-31T19:00:37+00:00",
+    "last_change_at": "2026-10-24T23:00:56+00:00",
     "last_in_stock_at": "2026-08-31T19:00:37+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -40508,10 +40508,10 @@
     "price_high_cents": 27400
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=101502105556613#K711%20White": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:36+00:00",
-    "last_change_at": "2026-08-31T19:00:37+00:00",
+    "last_change_at": "2026-10-24T23:00:56+00:00",
     "last_in_stock_at": "2026-08-31T19:00:37+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -44720,10 +44720,10 @@
     "price_high_cents": 95300
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=101920097563393#9876-M1890-P%20Red%20Lightning": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:38+00:00",
-    "last_change_at": "2026-09-01T11:16:58+00:00",
+    "last_change_at": "2026-10-24T23:00:58+00:00",
     "last_in_stock_at": "2026-09-01T11:16:58+00:00",
     "last_restock_at": null,
     "restock_count": 0,
