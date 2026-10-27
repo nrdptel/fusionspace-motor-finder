@@ -44850,10 +44850,10 @@
     "price_high_cents": 64200
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=105200411250931#M1200%20Spit%20Fire%20Reload": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:40+00:00",
-    "last_change_at": "2026-06-05T17:00:40+00:00",
+    "last_change_at": "2026-10-27T16:00:52+00:00",
     "last_in_stock_at": "2026-06-05T17:00:40+00:00",
     "last_restock_at": null,
     "restock_count": 0,
