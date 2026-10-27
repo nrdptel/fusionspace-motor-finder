@@ -28,11 +28,11 @@
     ],
     "chronic": false,
     "count": 253.00000000000006,
-    "samples": 3592,
+    "samples": 3593,
     "stock": 0.0,
     "streak": 0,
     "unmatched": 0.0,
-    "updated_at": "2026-10-27T05:05:09+00:00"
+    "updated_at": "2026-10-27T06:05:10+00:00"
   },
   "amw": {
     "carry_window": [
@@ -63,11 +63,11 @@
     ],
     "chronic": false,
     "count": 259.0000000000001,
-    "samples": 3292,
-    "stock": 88.00000215289162,
+    "samples": 3293,
+    "stock": 88.00000161466872,
     "streak": 0,
     "unmatched": 0.9999999999999998,
-    "updated_at": "2026-10-27T05:05:09+00:00"
+    "updated_at": "2026-10-27T06:05:10+00:00"
   },
   "balsa_machining": {
     "carry_window": [
@@ -98,11 +98,11 @@
     ],
     "chronic": false,
     "count": 204.0,
-    "samples": 3652,
+    "samples": 3653,
     "stock": 16.000000000000007,
     "streak": 0,
     "unmatched": 0.0,
-    "updated_at": "2026-10-27T05:05:09+00:00"
+    "updated_at": "2026-10-27T06:05:10+00:00"
   },
   "buyrocketmotors": {
     "carry_window": [
@@ -133,11 +133,11 @@
     ],
     "chronic": false,
     "count": 280.9999999999999,
-    "samples": 3572,
-    "stock": 58.593750000000014,
+    "samples": 3573,
+    "stock": 58.195312500000014,
     "streak": 0,
     "unmatched": 0.0,
-    "updated_at": "2026-10-27T05:05:09+00:00"
+    "updated_at": "2026-10-27T06:05:10+00:00"
   },
   "csrocketry": {
     "carry_window": [
@@ -168,15 +168,14 @@
     ],
     "chronic": false,
     "count": 547.9999999999998,
-    "samples": 3648,
-    "stock": 130.0950424650747,
+    "samples": 3649,
+    "stock": 130.07128184880602,
     "streak": 0,
     "unmatched": 0.9999999999999998,
-    "updated_at": "2026-10-27T05:05:09+00:00"
+    "updated_at": "2026-10-27T06:05:10+00:00"
   },
   "erockets": {
     "carry_window": [
-      0,
       0,
       0,
       0,
@@ -199,15 +198,16 @@
       0,
       0,
       0,
+      0,
       0
     ],
     "chronic": false,
-    "count": 63.99999999999986,
-    "samples": 1831,
-    "stock": 34.000023838674224,
+    "count": 63.99999999999989,
+    "samples": 1832,
+    "stock": 34.00001787900567,
     "streak": 0,
     "unmatched": 0.0,
-    "updated_at": "2026-10-27T05:05:09+00:00"
+    "updated_at": "2026-10-27T06:05:10+00:00"
   },
   "loki": {
     "carry_window": [
@@ -238,11 +238,11 @@
     ],
     "chronic": false,
     "count": 50.0,
-    "samples": 3676,
+    "samples": 3677,
     "stock": 26.999999999999993,
     "streak": 0,
     "unmatched": 0.0,
-    "updated_at": "2026-10-27T05:05:09+00:00"
+    "updated_at": "2026-10-27T06:05:10+00:00"
   },
   "moto_joe": {
     "carry_window": [
@@ -273,11 +273,11 @@
     ],
     "chronic": false,
     "count": 527.9999999999998,
-    "samples": 3280,
+    "samples": 3281,
     "stock": 4.000000000000002,
     "streak": 0,
     "unmatched": 1.0,
-    "updated_at": "2026-10-27T05:05:09+00:00"
+    "updated_at": "2026-10-27T06:05:10+00:00"
   },
   "newcenturyrocketry": {
     "carry_window": [
@@ -308,11 +308,11 @@
     ],
     "chronic": false,
     "count": 92.00000000000003,
-    "samples": 3247,
-    "stock": 65.00000012756625,
+    "samples": 3248,
+    "stock": 65.0000000956747,
     "streak": 0,
     "unmatched": 0.0,
-    "updated_at": "2026-10-27T05:05:09+00:00"
+    "updated_at": "2026-10-27T06:05:10+00:00"
   },
   "performancehobbies": {
     "carry_window": [
@@ -343,11 +343,11 @@
     ],
     "chronic": false,
     "count": 597.9999999999998,
-    "samples": 3676,
-    "stock": 82.0000851599066,
+    "samples": 3677,
+    "stock": 82.00006386992996,
     "streak": 0,
     "unmatched": 2.000000000000001,
-    "updated_at": "2026-10-27T05:05:09+00:00"
+    "updated_at": "2026-10-27T06:05:10+00:00"
   },
   "sirius": {
     "carry_window": [
@@ -413,10 +413,10 @@
     ],
     "chronic": false,
     "count": 489.0000000000001,
-    "samples": 3510,
-    "stock": 90.0003174869288,
+    "samples": 3511,
+    "stock": 90.0002381151966,
     "streak": 0,
     "unmatched": 1.9999999999999996,
-    "updated_at": "2026-10-27T05:05:09+00:00"
+    "updated_at": "2026-10-27T06:05:10+00:00"
   }
 }
