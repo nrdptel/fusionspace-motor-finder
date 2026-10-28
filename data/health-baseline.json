@@ -28,11 +28,11 @@
     ],
     "chronic": false,
     "count": 253.00000000000006,
-    "samples": 3630,
+    "samples": 3631,
     "stock": 0.0,
     "streak": 0,
     "unmatched": 0.0,
-    "updated_at": "2026-10-28T19:05:17+00:00"
+    "updated_at": "2026-10-28T20:05:40+00:00"
   },
   "amw": {
     "carry_window": [
@@ -62,12 +62,12 @@
       0
     ],
     "chronic": false,
-    "count": 257.0047568179085,
-    "samples": 3330,
-    "stock": 87.50475681794688,
+    "count": 257.0035676134314,
+    "samples": 3331,
+    "stock": 88.62856761346016,
     "streak": 0,
-    "unmatched": 0.002378408954200494,
-    "updated_at": "2026-10-28T19:05:17+00:00"
+    "unmatched": 0.0017838067156503705,
+    "updated_at": "2026-10-28T20:05:40+00:00"
   },
   "balsa_machining": {
     "carry_window": [
@@ -98,11 +98,11 @@
     ],
     "chronic": false,
     "count": 204.0,
-    "samples": 3690,
+    "samples": 3691,
     "stock": 16.000000000000007,
     "streak": 0,
     "unmatched": 0.0,
-    "updated_at": "2026-10-28T19:05:17+00:00"
+    "updated_at": "2026-10-28T20:05:40+00:00"
   },
   "buyrocketmotors": {
     "carry_window": [
@@ -133,11 +133,11 @@
     ],
     "chronic": false,
     "count": 280.9999999999999,
-    "samples": 3610,
-    "stock": 56.75002849365796,
+    "samples": 3611,
+    "stock": 56.562521370243466,
     "streak": 0,
     "unmatched": 0.0,
-    "updated_at": "2026-10-28T19:05:17+00:00"
+    "updated_at": "2026-10-28T20:05:40+00:00"
   },
   "csrocketry": {
     "carry_window": [
@@ -168,16 +168,16 @@
     ],
     "chronic": false,
     "count": 547.9999999999998,
-    "samples": 3686,
-    "stock": 128.01605305122877,
+    "samples": 3687,
+    "stock": 127.76203978842157,
     "streak": 0,
     "unmatched": 0.9999999999999998,
-    "updated_at": "2026-10-28T19:05:17+00:00"
+    "updated_at": "2026-10-28T20:05:40+00:00"
   },
   "erockets": {
     "carry_window": [
-      0,
       1,
+      0,
       0,
       0,
       0,
@@ -203,11 +203,11 @@
     ],
     "chronic": false,
     "count": 63.999999999999986,
-    "samples": 1868,
-    "stock": 34.000000000568264,
+    "samples": 1869,
+    "stock": 34.0000000004262,
     "streak": 0,
     "unmatched": 0.0,
-    "updated_at": "2026-10-28T19:05:17+00:00"
+    "updated_at": "2026-10-28T20:05:40+00:00"
   },
   "loki": {
     "carry_window": [
@@ -238,11 +238,11 @@
     ],
     "chronic": false,
     "count": 50.0,
-    "samples": 3714,
+    "samples": 3715,
     "stock": 26.999999999999993,
     "streak": 0,
     "unmatched": 0.0,
-    "updated_at": "2026-10-28T19:05:17+00:00"
+    "updated_at": "2026-10-28T20:05:40+00:00"
   },
   "moto_joe": {
     "carry_window": [
@@ -273,11 +273,11 @@
     ],
     "chronic": false,
     "count": 527.9999999999998,
-    "samples": 3318,
+    "samples": 3319,
     "stock": 4.000000000000002,
     "streak": 0,
     "unmatched": 1.0,
-    "updated_at": "2026-10-28T19:05:17+00:00"
+    "updated_at": "2026-10-28T20:05:40+00:00"
   },
   "newcenturyrocketry": {
     "carry_window": [
@@ -308,11 +308,11 @@
     ],
     "chronic": false,
     "count": 92.00000000000003,
-    "samples": 3285,
-    "stock": 64.00422828258752,
+    "samples": 3286,
+    "stock": 64.00317121194064,
     "streak": 0,
     "unmatched": 0.0,
-    "updated_at": "2026-10-28T19:05:17+00:00"
+    "updated_at": "2026-10-28T20:05:40+00:00"
   },
   "performancehobbies": {
     "carry_window": [
@@ -343,11 +343,11 @@
     ],
     "chronic": false,
     "count": 597.9999999999998,
-    "samples": 3714,
-    "stock": 81.00031748079394,
+    "samples": 3715,
+    "stock": 81.00023811059546,
     "streak": 0,
     "unmatched": 2.000000000000001,
-    "updated_at": "2026-10-28T19:05:17+00:00"
+    "updated_at": "2026-10-28T20:05:40+00:00"
   },
   "sirius": {
     "carry_window": [
@@ -413,10 +413,10 @@
     ],
     "chronic": false,
     "count": 489.0000000000001,
-    "samples": 3548,
-    "stock": 86.01616271449983,
+    "samples": 3549,
+    "stock": 86.01212203587487,
     "streak": 0,
     "unmatched": 1.9999999999999996,
-    "updated_at": "2026-10-28T19:05:17+00:00"
+    "updated_at": "2026-10-28T20:05:40+00:00"
   }
 }
