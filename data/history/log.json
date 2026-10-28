@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28T18:05:36+00:00",
+  "updated_at": "2026-10-28T19:05:17+00:00",
   "listings": {
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/40-120-reloads/aerotech-e16-4w-white-lightning-rocket-motor.html": {
       "vendor_slug": "csrocketry",
@@ -9054,6 +9054,11 @@
           "t": "2026-09-21T01:01:05+00:00",
           "status": "special_order",
           "price_cents": 4849
+        },
+        {
+          "t": "2026-10-28T19:00:38+00:00",
+          "status": "in_stock_with_count",
+          "price_cents": 4849
         }
       ]
     },
@@ -9583,6 +9588,11 @@
         {
           "t": "2026-09-21T00:00:52+00:00",
           "status": "in_stock_with_count",
+          "price_cents": 3949
+        },
+        {
+          "t": "2026-10-28T19:01:00+00:00",
+          "status": "special_order",
           "price_cents": 3949
         }
       ]
@@ -11214,6 +11224,11 @@
           "t": "2026-10-19T04:00:39+00:00",
           "status": "special_order",
           "price_cents": 6199
+        },
+        {
+          "t": "2026-10-28T19:00:38+00:00",
+          "status": "in_stock_with_count",
+          "price_cents": 6199
         }
       ]
     },
@@ -11869,6 +11884,11 @@
           "t": "2026-10-06T19:01:00+00:00",
           "status": "in_stock_with_count",
           "price_cents": 6949
+        },
+        {
+          "t": "2026-10-28T19:01:02+00:00",
+          "status": "special_order",
+          "price_cents": 6949
         }
       ]
     },
@@ -12478,6 +12498,11 @@
         {
           "t": "2026-09-21T00:00:51+00:00",
           "status": "in_stock_with_count",
+          "price_cents": 4749
+        },
+        {
+          "t": "2026-10-28T19:00:59+00:00",
+          "status": "special_order",
           "price_cents": 4749
         }
       ]
@@ -13649,6 +13674,11 @@
           "t": "2026-10-24T15:01:59+00:00",
           "status": "special_order",
           "price_cents": 6949
+        },
+        {
+          "t": "2026-10-28T19:01:02+00:00",
+          "status": "in_stock_with_count",
+          "price_cents": 6949
         }
       ]
     },
@@ -14213,6 +14243,11 @@
         {
           "t": "2026-09-22T23:00:57+00:00",
           "status": "special_order",
+          "price_cents": 8199
+        },
+        {
+          "t": "2026-10-28T19:01:03+00:00",
+          "status": "in_stock_with_count",
           "price_cents": 8199
         }
       ]
@@ -15529,6 +15564,11 @@
           "t": "2026-10-19T19:00:46+00:00",
           "status": "special_order",
           "price_cents": 13499
+        },
+        {
+          "t": "2026-10-28T19:00:38+00:00",
+          "status": "in_stock_with_count",
+          "price_cents": 13499
         }
       ]
     },
@@ -15578,6 +15618,11 @@
         {
           "t": "2026-10-18T02:00:29+00:00",
           "status": "special_order",
+          "price_cents": 18899
+        },
+        {
+          "t": "2026-10-28T19:00:38+00:00",
+          "status": "in_stock_with_count",
           "price_cents": 18899
         }
       ]
@@ -15728,6 +15773,11 @@
         {
           "t": "2026-09-21T00:00:59+00:00",
           "status": "special_order",
+          "price_cents": 14499
+        },
+        {
+          "t": "2026-10-28T19:01:07+00:00",
+          "status": "in_stock_with_count",
           "price_cents": 14499
         }
       ]
@@ -17244,6 +17294,11 @@
           "t": "2026-05-31T02:24:25",
           "status": "in_stock",
           "price_cents": 19284
+        },
+        {
+          "t": "2026-10-28T19:00:39+00:00",
+          "status": "out_of_stock",
+          "price_cents": 19284
         }
       ]
     },
@@ -17614,6 +17669,11 @@
           "t": "2026-10-09T04:00:29+00:00",
           "status": "special_order",
           "price_cents": 33099
+        },
+        {
+          "t": "2026-10-28T19:00:38+00:00",
+          "status": "in_stock_with_count",
+          "price_cents": 33099
         }
       ]
     },
@@ -17783,6 +17843,11 @@
         {
           "t": "2026-09-21T00:01:05+00:00",
           "status": "special_order",
+          "price_cents": 30299
+        },
+        {
+          "t": "2026-10-28T19:01:13+00:00",
+          "status": "in_stock_with_count",
           "price_cents": 30299
         }
       ]
