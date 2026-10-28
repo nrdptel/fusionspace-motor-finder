@@ -25909,10 +25909,10 @@
     "price_high_cents": 11900
   },
   "https://lokiresearch.com/secure/storeDetail.asp?id=31620052424083": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T12:11:02+00:00",
-    "last_change_at": "2026-06-05T12:11:02+00:00",
+    "last_change_at": "2026-10-28T23:00:32+00:00",
     "last_in_stock_at": "2026-06-05T12:11:02+00:00",
     "last_restock_at": null,
     "restock_count": 0,
