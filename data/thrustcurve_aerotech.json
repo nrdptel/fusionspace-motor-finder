@@ -145,7 +145,7 @@
     "caseInfo": "RMS-24/40",
     "certOrg": "National Association of Rocketry",
     "commonName": "D9",
-    "dataFiles": 3,
+    "dataFiles": 4,
     "delayAdjustable": false,
     "delays": "4,5,7",
     "designation": "D9W",
