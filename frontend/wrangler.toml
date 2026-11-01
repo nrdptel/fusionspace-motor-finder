@@ -1,6 +1,8 @@
 name = "hpr-motor-finder"
 # Cloudflare Pages project. The static export lives in out/ (built by
-# `npm run build`); functions/api/alerts/** are auto-detected as Pages Functions.
+# `npm run build`); functions/** are auto-detected as Pages Functions: the alert
+# API (functions/api/alerts/**) and the public data API's origin check
+# (functions/api/v1/_middleware.ts, functions/availability.json.ts).
 pages_build_output_dir = "out"
 compatibility_date = "2024-11-01"
 # The alert Functions use only Web APIs (fetch + Web Crypto), but nodejs_compat
@@ -8,6 +10,7 @@ compatibility_date = "2024-11-01"
 # lib/alerts/* code resolves on the Workers runtime.
 compatibility_flags = ["nodejs_compat"]
 
-# Secrets/vars (UPSTASH_*, ZEPTOMAIL_*, ALERTS_*) and the public build vars
+# Secrets/vars (UPSTASH_*, ZEPTOMAIL_*, ALERTS_*, and API_ALLOWED_ORIGINS, the
+# comma-separated origins granted browser access to the API) and the public build vars
 # (NEXT_PUBLIC_SITE_URL, NEXT_PUBLIC_ALERTS_ENABLED) are configured in the
 # Cloudflare Pages dashboard / via the deploy workflow — NOT committed here.
