@@ -1,14 +1,20 @@
 # Public data API
 
-A free, read-only JSON API of the motor catalog — every AeroTech / Cesaroni /
-Loki motor we track, with per-vendor stock and pricing.
+A read-only JSON API of the motor catalog — every AeroTech / Cesaroni /
+Loki motor we track, with per-vendor stock and pricing. It's free for personal,
+non-commercial use and for FusionSpace's own tools; any other website, app or
+service, and any commercial use, needs written permission first. See
+[Terms](#terms).
 
 **Base URL:** `https://motor.fusionspace.co/api/v1/`
 
 It's served as **static files on a CDN** (Cloudflare Pages), so:
 
-- **No rate limits, no API key, no cost.** Hammer it as hard as you like.
-- **CORS-open** (`Access-Control-Allow-Origin: *`) — fetch it straight from a browser.
+- **No API key and no rate limits.**
+- **Browsers can call it only from fusionspace.co sites and sites granted
+  permission**; a browser request from any other site gets HTTP 403. Scripts,
+  servers and command-line tools, which send no `Origin` header, are served as
+  usual, and the terms cover them too. See [Browser access](#browser-access).
 - **Refreshed about hourly** (it regenerates on each deploy of the site). Read
   `meta.json` for the exact `generated_at` timestamp.
 - It's static JSON, so there are **no query parameters** — fetch a file and
@@ -33,8 +39,8 @@ by `frontend/lib/publicApi.test.ts`.
 [`GET /availability.json`](https://motor.fusionspace.co/availability.json) — one
 small (~30 KB) static file with a stock summary for **every** listed motor, so a
 client can badge a whole list ("in stock now · N vendors") from a single fetch
-instead of one page load per motor. Same origin CORS + ~10 min cache as the API;
-refreshed on the hourly build.
+instead of one page load per motor. Same [browser access](#browser-access) rule
+and ~10 min cache as the API; refreshed on the hourly build.
 
 ```jsonc
 {
@@ -143,28 +149,74 @@ curl -s https://motor.fusionspace.co/api/v1/meta.json | jq .generated_at
 ```
 
 ```js
-// Browser — CORS is open
+// Browser — from a fusionspace.co page or a site granted permission
 const { motors } = await (await fetch("https://motor.fusionspace.co/api/v1/in-stock.json")).json();
 const cti54 = motors.filter((m) => m.manufacturer === "Cesaroni Technology" && m.diameter_mm === 54);
 ```
 
-## Data licence
+## Browser access
 
-The API's responses, and the compilation of motor, listing, stock and price data
-in them, are licensed under
-[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-Attribute it as: **"Motor stock data from motor.fusionspace.co"**. Caching
-responses and storing recorded responses (for example as software test fixtures)
-is permitted under the licence.
+Browsers send an `Origin` header with cross-site requests, and the API answers
+by it. This applies to everything under `/api/v1/` and to `/availability.json`.
 
-Vendor names, prices, stock levels and product links are factual information
-gathered from the listed retailers, provided **as-is, with no warranty** of
-accuracy or availability; trademarks belong to their owners.
+| Request | Answer |
+|---|---|
+| `Origin: https://fusionspace.co` or `https://<name>.fusionspace.co` | The file, with `Access-Control-Allow-Origin` set to that origin and `Vary: Origin`. |
+| `Origin:` a site granted permission | The same. |
+| Any other `Origin`, including `null`, `http://` origins and lookalike domains | HTTP 403 with a short JSON body (below). |
+| No `Origin` header (curl, scripts, servers, a page fetching from its own site) | The file, as before, with no CORS header. |
+
+The rest of the site (its pages, `compare-data.json` and Next's page data) sends no
+`Access-Control-Allow-Origin` at all, so a browser on another site can't read those
+either. Links and images from other sites work as before.
+
+`OPTIONS` preflight requests get the same decision. The 403 body:
+
+```json
+{
+  "error": "origin_not_allowed",
+  "message": "Browser requests to this API from other websites need written permission. See the terms.",
+  "terms": "https://motor.fusionspace.co/api#terms"
+}
+```
+
+The check runs in two Cloudflare Pages Functions,
+`frontend/functions/api/v1/_middleware.ts` and
+`frontend/functions/availability.json.ts`; the rule itself is
+`frontend/lib/apiAccess.ts`, tested in `frontend/lib/apiAccess.test.ts`. Sites
+granted permission are listed, comma-separated and exact
+(`https://example.com`), in the Pages environment variable
+`API_ALLOWED_ORIGINS`.
 
 ## Terms
 
-Use of the data is covered by the [data licence](#data-licence) above. The data
-is aggregated from public vendor listings and [ThrustCurve](https://www.thrustcurve.org)
+These terms apply from **1 November 2026** to the data motor.fusionspace.co
+publishes: the API's responses, `/availability.json`, the site's pages, and the
+snapshot and history files under `data/` in this repository, including the
+compilation of motor, listing, stock and price data in them.
+
+- **Free for personal, non-commercial use**, and for FusionSpace's own tools.
+  Caching responses, and keeping recorded responses as test fixtures, is fine
+  within that use.
+- **Any other website, app or service, and any commercial use, needs written
+  permission first.** To ask, [open an issue on the GitHub
+  repository](https://github.com/nrdptel/fusionspace-motor-finder/issues). A
+  site that gets permission is added to the origins browsers may call the API
+  from.
+- **Credit** the data wherever it's shown: **"Motor stock data from
+  motor.fusionspace.co"**, linked to <https://motor.fusionspace.co>.
+- **Copies obtained before 1 November 2026** were published under
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and those copies
+  keep that licence: a Creative Commons licence can't be withdrawn. Data
+  obtained from 1 November 2026 on is under these terms.
+- **The code is separate.** It stays under the [MIT License](../LICENSE): fork
+  it, change it, and run your own copy that collects its own data. These terms
+  cover the data this site publishes, not the code.
+
+Vendor names, prices, stock levels and product links are factual information
+gathered from the listed retailers, provided **as-is, with no warranty** of
+accuracy or availability; trademarks belong to their owners. The data is
+aggregated from public vendor listings and [ThrustCurve](https://www.thrustcurve.org)
 — verify stock and price on the vendor's own page before relying on it.
 
 Please **use this API rather than scraping the vendors directly** — that's the

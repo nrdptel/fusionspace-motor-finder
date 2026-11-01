@@ -29,6 +29,9 @@ include = ["hpr_finder*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+# pytest-asyncio 1.x warns (an error here) unless the loop scope is set; "function"
+# is its future default, and no async fixture here is shared across tests.
+asyncio_default_fixture_loop_scope = "function"
 filterwarnings = [
     "error::DeprecationWarning",
 ]
