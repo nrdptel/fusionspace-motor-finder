@@ -4,10 +4,17 @@
 # the note in the original next.config.ts: the inline theme-init script would
 # need a per-request nonce/hash and a misconfigured CSP failing closed is a worse
 # risk than its marginal benefit here.)
+#
+# Pages also adds `Access-Control-Allow-Origin: *` to every static asset by
+# default. It is detached from every path: the pages and the files they load
+# (compare-data.json, Next's page data) carry the same stock data as the API,
+# and no other site needs to read them from a browser. Links, images and
+# server-side fetches don't use CORS and are unaffected.
 /*
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
+  ! Access-Control-Allow-Origin
 
 # The service worker must always be revalidated so a fresh build's worker is
 # picked up promptly — a cached sw.js would strand installed users on an old

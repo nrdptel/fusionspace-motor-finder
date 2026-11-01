@@ -166,6 +166,10 @@ by it. This applies to everything under `/api/v1/` and to `/availability.json`.
 | Any other `Origin`, including `null`, `http://` origins and lookalike domains | HTTP 403 with a short JSON body (below). |
 | No `Origin` header (curl, scripts, servers, a page fetching from its own site) | The file, as before, with no CORS header. |
 
+The rest of the site (its pages, `compare-data.json` and Next's page data) sends no
+`Access-Control-Allow-Origin` at all, so a browser on another site can't read those
+either. Links and images from other sites work as before.
+
 `OPTIONS` preflight requests get the same decision. The 403 body:
 
 ```json

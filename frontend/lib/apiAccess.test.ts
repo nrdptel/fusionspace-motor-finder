@@ -289,7 +289,7 @@ describe("wiring", () => {
     }
   });
 
-  it("keeps CORS out of public/_headers and detaches Pages' default from the API files", () => {
+  it("keeps CORS out of public/_headers and detaches Pages' default from every path", () => {
     // Parse _headers into { pattern: header lines } (comments and blanks dropped).
     const rules = new Map<string, string[]>();
     let current: string[] | null = null;
@@ -311,5 +311,8 @@ describe("wiring", () => {
       expect(rules.get(pattern), pattern).toContain("! Access-Control-Allow-Origin");
       expect(rules.get(pattern), pattern).toContain("Cache-Control: public, max-age=600");
     }
+    // The pages and the files they load (compare-data.json, Next's page data)
+    // carry the same data, so Pages' default `*` is detached from every path too.
+    expect(rules.get("/*"), "/*").toContain("! Access-Control-Allow-Origin");
   });
 });
