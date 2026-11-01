@@ -20,17 +20,22 @@
 # muster.fusionspace.co). Cached ~10 min; the data refreshes on the ~hourly
 # deploy, which also invalidates the edge copy.
 #
-# No Access-Control-* headers here, on purpose. Browser access is decided per
-# request by the Pages Functions in functions/api/v1/_middleware.ts and
-# functions/availability.json.ts (rule in lib/apiAccess.ts): fusionspace.co sites
-# and the origins in API_ALLOWED_ORIGINS get Access-Control-Allow-Origin, other
-# origins get 403. Those Functions serve the file through context.next(), which
-# still applies the rules in this file, so Cache-Control below holds. A wildcard
-# CORS line here would reach every response whenever the Functions don't run
-# (for example if the daily Functions allowance runs out and the project fails
-# open). Keep it out; lib/apiAccess.test.ts fails if one appears.
+# Browser access is decided per request by the Pages Functions in
+# functions/api/v1/_middleware.ts and functions/availability.json.ts (rule in
+# lib/apiAccess.ts): fusionspace.co sites and the origins in API_ALLOWED_ORIGINS
+# get Access-Control-Allow-Origin with their own origin, other origins get 403.
+# Those Functions serve the file through context.next(), which still applies the
+# rules in this file, so Cache-Control below holds.
+#
+# Pages adds `Access-Control-Allow-Origin: *` to every static asset by default;
+# the `!` lines detach it from the API files, so a browser on another site can't
+# read them even when the Functions don't run (for example if the daily
+# Functions allowance runs out and the project fails open). Never set it here;
+# lib/apiAccess.test.ts fails if a rule does, or if a `!` line goes missing.
 /availability.json
+  ! Access-Control-Allow-Origin
   Cache-Control: public, max-age=600
 
 /api/*
+  ! Access-Control-Allow-Origin
   Cache-Control: public, max-age=600

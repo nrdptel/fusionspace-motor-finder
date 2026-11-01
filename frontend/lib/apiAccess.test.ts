@@ -289,12 +289,27 @@ describe("wiring", () => {
     }
   });
 
-  it("keeps wildcard CORS out of public/_headers", () => {
-    const headers = readFileSync(resolve(root, "public/_headers"), "utf8");
-    const rules = headers
-      .split("\n")
-      .filter((line) => !line.trimStart().startsWith("#"))
-      .join("\n");
-    expect(rules).not.toMatch(/Access-Control-Allow-Origin/i);
+  it("keeps CORS out of public/_headers and detaches Pages' default from the API files", () => {
+    // Parse _headers into { pattern: header lines } (comments and blanks dropped).
+    const rules = new Map<string, string[]>();
+    let current: string[] | null = null;
+    for (const line of readFileSync(resolve(root, "public/_headers"), "utf8").split("\n")) {
+      if (!line.trim() || line.trimStart().startsWith("#")) continue;
+      if (!/^\s/.test(line)) {
+        current = [];
+        rules.set(line.trim(), current);
+      } else {
+        current?.push(line.trim());
+      }
+    }
+    for (const [pattern, lines] of rules) {
+      for (const line of lines) {
+        expect(line, `${pattern}: ${line}`).not.toMatch(/^Access-Control-Allow-Origin\s*:/i);
+      }
+    }
+    for (const pattern of ["/api/*", "/availability.json"]) {
+      expect(rules.get(pattern), pattern).toContain("! Access-Control-Allow-Origin");
+      expect(rules.get(pattern), pattern).toContain("Cache-Control: public, max-age=600");
+    }
   });
 });

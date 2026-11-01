@@ -143,7 +143,9 @@ export function deniedResponse(): Response {
  * Apply the origin rule to one request for a static API file. Allowed and
  * Origin-less requests go on to the asset via `next()`; the asset's own headers
  * (Cache-Control from `_headers`) are kept, any upstream
- * Access-Control-Allow-Origin is replaced, and `Vary: Origin` is added.
+ * Access-Control-Allow-Origin is replaced, and `Vary: Origin` is added. (Pages
+ * adds `Access-Control-Allow-Origin: *` to static assets by default; `_headers`
+ * detaches it from the API files, and the delete below is the second guard.)
  */
 export async function gateApiRequest(ctx: GateContext): Promise<Response> {
   const { request } = ctx;
