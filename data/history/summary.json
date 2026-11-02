@@ -2119,10 +2119,10 @@
     "price_high_cents": 7899
   },
   "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/38mm/dms-rocket-motors/aerotech-i140w-14a-white-lightning-dms-rocket-motor.html": {
-    "currently_in_stock": true,
-    "status_current": "in_stock_with_count",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-30T22:33:19",
-    "last_change_at": "2026-10-15T16:01:43+00:00",
+    "last_change_at": "2026-11-02T17:02:09+00:00",
     "last_in_stock_at": "2026-10-15T16:01:43+00:00",
     "last_restock_at": "2026-10-15T16:01:43+00:00",
     "restock_count": 1,
@@ -33683,10 +33683,10 @@
     "price_high_cents": 4300
   },
   "https://www.balsamachining.com/hpmp.htm#081414": {
-    "currently_in_stock": true,
-    "status_current": "in_stock_with_count",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:21+00:00",
-    "last_change_at": "2026-06-05T17:00:21+00:00",
+    "last_change_at": "2026-11-02T17:00:48+00:00",
     "last_in_stock_at": "2026-06-05T17:00:21+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -34242,10 +34242,10 @@
     "price_high_cents": 2600
   },
   "https://www.balsamachining.com/hpmp.htm#082414": {
-    "currently_in_stock": true,
-    "status_current": "in_stock_with_count",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:21+00:00",
-    "last_change_at": "2026-06-05T17:00:21+00:00",
+    "last_change_at": "2026-11-02T17:00:48+00:00",
     "last_in_stock_at": "2026-06-05T17:00:21+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -36647,10 +36647,10 @@
     "price_high_cents": 3999
   },
   "https://www.balsamachining.com/hpmp.htm#0928414": {
-    "currently_in_stock": true,
-    "status_current": "in_stock_with_count",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:21+00:00",
-    "last_change_at": "2026-06-05T17:00:21+00:00",
+    "last_change_at": "2026-11-02T17:00:48+00:00",
     "last_in_stock_at": "2026-06-05T17:00:21+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -39494,10 +39494,10 @@
     "price_high_cents": 13600
   },
   "https://www.balsamachining.com/hpmp.htm#105514": {
-    "currently_in_stock": true,
-    "status_current": "in_stock_with_count",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:21+00:00",
-    "last_change_at": "2026-08-26T21:00:27+00:00",
+    "last_change_at": "2026-11-02T17:00:48+00:00",
     "last_in_stock_at": "2026-08-26T21:00:27+00:00",
     "last_restock_at": "2026-08-26T21:00:27+00:00",
     "restock_count": 1,
@@ -42068,10 +42068,10 @@
     "price_high_cents": 23300
   },
   "https://www.balsamachining.com/hpmp.htm#11750P": {
-    "currently_in_stock": true,
-    "status_current": "in_stock_with_count",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:21+00:00",
-    "last_change_at": "2026-06-05T17:00:21+00:00",
+    "last_change_at": "2026-11-02T17:00:48+00:00",
     "last_in_stock_at": "2026-06-05T17:00:21+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -43446,10 +43446,10 @@
     "price_high_cents": 27999
   },
   "https://www.balsamachining.com/hpmp.htm#12152P": {
-    "currently_in_stock": true,
-    "status_current": "in_stock_with_count",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:21+00:00",
-    "last_change_at": "2026-06-05T17:00:21+00:00",
+    "last_change_at": "2026-11-02T17:00:48+00:00",
     "last_in_stock_at": "2026-06-05T17:00:21+00:00",
     "last_restock_at": null,
     "restock_count": 0,
