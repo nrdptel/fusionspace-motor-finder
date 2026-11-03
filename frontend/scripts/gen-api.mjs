@@ -7,12 +7,10 @@
 //   /api/v1/motors/<manufacturer>/<designation>.json   — one motor (mirrors the site's /motor URL)
 //   /api/v1/openapi.json                               — OpenAPI 3.1 spec for the above
 //
-// These are STATIC assets served by Cloudflare Pages' CDN, so the API has no
-// rate limit — it refreshes on the hourly deploy like the rest of the site.
-// Cache headers are set for `/api/*` in public/_headers. Every request first
-// passes through the Pages Functions in functions/api/v1/ and
-// functions/availability.json.ts, which apply the browser-origin rule in
-// lib/apiAccess.ts (so each one counts as a Functions request). See docs/api.md.
+// These are STATIC assets served by Cloudflare Pages (unlimited requests +
+// bandwidth, free, global CDN), so the API has no rate limit and no per-request
+// cost — it refreshes on the hourly deploy like the rest of the site. CORS +
+// cache headers are set for `/api/*` in public/_headers. See docs/api.md.
 //
 // The motor → public-shape mapping lives here (buildApi/toPublicMotor) and is
 // unit-tested via lib/publicApi.test.ts (which imports these exports), so the
@@ -38,8 +36,6 @@ import {
 export const SCHEMA_VERSION = 1;
 const MIN_CLASS = "D"; // match the site's catalog floor (mirror lib/derive MIN_CLASS)
 const SITE_URL = "https://motor.fusionspace.co";
-// The API page's terms section (also what lib/apiAccess.ts's 403 points to).
-const TERMS_URL = `${SITE_URL}/api#terms`;
 
 // Re-exported for lib/publicApi.test.ts, which imports these from this module.
 export { designationToSlug, hazmatStatus, manufacturerSlug };
@@ -175,15 +171,10 @@ export function buildApi(snapshot) {
     },
     docs: "https://github.com/nrdptel/Hobby-Rocket-Motor-Finder/blob/main/docs/api.md",
     license:
-      "Free for personal, non-commercial use and for FusionSpace's own tools; any other " +
-      "website, app or service, and any commercial use, needs written permission first. " +
-      "Credit: \"Motor stock data from motor.fusionspace.co\", linked. Terms apply from " +
-      "2026-11-01; copies obtained before then keep their CC BY 4.0 licence. Provided as-is, " +
-      `no warranty. Terms: ${TERMS_URL}`,
-    notes:
-      "Static JSON, refreshed ~hourly. No key, no rate limits. Browsers may call it only from " +
-      "fusionspace.co sites and origins granted permission; other origins get HTTP 403. " +
-      "Requests without an Origin header are served.",
+      "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Attribution: " +
+      "\"Motor stock data from motor.fusionspace.co\". Provided as-is, no warranty. " +
+      "See https://motor.fusionspace.co/api#data-licence",
+    notes: "Static JSON, refreshed ~hourly. CORS-enabled (Access-Control-Allow-Origin: *). No rate limits.",
   };
   return {
     meta,
@@ -300,17 +291,9 @@ export function buildOpenApi() {
       ...extra,
     },
   });
-  const errorBody = { "application/json": { schema: { $ref: "#/components/schemas/Error" } } };
-  const notFound = { description: "Not found", content: errorBody };
-  const forbidden = {
-    description:
-      "A browser request from a site without permission (an Origin other than fusionspace.co " +
-      "or a granted origin). Requests with no Origin header are not affected. See the terms.",
-    content: errorBody,
-  };
+  const notFound = { description: "Not found", content: { "application/json": { schema: { $ref: "#/components/schemas/Error" } } } };
   const ok = (ref) => ({
     "200": { description: "OK", content: { "application/json": { schema: { $ref: ref } } } },
-    "403": forbidden,
     "404": notFound,
   });
   const op = (operationId, summary, ref, extra = {}) => ({ operationId, summary, responses: ok(ref), ...extra });
@@ -320,12 +303,9 @@ export function buildOpenApi() {
       title: "HPR Motor Finder API",
       version: `${SCHEMA_VERSION}.0.0`,
       description:
-        "Read-only JSON of U.S. high-power rocket motor stock & pricing (AeroTech, " +
-        "Cesaroni, Loki). Static files on a CDN, refreshed ~hourly; no key, no rate limit. " +
-        "Free for personal, non-commercial use and for FusionSpace's own tools; other uses " +
-        "need written permission. Browsers may call it only from fusionspace.co sites and " +
-        "origins granted permission.",
-      license: { name: "Motor Finder data terms", url: TERMS_URL },
+        "Free, read-only JSON of U.S. high-power rocket motor stock & pricing (AeroTech, " +
+        "Cesaroni, Loki). Static files on a CDN — no key, no rate limit, CORS-open, refreshed ~hourly.",
+      license: { name: "CC BY 4.0", url: "https://creativecommons.org/licenses/by/4.0/" },
     },
     servers: [{ url: `${SITE_URL}/api/v1` }],
     paths: {
@@ -382,14 +362,7 @@ export function buildOpenApi() {
           vendors: { type: "array", items: { $ref: "#/components/schemas/Vendor" } },
         }),
         MotorResponse: stamped({ motor: { $ref: "#/components/schemas/Motor" } }),
-        Error: {
-          type: "object",
-          properties: {
-            error: { type: "string" },
-            message: { type: "string" },
-            terms: { type: "string", format: "uri" },
-          },
-        },
+        Error: { type: "object", properties: { error: { type: "string" } } },
       },
     },
   };
@@ -413,8 +386,8 @@ async function main() {
   };
   const api = buildApi(snapshot);
   await mkdir(outDir, { recursive: true });
-  // Bulk availability feed at the site root (Muster reads this cross-origin; its
-  // browser-origin check is functions/availability.json.ts). Written from the same api.
+  // Bulk availability feed at the site root (Muster reads this cross-origin; CORS
+  // for /availability.json is set in public/_headers). Written from the same api.
   const availability = buildAvailability(api);
   await writeFile(resolve(publicDir, "availability.json"), JSON.stringify(availability));
   await writeFile(resolve(outDir, "meta.json"), JSON.stringify(api.meta));

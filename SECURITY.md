@@ -17,8 +17,6 @@ are best-effort.
 
 In scope: the web app and its alert API (the Cloudflare Pages Functions in
 `frontend/functions/api/alerts/*` over the shared `frontend/lib/alerts/*`), the
-data API's browser-origin check (`frontend/functions/api/v1/_middleware.ts` and
-`frontend/functions/availability.json.ts` over `frontend/lib/apiAccess.ts`), the
 token/auth handling, and the scrape/snapshot pipeline.
 
 Out of scope: third-party services this project integrates with (ZeptoMail,

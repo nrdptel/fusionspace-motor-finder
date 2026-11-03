@@ -31,8 +31,7 @@ npm run test:e2e   # Playwright e2e against the exported ./out
 ## Deploying
 
 The app is a static export (`out/`) served by **Cloudflare Pages**, with the
-alert API routes and the data API's browser-origin check running as **Pages
-Functions** (`functions/`). The hourly
+alert API routes running as **Pages Functions** (`functions/`). The hourly
 scrape commits a fresh snapshot, and a GitHub Actions workflow rebuilds and runs
 `wrangler pages deploy`. See [docs/hosting.md](../docs/hosting.md)
 for the hosting layout.
