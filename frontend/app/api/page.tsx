@@ -5,13 +5,11 @@ import { SiteHeader } from "../components/SiteHeader";
 
 const GITHUB_DOCS =
   "https://github.com/nrdptel/Hobby-Rocket-Motor-Finder/blob/main/docs/api.md";
-const GITHUB_ISSUES = "https://github.com/nrdptel/fusionspace-motor-finder/issues";
-const LINK = "underline hover:text-zinc-900 dark:hover:text-zinc-100";
 
 export const metadata: Metadata = {
   title: "Developer API — HPR Motor Finder",
   description:
-    "A read-only JSON API of every AeroTech, Cesaroni & Loki motor we track, with per-vendor stock and pricing, refreshed hourly. Free for personal, non-commercial use; other uses need written permission.",
+    "A free, read-only JSON API of every AeroTech, Cesaroni & Loki motor we track, with per-vendor stock and pricing. No key, no rate limits, CORS-open, refreshed hourly.",
 };
 
 function Endpoint({ path, children }: { path: string; children: React.ReactNode }) {
@@ -44,26 +42,16 @@ export default function ApiPage() {
         Developer API
       </h1>
       <p className="mt-3 text-sm leading-relaxed text-zinc-600 dark:text-zinc-400">
-        A read-only JSON API of everything on this site — every AeroTech, Cesaroni &amp; Loki motor
-        we track, with per-vendor stock and pricing. It&apos;s free for personal, non-commercial use
-        and for FusionSpace&apos;s own tools; any other website, app or service, and any commercial
-        use, needs written permission first (see the{" "}
-        <a href="#terms" className={LINK}>
-          terms
-        </a>
-        ). It&apos;s plain static files on a CDN, so:
+        A free, read-only JSON API of everything on this site — every AeroTech, Cesaroni &amp; Loki
+        motor we track, with per-vendor stock and pricing. It&apos;s plain static files on a CDN, so:
       </p>
       <ul className="mt-3 list-disc space-y-1 pl-5 text-sm text-zinc-700 dark:text-zinc-300">
         <li>
-          <strong>No API key and no rate limits.</strong>
+          <strong>No API key, no rate limits, no cost.</strong> Use it as much as you like.
         </li>
         <li>
-          <strong>Browsers can call it only from fusionspace.co sites and sites granted
-          permission</strong>; other sites get HTTP 403. Scripts and servers are served as usual (
-          <a href="#browser-access" className={LINK}>
-            browser access
-          </a>
-          ).
+          <strong>CORS-open</strong> (<code className="font-mono text-xs">Access-Control-Allow-Origin: *</code>)
+          — call it straight from a browser.
         </li>
         <li>
           <strong>Refreshed about hourly.</strong> Check{" "}
@@ -168,8 +156,7 @@ curl -s https://motor.fusionspace.co/api/v1/in-stock.json \\
   | jq '.motors[] | select(.impulse_class=="H")
         | {designation, from: .cheapest_in_stock.unit_price_cents,
            vendor: .cheapest_in_stock.vendor}'`}</Code>
-          <Code>{`// Browser — from a fusionspace.co page or a site
-// granted permission
+          <Code>{`// Browser — CORS is open
 const res = await fetch("https://motor.fusionspace.co/api/v1/in-stock.json");
 const { motors } = await res.json();
 const cti54 = motors.filter(
@@ -177,104 +164,48 @@ const cti54 = motors.filter(
 );`}</Code>
         </section>
 
-        <section id="browser-access" className="scroll-mt-6">
-          <h2 className="text-base font-semibold text-zinc-900 dark:text-zinc-100">
-            Browser access
-          </h2>
+        <section id="data-licence" className="scroll-mt-6">
+          <h2 className="text-base font-semibold text-zinc-900 dark:text-zinc-100">Data licence</h2>
           <p className="mt-2">
-            Browsers send an <code className="font-mono text-xs">Origin</code> header with
-            cross-site requests, and the API (everything under{" "}
-            <code className="font-mono text-xs">/api/v1/</code>, and{" "}
-            <code className="font-mono text-xs">/availability.json</code>) answers by it:
+            The API&apos;s responses, and the compilation of motor, listing, stock and price data in
+            them, are licensed under{" "}
+            <a
+              href="https://creativecommons.org/licenses/by/4.0/"
+              target="_blank"
+              rel="noopener noreferrer license"
+              className="underline hover:text-zinc-900 dark:hover:text-zinc-100"
+            >
+              Creative Commons Attribution 4.0 International (CC BY 4.0)
+            </a>
+            . Attribute it as: <strong>&ldquo;Motor stock data from motor.fusionspace.co&rdquo;</strong>.
+            Caching responses and storing recorded responses (for example as software test fixtures)
+            is permitted under the licence.
           </p>
-          <ul className="mt-2 list-disc space-y-1 pl-5">
-            <li>
-              <strong>fusionspace.co and its subdomains</strong>, and sites granted permission: the
-              file, with <code className="font-mono text-xs">Access-Control-Allow-Origin</code> set to
-              that origin.
-            </li>
-            <li>
-              <strong>Any other site</strong>: HTTP 403, with a short JSON body (
-              <code className="font-mono text-xs">&quot;error&quot;: &quot;origin_not_allowed&quot;</code>
-              ) that links here.
-            </li>
-            <li>
-              <strong>No Origin header</strong> (curl, scripts, servers): the file, as usual. The
-              terms below still apply.
-            </li>
-          </ul>
-        </section>
-
-        <section id="terms" className="scroll-mt-6">
-          {/* Old links (and API copies from before 1 Nov 2026) point to #data-licence. */}
-          <span id="data-licence" className="block scroll-mt-6" aria-hidden="true" />
-          <h2 className="text-base font-semibold text-zinc-900 dark:text-zinc-100">Terms</h2>
           <p className="mt-2">
-            From <strong>1 November 2026</strong>, these terms cover the data this site publishes:
-            the API&apos;s responses, <code className="font-mono text-xs">/availability.json</code>,
-            the site&apos;s pages, and the snapshot and history files in the repository&apos;s{" "}
-            <code className="font-mono text-xs">data/</code> folder, including the compilation of
-            motor, listing, stock and price data in them.
+            From 2026-11-01 to 2026-11-03 the API ran under narrower terms and refused browsers on
+            other sites. Those terms are withdrawn: all of the data, including what was published in
+            those days, is under CC BY 4.0, and any site may call the API.
           </p>
-          <ul className="mt-2 list-disc space-y-1 pl-5">
-            <li>
-              <strong>Free for personal, non-commercial use</strong>, and for FusionSpace&apos;s own
-              tools. Caching responses, and keeping recorded responses as test fixtures, is fine
-              within that use.
-            </li>
-            <li>
-              <strong>Any other website, app or service, and any commercial use, needs written
-              permission first.</strong> To ask,{" "}
-              <a href={GITHUB_ISSUES} target="_blank" rel="noopener noreferrer" className={LINK}>
-                open an issue on the GitHub repository
-              </a>
-              . A site that gets permission is added to the origins browsers may call the API from.
-            </li>
-            <li>
-              <strong>Credit</strong> the data wherever it&apos;s shown:{" "}
-              <strong>&ldquo;Motor stock data from motor.fusionspace.co&rdquo;</strong>, linked to{" "}
-              <a href="https://motor.fusionspace.co" className={LINK}>
-                motor.fusionspace.co
-              </a>
-              .
-            </li>
-            <li>
-              <strong>Copies obtained before 1 November 2026</strong> were published under{" "}
-              <a
-                href="https://creativecommons.org/licenses/by/4.0/"
-                target="_blank"
-                rel="noopener noreferrer license"
-                className={LINK}
-              >
-                CC BY 4.0
-              </a>
-              , and those copies keep that licence: a Creative Commons licence can&apos;t be
-              withdrawn. Data obtained from 1 November 2026 on is under these terms.
-            </li>
-            <li>
-              <strong>The code is separate.</strong> It stays under the{" "}
-              <a
-                href="https://github.com/nrdptel/fusionspace-motor-finder/blob/main/LICENSE"
-                target="_blank"
-                rel="noopener noreferrer"
-                className={LINK}
-              >
-                MIT License
-              </a>
-              : fork it, change it, and run your own copy that collects its own data. These terms
-              cover the data this site publishes, not the code.
-            </li>
-          </ul>
           <p className="mt-2">
             Vendor names, prices, stock levels and product links are factual information gathered
             from the listed retailers, provided <strong>as-is, with no warranty</strong> of accuracy or
-            availability; trademarks belong to their owners. The data is aggregated from public
-            vendor listings and{" "}
+            availability; trademarks belong to their owners.
+          </p>
+        </section>
+
+        <section>
+          <h2 className="text-base font-semibold text-zinc-900 dark:text-zinc-100">Terms</h2>
+          <p className="mt-2">
+            Use of the data is covered by the{" "}
+            <a href="#data-licence" className="underline hover:text-zinc-900 dark:hover:text-zinc-100">
+              data licence
+            </a>{" "}
+            above. The data is aggregated from public vendor listings and{" "}
             <a
               href="https://www.thrustcurve.org"
               target="_blank"
               rel="noopener noreferrer"
-              className={LINK}
+              className="underline hover:text-zinc-900 dark:hover:text-zinc-100"
             >
               ThrustCurve
             </a>{" "}

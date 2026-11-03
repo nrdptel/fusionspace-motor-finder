@@ -29,12 +29,12 @@ The U.S. hobby motor shortage makes finding a specific impulse / diameter / prop
 - **History-powered buying signals** — a catalog badge flags motors that are *in stock now but rarely are* (grab it) vs. *often out* (the scarcity verdict only fires once a motor has been tracked for several days, and never on discontinued stock); each **in-stock** listing's price gets a marker vs. its own tracked history (`↓ lowest tracked` / `↓ price dropped` / `↑ above its low`). Cadence-sensitive stats are clipped to the reliable-scrape epoch; price min/max isn't, so it uses full history with a noise guard.
 - **Restock & last-in-stock history** plus **best-price-across-vendors** (compared per motor, so multipacks — some vendors sell small motors in 2/3/12-packs — are priced by the unit with the pack total noted), derived from successive hourly snapshots.
 - **Scrape-health monitoring** — catches silent breakages (carry-forward, sustained staleness, below-baseline count / in-stock / match-rate anomalies, a block served as a *successful* HTTP 200, and a registered vendor contributing zero listings) and opens a single auto-closing tracking issue ([details](docs/scrape-health.md)).
-- **Public JSON API** — the whole dataset (every motor + per-vendor stock and pricing) as static, no-key, **no-rate-limit** JSON, refreshed hourly; free for personal, non-commercial use, other uses by written permission ([docs](docs/api.md) · [terms](docs/api.md#terms) · [on the site](https://motor.fusionspace.co/api)).
+- **Free public JSON API** — the whole dataset (every motor + per-vendor stock and pricing) as static, CORS-open, no-key, **no-rate-limit** JSON, refreshed hourly ([docs](docs/api.md) · [on the site](https://motor.fusionspace.co/api)).
 - Plus a ★ watchlist, dark mode, and an on-page explainer of exactly how every figure is derived. Interactive behavior is covered by a headless-browser (Playwright) end-to-end suite in CI.
 
 ## API
 
-A read-only JSON API of everything on the site, served as static files on a CDN (**no key, no rate limit**) and refreshed on the hourly deploy. It's free for personal, non-commercial use and for FusionSpace's own tools; any other website, app or service, and any commercial use, needs written permission first ([terms](docs/api.md#terms)). Browsers can call it only from fusionspace.co sites and sites granted permission; other sites get HTTP 403, and scripts and servers that send no `Origin` header are served as usual ([browser access](docs/api.md#browser-access)).
+A free, read-only JSON API of everything on the site — served as static files on a CDN, so there's **no key, no rate limit, and no cost**, and it's `Access-Control-Allow-Origin: *` (call it from a browser). Refreshed on the hourly deploy.
 
 Base URL: `https://motor.fusionspace.co/api/v1/`
 
@@ -54,13 +54,13 @@ curl -s https://motor.fusionspace.co/api/v1/in-stock.json \
         | {designation, from: .cheapest_in_stock.unit_price_cents, vendor: .cheapest_in_stock.vendor}'
 ```
 
-Full field reference, schema, and terms: **[docs/api.md](docs/api.md)**. Since 1 November 2026 the data is under its own [terms](docs/api.md#terms) (credit: "Motor stock data from motor.fusionspace.co", linked), separate from the MIT licence on the code. Copies of the data obtained before then were published under CC BY 4.0 and keep that licence.
+Full field reference, schema, and terms: **[docs/api.md](docs/api.md)**. The API data is licensed [CC BY 4.0](docs/api.md#data-licence) (attribution: "Motor stock data from motor.fusionspace.co") — separate from the MIT licence on the code.
 
 ## Disclaimer
 
 A personal hobby project. Not affiliated with any vendor or manufacturer listed. Stock and price data are best-effort, often stale, and not authoritative — always confirm on the vendor's own site before purchasing. If you operate a listed vendor and would like the scraper changed or removed, please [open an issue](https://github.com/nrdptel/Hobby-Rocket-Motor-Finder/issues) and we'll comply.
 
-The code is released under the [MIT License](LICENSE) — fork it, modify it, deploy your own copy, no attribution required. The data this site publishes (the site, the API, and the snapshot and history files under `data/`) is not covered by the MIT License; it's under the [data terms](docs/api.md#terms).
+Released under the [MIT License](LICENSE) — fork it, modify it, deploy your own copy, no attribution required.
 
 ## What's covered
 
@@ -197,4 +197,4 @@ Issues and PRs are welcome — especially vendor parser fixes and new vendors. S
 
 ## License
 
-Code: [MIT](LICENSE). Data published by motor.fusionspace.co (the site, the API, and the snapshot and history files under `data/`): the [data terms](docs/api.md#terms).
+[MIT](LICENSE).
