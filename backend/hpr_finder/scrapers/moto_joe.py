@@ -63,7 +63,7 @@ _TAG_RE = re.compile(r"<[^>]+>")
 # Out-of-scope brands that Moto-Joe files under the Aerotech/Cesaroni categories
 # (Kosdon-by-AeroTech, AMW). They aren't in our catalog, so skip them rather than
 # leave them in the unmatched bucket. "Kodson" is a real misspelling on the site.
-# See [[project-manufacturer-scope-locked]].
+# See the scope note at the top of docs/HPR_Vendor_Report.md.
 _SKIP_BRAND_RE = re.compile(r"kosdon|kodson|\bamw\b", re.I)
 # Diameter: Cesaroni "Pro29", or "24mm", or AeroTech "98-7680" / "RMS-38".
 _DIAM_PRO_RE = re.compile(r"pro\s*(\d{2,3})", re.I)
