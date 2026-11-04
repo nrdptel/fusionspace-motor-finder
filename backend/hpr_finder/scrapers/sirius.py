@@ -6,7 +6,22 @@ lists every AeroTech product across all category trees in a single paginated
 view:
 
   /ishop/manufacturers/aerotech-1/                  page 1
-  /ishop/manufacturers/aerotech-1/index-N.html      pages 2..N
+  /ishop/manufacturers/aerotech-1/index-N?page=N    pages 2..N
+
+The store relaunched in late October 2026 on a new Zen Cart theme. What
+changed, and how this scraper copes:
+  * Links dropped the ``www.`` host and product links now carry the full
+    category path plus a ``?cPath=`` query
+    (``/ishop/<cat>/<subcat>/aerotech-...-2040.html?cPath=57_176_202``).
+    The old flat ``https://www.siriusrocketry.biz/ishop/<slug>-<id>.html``
+    form still resolves, so discovered links are canonicalised back to it —
+    that keeps listing URLs (and the price/stock history keyed on them)
+    stable across the redesign.
+  * Pagination moved from ``index-N.html`` (now a 404) to ``index-N?page=N``.
+  * The product price block and the add-to-cart box were renamed; and the
+    theme's inline CSS defines ``--zca_button_in_cart_*`` variables on every
+    page, so stock detection is scoped to the add-to-cart box (or, failing
+    that, the page with ``<style>`` stripped).
 
 Earlier versions BFS-crawled the HPR category tree
 (``/high-power-rocket-motors-hdw-57/``); that missed every D-G mid-power
@@ -48,7 +63,8 @@ log = logging.getLogger(__name__)
 
 BASE_URL = "https://www.siriusrocketry.biz"
 # Page 1 of the AeroTech manufacturer listing. Subsequent pages are at
-# /ishop/manufacturers/aerotech-1/index-N.html (N >= 2).
+# /ishop/manufacturers/aerotech-1/index-N?page=N (N >= 2). Asking for a page
+# past the end returns the last page again, so "no new URLs" ends the walk.
 MANUFACTURER_PAGE_URL = f"{BASE_URL}/ishop/manufacturers/aerotech-1/"
 # Hard cap on pagination — Sirius currently has 537 products (~11 pages at 50
 # per page). Cap well above that to survive growth without runaway loops.
@@ -60,15 +76,26 @@ MAX_MANUFACTURER_PAGES = 30
 # numeric ID is Zen Cart's product_id. Sirius's AeroTech manufacturer page
 # also lists cross-referenced Estes/Sirius items by this association; the
 # prefix filter screens those without an extra fetch.
+#
+# Accepts both the pre-relaunch flat form
+#   https://www.siriusrocketry.biz/ishop/aerotech-g138t-...-744.html
+# and the current nested form
+#   https://siriusrocketry.biz/ishop/<cat>/<subcat>/aerotech-...-2040.html?cPath=57_176_202
+# The single capture group is the product slug (``aerotech-...-2040.html``);
+# use ``_product_urls`` to turn matches into canonical URLs.
 PRODUCT_URL_RE = re.compile(
-    r'href="(' + re.escape(BASE_URL) + r'/ishop/(?:aerotech|enerjet-by-aerotech)[^"]+-\d+\.html)"'
+    # Info pages (/ishop/pages/aerotech-motor-types-14.html) share the slug
+    # shape; exclude that tree.
+    r'href="https?://(?:www\.)?siriusrocketry\.biz/ishop/(?!pages/)(?:[^"?#]*/)?'
+    r'((?:aerotech|enerjet-by-aerotech)[^"/?#]*-\d+\.html)(?:[?#][^"]*)?"'
 )
 # Total-product count from manufacturer page footer:
-#   <div ... navSplitPagesResult ...>Displaying <strong>1</strong> to
-#       <strong>50</strong> (of <strong>537</strong> Products)</div>
-# The intervening tags vary, so match loosely on "(of <strong>N</strong>".
+#   Displaying <strong>1</strong> to <strong>50</strong>
+#       (of <strong>529</strong> Products)
+# The wrapping div's class has changed between themes (navSplitPagesResult,
+# then topNumber), so anchor on the text instead.
 TOTAL_PRODUCTS_RE = re.compile(
-    r'navSplitPagesResult.*?\(of\s*<strong>(\d+)</strong>', re.I | re.S
+    r'Displaying\s*<strong>\d+</strong>.{0,80}?\(of\s*<strong>(\d+)</strong>', re.I | re.S
 )
 H1_RE = re.compile(r'<h1[^>]*>(.*?)</h1>', re.S)
 # Prices in Sirius's Zen Cart theme:
@@ -102,7 +129,18 @@ PRICE_RE = {
 # items), making that product's recorded price oscillate run-to-run as the
 # boxes rotate. Anchoring to the block returns the real price, or None when the
 # product genuinely shows no price — never a neighbor's.
-PRODUCT_PRICE_BLOCK_RE = re.compile(r'id="productPrices".*?eof Product Price block', re.S)
+#
+# The current theme renames it to a "price bottom card":
+#   <div id="productsPriceBottom-card" ...> ...prices... <!--eof products price bottom card-->
+# Both are accepted; the related-product boxes sit outside either one.
+PRODUCT_PRICE_BLOCK_RE = re.compile(
+    r'id="productPrices".*?eof Product Price block'
+    r'|id="productsPriceBottom-card".*?eof products price bottom card',
+    re.S,
+)
+# The add-to-cart box: ``button_in_cart`` (in stock) or ``button_sold_out``.
+ADD_TO_CART_BLOCK_RE = re.compile(r'id="cartAdd".*?eof add to cart card', re.S)
+STYLE_TAG_RE = re.compile(r"<style\b.*?</style>", re.S | re.I)
 SOLD_OUT_BUTTON_RE = re.compile(r'button_sold_out', re.I)
 IN_CART_BUTTON_RE = re.compile(r'button_in_cart', re.I)
 PRODUCT_ID_FROM_URL_RE = re.compile(r"-(\d+)\.html$")
@@ -115,6 +153,12 @@ def _has_products(resp) -> bool:
     the status code alone can't tell a real page from a wall. See
     ``PoliteAsyncClient.get``'s ``content_ok``."""
     return bool(PRODUCT_URL_RE.search(resp.text))
+
+
+def _product_urls(html: str) -> set[str]:
+    """Every AeroTech product link on a page, canonicalised to the flat
+    ``{BASE_URL}/ishop/<slug>-<id>.html`` form (see module docstring)."""
+    return {f"{BASE_URL}/ishop/{slug}" for slug in PRODUCT_URL_RE.findall(html)}
 
 
 class SiriusScraper(Scraper):
@@ -154,8 +198,8 @@ class SiriusScraper(Scraper):
     async def _crawl_for_products(self, client: PoliteAsyncClient) -> set[str]:
         """Paginate the AeroTech manufacturer page and collect every product URL.
 
-        Walks ``/ishop/manufacturers/aerotech-1/`` then ``index-2.html``,
-        ``index-3.html``, ... stopping when a page returns no product URLs
+        Walks ``/ishop/manufacturers/aerotech-1/`` then ``index-2?page=2``,
+        ``index-3?page=3``, ... stopping when a page returns no product URLs
         not already seen (so a single empty page → done). On page 1 we also
         parse the "(of N Products)" total and log it for sanity-checking
         against the count we return.
@@ -170,7 +214,7 @@ class SiriusScraper(Scraper):
             url = (
                 MANUFACTURER_PAGE_URL
                 if page == 1
-                else f"{MANUFACTURER_PAGE_URL}index-{page}.html"
+                else f"{MANUFACTURER_PAGE_URL}index-{page}?page={page}"
             )
             try:
                 # Page 1 always lists products, so a page-1 body with no product
@@ -193,7 +237,7 @@ class SiriusScraper(Scraper):
                     expected_total = int(total_match.group(1))
                     log.info("sirius: manufacturer page reports %d total products", expected_total)
 
-            new = set(PRODUCT_URL_RE.findall(html)) - product_urls
+            new = _product_urls(html) - product_urls
             if not new:
                 # End of pagination: this page yielded no products we haven't
                 # already seen on a prior page.
@@ -279,8 +323,14 @@ def _extract_price_cents(html: str) -> int | None:
 
 
 def _classify_status(html: str, title: str) -> StockStatus:
-    has_sold_out = bool(SOLD_OUT_BUTTON_RE.search(html))
-    has_in_cart = bool(IN_CART_BUTTON_RE.search(html))
+    # Look only at the add-to-cart box when there is one. Otherwise search the
+    # page minus <style> blocks: the current theme's CSS declares
+    # ``--zca_button_in_cart_*`` variables on every page, which would read as
+    # "in stock" everywhere.
+    cart = ADD_TO_CART_BLOCK_RE.search(html)
+    scope = cart.group(0) if cart else STYLE_TAG_RE.sub("", html)
+    has_sold_out = bool(SOLD_OUT_BUTTON_RE.search(scope))
+    has_in_cart = bool(IN_CART_BUTTON_RE.search(scope))
     is_special_order = "special order" in title.lower()
     if is_special_order:
         return StockStatus.SPECIAL_ORDER

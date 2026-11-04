@@ -29,6 +29,7 @@ from hpr_finder.scrapers.sirius import (
     _extract_price_cents,
     _has_products,
     _product_id_from_url,
+    _product_urls,
 )
 
 FIXTURES = Path(__file__).parent / "fixtures"
@@ -442,3 +443,92 @@ async def test_blocked_discovery_escalates_to_the_relay_end_to_end():
         "https://www.siriusrocketry.biz/ishop/aerotech-g138t-14a-hpr-reload-kit-hazmat-744.html",
         "https://www.siriusrocketry.biz/ishop/aerotech-h112j-hpr-reload-kit-901.html",
     }
+
+
+# --- 2026 store relaunch (new theme, nested URLs, new pagination) -------------
+#
+# Fixtures captured from the live store on 2026-11-04, after the late-October
+# relaunch broke discovery (zero products found) and would have misread stock.
+
+
+def test_2026_in_stock_price_and_status():
+    html = _load("sirius_2026_f23_instock.html")
+    title = _extract_title(html)
+    assert "F23-7FJ" in title
+    assert _extract_price_cents(html) == 3827  # Sale: $38.27, not the $43.99 list
+    assert _classify_status(html, title) is StockStatus.IN_STOCK
+
+
+def test_2026_sold_out_is_not_misread_as_in_stock():
+    """The new theme's inline CSS defines ``--zca_button_in_cart_*`` variables
+    on every page; a whole-page search would call every product in stock."""
+    html = _load("sirius_2026_d15_oos.html")
+    title = _extract_title(html)
+    assert "D15-4T" in title
+    assert _extract_price_cents(html) == 2696
+    assert _classify_status(html, title) is StockStatus.OUT_OF_STOCK
+
+
+def test_2026_special_order_price_and_status():
+    html = _load("sirius_2026_o5280x_special.html")
+    title = _extract_title(html)
+    assert "O5280X-PS" in title
+    assert _extract_price_cents(html) == 297989  # productSpecialPrice $2,979.89
+    assert _classify_status(html, title) is StockStatus.SPECIAL_ORDER
+
+
+def test_2026_price_ignores_also_purchased_box():
+    # The special-order page's "also purchased" box shows a J435 at $121.49.
+    assert _extract_price_cents(_load("sirius_2026_o5280x_special.html")) != 12149
+
+
+def test_classify_status_ignores_css_variables_without_cart_box():
+    html = (
+        "<style>:root { --zca_button_in_cart_background_color: #036811; }</style>"
+        "<p>no cart box</p>"
+    )
+    assert _classify_status(html, "Aerotech H100W") is StockStatus.UNKNOWN
+
+
+def test_2026_nested_product_links_are_canonicalised_to_flat_urls():
+    html = (
+        '<a href="https://siriusrocketry.biz/ishop/high-power-rocket-motors-hdw-57/'
+        "aerotech-level-3-single-use-176/98mm-level-3-su-special-order-202/"
+        'aerotech-high-power-o5280x-ps-98mm-dms-hazmat-special-order-2040.html?cPath=57_176_202">'
+    )
+    assert _product_urls(html) == {
+        "https://www.siriusrocketry.biz/ishop/"
+        "aerotech-high-power-o5280x-ps-98mm-dms-hazmat-special-order-2040.html"
+    }
+
+
+def test_2026_non_aerotech_and_non_product_links_skipped():
+    html = (
+        '<a href="https://siriusrocketry.biz/ishop/manufacturers/aerotech-1/index-2?page=2">'
+        '<a href="https://siriusrocketry.biz/ishop/pages/aerotech-motor-types-14.html">'
+        '<a href="https://siriusrocketry.biz/ishop/reviews/aerotech-mantis-launch-pad-163/customers-review-52">'
+        '<a href="https://siriusrocketry.biz/ishop/estes-rockets-3/estes-alpha-iii-101.html?cPath=3">'
+    )
+    assert _product_urls(html) == set()
+
+
+def test_2026_manufacturer_page_discovery():
+    html = _load("sirius_2026_manufacturer_page1.html")
+    assert _has_products(_FakeResp(html))
+    urls = _product_urls(html)
+    assert len(urls) >= 50
+    assert all(u.startswith("https://www.siriusrocketry.biz/ishop/") and "?" not in u for u in urls)
+    assert TOTAL_PRODUCTS_RE.search(html).group(1) == "529"
+
+
+@pytest.mark.asyncio
+async def test_2026_pagination_uses_query_page_urls():
+    requested: list[str] = []
+
+    class _Client:
+        async def get(self, url, **kwargs):
+            requested.append(url)
+            return _FakeResp(_MANUFACTURER_PAGE_1 if "index-" not in url else "<html></html>")
+
+    await SiriusScraper()._crawl_for_products(_Client())
+    assert requested[1].endswith("/aerotech-1/index-2?page=2")

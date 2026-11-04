@@ -65,7 +65,7 @@ _NON_MOTOR_RE = re.compile(
 # Out-of-scope brands sold on the AeroTech/Quest store. Quest Q-Jet / MicroMaxx
 # are a different manufacturer (not in our catalog), so they'd only land in the
 # unmatched bucket — skip them to keep this an AeroTech-only feed. See
-# [[project-manufacturer-scope-locked]].
+# the scope note at the top of docs/HPR_Vendor_Report.md.
 _SKIP_BRAND_RE = re.compile(r"\bquest\b|q-?jet|micro\s*maxx", re.I)
 
 
