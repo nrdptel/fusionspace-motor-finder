@@ -5057,10 +5057,10 @@
     "price_high_cents": 3599
   },
   "https://wildmanrocketry.com/products/f27-4r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:18",
-    "last_change_at": "2026-07-01T18:00:30+00:00",
+    "last_change_at": "2026-11-04T19:00:53+00:00",
     "last_in_stock_at": "2026-07-01T18:00:30+00:00",
     "last_restock_at": null,
     "restock_count": 0,
