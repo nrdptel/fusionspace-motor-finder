@@ -17693,10 +17693,10 @@
     "price_high_cents": 29789
   },
   "https://www.siriusrocketry.biz/ishop/aerotech-high-power-k990dm-14a-reload-kit-hazmat-1784.html": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T04:27:14",
-    "last_change_at": "2026-07-03T19:30:44+00:00",
+    "last_change_at": "2026-11-05T00:05:42+00:00",
     "last_in_stock_at": "2026-07-03T19:30:44+00:00",
     "last_restock_at": null,
     "restock_count": 0,
