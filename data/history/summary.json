@@ -4667,10 +4667,10 @@
     "price_high_cents": 4949
   },
   "https://wildmanrocketry.com/products/f20-7w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:16",
-    "last_change_at": "2026-07-01T18:00:30+00:00",
+    "last_change_at": "2026-11-05T17:00:40+00:00",
     "last_in_stock_at": "2026-07-01T18:00:30+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -8528,10 +8528,10 @@
     "price_high_cents": 4749
   },
   "https://wildmanrocketry.com/products/h210r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:47",
-    "last_change_at": "2026-07-01T21:00:30+00:00",
+    "last_change_at": "2026-11-05T17:00:40+00:00",
     "last_in_stock_at": "2026-07-01T21:00:30+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -8606,10 +8606,10 @@
     "price_high_cents": 6199
   },
   "https://wildmanrocketry.com/products/h220t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:47",
-    "last_change_at": "2026-07-01T21:00:30+00:00",
+    "last_change_at": "2026-11-05T17:00:40+00:00",
     "last_in_stock_at": "2026-07-01T21:00:30+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -9724,10 +9724,10 @@
     "price_high_cents": 6934
   },
   "https://wildmanrocketry.com/products/i229t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:52",
-    "last_change_at": "2026-07-01T22:00:29+00:00",
+    "last_change_at": "2026-11-05T17:00:40+00:00",
     "last_in_stock_at": "2026-07-01T22:00:29+00:00",
     "last_restock_at": null,
     "restock_count": 0,
