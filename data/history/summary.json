@@ -6955,10 +6955,10 @@
     "price_high_cents": 3949
   },
   "https://wildmanrocketry.com/products/g64-10w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:38",
-    "last_change_at": "2026-07-01T18:00:30+00:00",
+    "last_change_at": "2026-11-08T16:03:34+00:00",
     "last_in_stock_at": "2026-07-01T18:00:30+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -23933,10 +23933,10 @@
     "price_high_cents": 33789
   },
   "https://wildmanrocketry.com/products/pr75-3g-cs": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-03T02:38:56+00:00",
-    "last_change_at": "2026-09-02T22:00:38+00:00",
+    "last_change_at": "2026-11-08T16:03:34+00:00",
     "last_in_stock_at": "2026-09-02T22:00:38+00:00",
     "last_restock_at": "2026-09-02T22:00:38+00:00",
     "restock_count": 1,
