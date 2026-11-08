@@ -4784,10 +4784,10 @@
     "price_high_cents": 2299
   },
   "https://www.buyrocketmotors.com/products/aerotech-f23-fast-jack-econojet-29-mm-single-use-2-pack?variant=50855180140841": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T02:23:53",
-    "last_change_at": "2026-05-31T02:23:53",
+    "last_change_at": "2026-11-08T21:00:30+00:00",
     "last_in_stock_at": "2026-05-31T02:23:53",
     "last_restock_at": null,
     "restock_count": 0,
@@ -6279,10 +6279,10 @@
     "price_high_cents": 3449
   },
   "https://www.buyrocketmotors.com/products/aerotech-f67-c-classic-enerjet-single-use-motor-2-pack?variant=50855317995817": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T02:23:56",
-    "last_change_at": "2026-05-31T02:23:56",
+    "last_change_at": "2026-11-08T21:00:30+00:00",
     "last_in_stock_at": "2026-05-31T02:23:56",
     "last_restock_at": null,
     "restock_count": 0,
