@@ -30056,10 +30056,10 @@
     "price_high_cents": 4100
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=32902113819491#White%201%20grain%20137-G58-13A": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:35+00:00",
-    "last_change_at": "2026-08-31T18:01:05+00:00",
+    "last_change_at": "2026-11-09T07:00:48+00:00",
     "last_in_stock_at": "2026-08-31T18:01:05+00:00",
     "last_restock_at": "2026-08-31T18:01:05+00:00",
     "restock_count": 1,
@@ -30160,10 +30160,10 @@
     "price_high_cents": 4100
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=32902113819491#White%20Thunder%201%20grain%20141-G115-13A": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:35+00:00",
-    "last_change_at": "2026-08-31T18:01:05+00:00",
+    "last_change_at": "2026-11-09T07:00:48+00:00",
     "last_in_stock_at": "2026-08-31T18:01:05+00:00",
     "last_restock_at": "2026-08-31T18:01:05+00:00",
     "restock_count": 1,
@@ -37986,10 +37986,10 @@
     "price_high_cents": 11600
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=101502105556613#806-J240-16A%20-%20Red_Lightning": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:36+00:00",
-    "last_change_at": "2026-08-31T19:00:37+00:00",
+    "last_change_at": "2026-11-09T07:00:49+00:00",
     "last_in_stock_at": "2026-08-31T19:00:37+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -38038,10 +38038,10 @@
     "price_high_cents": 11600
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=101502105556613#J430%20White%20Thunder": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:36+00:00",
-    "last_change_at": "2026-08-31T21:00:41+00:00",
+    "last_change_at": "2026-11-09T07:00:49+00:00",
     "last_in_stock_at": "2026-08-31T21:00:41+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -38090,10 +38090,10 @@
     "price_high_cents": 11800
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=101502105556613#838-J293-13A%20-%20Blue_Streak": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:36+00:00",
-    "last_change_at": "2026-08-31T19:00:37+00:00",
+    "last_change_at": "2026-11-09T07:00:49+00:00",
     "last_in_stock_at": "2026-08-31T19:00:37+00:00",
     "last_restock_at": null,
     "restock_count": 0,
