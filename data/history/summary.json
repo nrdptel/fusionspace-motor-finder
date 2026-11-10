@@ -6435,17 +6435,17 @@
     "price_high_cents": 3149
   },
   "https://www.buyrocketmotors.com/products/aerotech-g104t-14a-blue-thunder-rms-29-100?variant=50855197770025": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:23:57",
-    "last_change_at": "2026-05-31T02:23:57",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 2659,
-    "price_prev_cents": null,
-    "price_low_cents": 2659,
-    "price_high_cents": 2659
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 3149,
+    "price_prev_cents": 2659,
+    "price_low_cents": 3149,
+    "price_high_cents": 3149
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1413&virtuemart_category_id=132&Itemid=533": {
     "currently_in_stock": false,
@@ -6997,40 +6997,40 @@
     "currently_in_stock": false,
     "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T02:23:59",
-    "last_change_at": "2026-05-31T02:23:59",
+    "last_change_at": "2026-11-10T00:04:30+00:00",
     "last_in_stock_at": null,
     "last_restock_at": null,
     "restock_count": 0,
-    "price_current_cents": 2079,
-    "price_prev_cents": null,
-    "price_low_cents": 2079,
-    "price_high_cents": 2079
+    "price_current_cents": 2949,
+    "price_prev_cents": 2079,
+    "price_low_cents": 2949,
+    "price_high_cents": 2949
   },
   "https://www.buyrocketmotors.com/products/aerotech-g64-white-lightning-rms-29-40-120?variant=50855171162409": {
     "currently_in_stock": false,
     "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T02:23:59",
-    "last_change_at": "2026-08-12T13:00:28+00:00",
+    "last_change_at": "2026-11-10T00:04:30+00:00",
     "last_in_stock_at": "2026-07-16T02:00:37+00:00",
     "last_restock_at": "2026-07-16T02:00:37+00:00",
     "restock_count": 1,
-    "price_current_cents": 2079,
-    "price_prev_cents": null,
-    "price_low_cents": 2079,
-    "price_high_cents": 2079
+    "price_current_cents": 2949,
+    "price_prev_cents": 2079,
+    "price_low_cents": 2949,
+    "price_high_cents": 2949
   },
   "https://www.buyrocketmotors.com/products/aerotech-g64-white-lightning-rms-29-40-120?variant=50855171195177": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:23:59",
-    "last_change_at": "2026-05-31T02:23:59",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 2079,
-    "price_prev_cents": null,
-    "price_low_cents": 2079,
-    "price_high_cents": 2079
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 2949,
+    "price_prev_cents": 2079,
+    "price_low_cents": 2949,
+    "price_high_cents": 2949
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1405&virtuemart_category_id=130&Itemid=533": {
     "currently_in_stock": false,
@@ -7085,17 +7085,17 @@
     "price_high_cents": 3949
   },
   "https://www.buyrocketmotors.com/products/aerotech-g67r-14a-redline?variant=50855047758121": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:23:59",
-    "last_change_at": "2026-05-31T02:23:59",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 3324,
-    "price_prev_cents": null,
-    "price_low_cents": 3324,
-    "price_high_cents": 3324
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 3949,
+    "price_prev_cents": 3324,
+    "price_low_cents": 3949,
+    "price_high_cents": 3949
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1429&virtuemart_category_id=137&Itemid=533": {
     "currently_in_stock": false,
@@ -7501,17 +7501,17 @@
     "price_high_cents": 4399
   },
   "https://www.buyrocketmotors.com/products/aerotech-g77r-14a-redline-rms-29-120?variant=50855189938473": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:01",
-    "last_change_at": "2026-05-31T02:24:01",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 2944,
-    "price_prev_cents": null,
-    "price_low_cents": 2944,
-    "price_high_cents": 2944
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 3499,
+    "price_prev_cents": 2944,
+    "price_low_cents": 3499,
+    "price_high_cents": 3499
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1329&virtuemart_category_id=124&Itemid=533": {
     "currently_in_stock": true,
@@ -7865,56 +7865,56 @@
     "price_high_cents": 4399
   },
   "https://www.buyrocketmotors.com/products/aerotech-g80-14a-new-blue-thunder-29-mm-dms?variant=50855108280617": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:01",
-    "last_change_at": "2026-05-31T02:24:01",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 3119,
-    "price_prev_cents": null,
-    "price_low_cents": 3119,
-    "price_high_cents": 3119
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 4399,
+    "price_prev_cents": 3119,
+    "price_low_cents": 4399,
+    "price_high_cents": 4399
   },
   "https://www.buyrocketmotors.com/products/aerotech-g80-blue-thunder-29-mm-single-use?variant=50855193936169": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:02",
-    "last_change_at": "2026-05-31T02:24:02",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 3119,
-    "price_prev_cents": null,
-    "price_low_cents": 3119,
-    "price_high_cents": 3119
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 4399,
+    "price_prev_cents": 3119,
+    "price_low_cents": 4399,
+    "price_high_cents": 4399
   },
   "https://www.buyrocketmotors.com/products/aerotech-g80-blue-thunder-29-mm-single-use?variant=50855193968937": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:02",
-    "last_change_at": "2026-05-31T02:24:02",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 3119,
-    "price_prev_cents": null,
-    "price_low_cents": 3119,
-    "price_high_cents": 3119
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 4399,
+    "price_prev_cents": 3119,
+    "price_low_cents": 4399,
+    "price_high_cents": 4399
   },
   "https://www.buyrocketmotors.com/products/aerotech-g80-blue-thunder-29-mm-single-use?variant=50855194001705": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:02",
-    "last_change_at": "2026-05-31T02:24:02",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 3119,
-    "price_prev_cents": null,
-    "price_low_cents": 3119,
-    "price_high_cents": 3119
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 4399,
+    "price_prev_cents": 3119,
+    "price_low_cents": 4399,
+    "price_high_cents": 4399
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1286&virtuemart_category_id=104&Itemid=533": {
     "currently_in_stock": false,
@@ -8385,17 +8385,17 @@
     "price_high_cents": 5299
   },
   "https://www.buyrocketmotors.com/products/aerotech-h169-13a-super-white-lightning-29-mm-dms?variant=50855253442857": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:04",
-    "last_change_at": "2026-05-31T02:24:04",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 4464,
-    "price_prev_cents": null,
-    "price_low_cents": 4464,
-    "price_high_cents": 4464
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 5299,
+    "price_prev_cents": 4464,
+    "price_low_cents": 5299,
+    "price_high_cents": 5299
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1288&virtuemart_category_id=104&Itemid=533": {
     "currently_in_stock": false,
@@ -8775,17 +8775,17 @@
     "price_high_cents": 5849
   },
   "https://www.buyrocketmotors.com/products/aerotech-h268r-14a-redline?variant=50855046676777": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:07",
-    "last_change_at": "2026-05-31T02:24:07",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 4939,
-    "price_prev_cents": null,
-    "price_low_cents": 4939,
-    "price_high_cents": 4939
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 5849,
+    "price_prev_cents": 4939,
+    "price_low_cents": 5849,
+    "price_high_cents": 5849
   },
   "https://wildmanrocketry.com/products/h283st": {
     "currently_in_stock": false,
@@ -8996,17 +8996,17 @@
     "price_high_cents": 5299
   },
   "https://www.buyrocketmotors.com/products/aerotech-h135-14a-white-lightning-29-mm-dms?variant=50855109919017": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:03",
-    "last_change_at": "2026-07-27T19:02:01+00:00",
-    "last_in_stock_at": "2026-06-12T16:01:44+00:00",
-    "last_restock_at": "2026-06-12T16:01:44+00:00",
-    "restock_count": 1,
-    "price_current_cents": 4464,
-    "price_prev_cents": null,
-    "price_low_cents": 4464,
-    "price_high_cents": 4464
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 2,
+    "price_current_cents": 5299,
+    "price_prev_cents": 4464,
+    "price_low_cents": 5299,
+    "price_high_cents": 5299
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1237&virtuemart_category_id=104&Itemid=533": {
     "currently_in_stock": false,
@@ -9113,17 +9113,17 @@
     "price_high_cents": 7899
   },
   "https://www.buyrocketmotors.com/products/aerotech-h45-p-white-lightning-38-mm-dms?variant=50855112311081": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:07",
-    "last_change_at": "2026-05-31T02:24:07",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 5984,
-    "price_prev_cents": null,
-    "price_low_cents": 5984,
-    "price_high_cents": 5984
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 7899,
+    "price_prev_cents": 5984,
+    "price_low_cents": 7899,
+    "price_high_cents": 7899
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1254&virtuemart_category_id=104&Itemid=533": {
     "currently_in_stock": false,
@@ -9815,17 +9815,17 @@
     "price_high_cents": 9299
   },
   "https://www.buyrocketmotors.com/products/aerotech-i284w-14a-38mm-rms-plus-white-lightning?variant=50855061979433": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:12",
-    "last_change_at": "2026-05-31T02:24:12",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 7884,
-    "price_prev_cents": null,
-    "price_low_cents": 7884,
-    "price_high_cents": 7884
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 9299,
+    "price_prev_cents": 7884,
+    "price_low_cents": 9299,
+    "price_high_cents": 9299
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1456&virtuemart_category_id=141&Itemid=533": {
     "currently_in_stock": false,
@@ -10569,17 +10569,17 @@
     "price_high_cents": 12399
   },
   "https://www.buyrocketmotors.com/products/aerotech-j315r-14a-redline?variant=50855075741993": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:17",
-    "last_change_at": "2026-08-03T21:00:30+00:00",
-    "last_in_stock_at": "2026-07-30T17:00:31+00:00",
-    "last_restock_at": "2026-07-30T17:00:31+00:00",
-    "restock_count": 1,
-    "price_current_cents": 10449,
-    "price_prev_cents": null,
-    "price_low_cents": 10449,
-    "price_high_cents": 10449
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 2,
+    "price_current_cents": 12399,
+    "price_prev_cents": 10449,
+    "price_low_cents": 12399,
+    "price_high_cents": 12399
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1483&virtuemart_category_id=146&Itemid=533": {
     "currently_in_stock": false,
@@ -10738,17 +10738,17 @@
     "price_high_cents": 10799
   },
   "https://www.buyrocketmotors.com/products/aerotech-j420r-14a-redline?variant=50855066829097": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:18",
-    "last_change_at": "2026-05-31T02:24:18",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 9119,
-    "price_prev_cents": null,
-    "price_low_cents": 9119,
-    "price_high_cents": 9119
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 10799,
+    "price_prev_cents": 9119,
+    "price_low_cents": 10799,
+    "price_high_cents": 10799
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1465&virtuemart_category_id=142&Itemid=533": {
     "currently_in_stock": false,
@@ -10777,17 +10777,17 @@
     "price_high_cents": 13499
   },
   "https://www.buyrocketmotors.com/products/aerotech-j435-14a-super-white-lightning-38-mm-dms?variant=50855204487465": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:18",
-    "last_change_at": "2026-05-31T02:24:18",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 9784,
-    "price_prev_cents": null,
-    "price_low_cents": 9784,
-    "price_high_cents": 9784
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 13499,
+    "price_prev_cents": 9784,
+    "price_low_cents": 13499,
+    "price_high_cents": 13499
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1234&virtuemart_category_id=104&Itemid=533": {
     "currently_in_stock": false,
@@ -10816,17 +10816,17 @@
     "price_high_cents": 18899
   },
   "https://www.buyrocketmotors.com/products/aerotech-j450-14a-metalstorm-dark-matter-54-mm-dms?variant=50855204716841": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:18",
-    "last_change_at": "2026-05-31T02:24:18",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 15959,
-    "price_prev_cents": null,
-    "price_low_cents": 15959,
-    "price_high_cents": 15959
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 18899,
+    "price_prev_cents": 15959,
+    "price_low_cents": 18899,
+    "price_high_cents": 18899
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1248&virtuemart_category_id=104&Itemid=533": {
     "currently_in_stock": false,
@@ -10855,17 +10855,17 @@
     "price_high_cents": 12399
   },
   "https://www.buyrocketmotors.com/products/aerotech-j460t-14a-blue-thunder?variant=50855076266281": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:18",
-    "last_change_at": "2026-05-31T02:24:18",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 10449,
-    "price_prev_cents": null,
-    "price_low_cents": 10449,
-    "price_high_cents": 10449
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 12399,
+    "price_prev_cents": 10449,
+    "price_low_cents": 12399,
+    "price_high_cents": 12399
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1484&virtuemart_category_id=146&Itemid=533": {
     "currently_in_stock": false,
@@ -12129,17 +12129,17 @@
     "price_high_cents": 19499
   },
   "https://www.buyrocketmotors.com/products/aerotech-k750st-ps-super-thunder?variant=50855087440169": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:25",
-    "last_change_at": "2026-05-31T02:24:25",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 16529,
-    "price_prev_cents": null,
-    "price_low_cents": 16529,
-    "price_high_cents": 16529
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 19499,
+    "price_prev_cents": 16529,
+    "price_low_cents": 19499,
+    "price_high_cents": 19499
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1687&virtuemart_category_id=151&Itemid=533": {
     "currently_in_stock": true,
@@ -12168,17 +12168,17 @@
     "price_high_cents": 22799
   },
   "https://www.buyrocketmotors.com/products/aerotech-k780r-p-redline?variant=50855088980265": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:25",
-    "last_change_at": "2026-08-26T01:00:22+00:00",
-    "last_in_stock_at": "2026-08-24T18:00:25+00:00",
-    "last_restock_at": "2026-08-24T18:00:25+00:00",
-    "restock_count": 1,
-    "price_current_cents": 19284,
-    "price_prev_cents": null,
-    "price_low_cents": 19284,
-    "price_high_cents": 19284
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 2,
+    "price_current_cents": 22799,
+    "price_prev_cents": 19284,
+    "price_low_cents": 22799,
+    "price_high_cents": 22799
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1512&virtuemart_category_id=152&Itemid=533": {
     "currently_in_stock": false,
@@ -13494,17 +13494,17 @@
     "price_high_cents": 53199
   },
   "https://www.buyrocketmotors.com/products/aerotech-m650w-ps-white-lightning?variant=50855095042345": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:31",
-    "last_change_at": "2026-05-31T02:24:31",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 45124,
-    "price_prev_cents": null,
-    "price_low_cents": 45124,
-    "price_high_cents": 45124
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 53199,
+    "price_prev_cents": 45124,
+    "price_low_cents": 53199,
+    "price_high_cents": 53199
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1529&virtuemart_category_id=155&Itemid=533": {
     "currently_in_stock": false,
@@ -13533,17 +13533,17 @@
     "price_high_cents": 64799
   },
   "https://www.buyrocketmotors.com/products/aerotech-m685w-ps-white-lightning?variant=50855097270569": {
-    "currently_in_stock": false,
-    "status_current": "out_of_stock",
+    "currently_in_stock": true,
+    "status_current": "in_stock",
     "first_seen_at": "2026-05-31T02:24:32",
-    "last_change_at": "2026-05-31T02:24:32",
-    "last_in_stock_at": null,
-    "last_restock_at": null,
-    "restock_count": 0,
-    "price_current_cents": 54909,
-    "price_prev_cents": null,
-    "price_low_cents": 54909,
-    "price_high_cents": 54909
+    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_in_stock_at": "2026-11-10T00:04:30+00:00",
+    "last_restock_at": "2026-11-10T00:04:30+00:00",
+    "restock_count": 1,
+    "price_current_cents": 64799,
+    "price_prev_cents": 54909,
+    "price_low_cents": 64799,
+    "price_high_cents": 64799
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1531&virtuemart_category_id=156&Itemid=533": {
     "currently_in_stock": false,
