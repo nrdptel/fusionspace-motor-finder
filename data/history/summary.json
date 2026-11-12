@@ -8372,10 +8372,10 @@
     "price_high_cents": 3949
   },
   "https://wildmanrocketry.com/products/h169ws": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:46",
-    "last_change_at": "2026-11-09T21:00:33+00:00",
+    "last_change_at": "2026-11-12T22:00:37+00:00",
     "last_in_stock_at": "2026-11-09T21:00:33+00:00",
     "last_restock_at": "2026-11-09T21:00:33+00:00",
     "restock_count": 1,
@@ -8983,10 +8983,10 @@
     "price_high_cents": 5299
   },
   "https://wildmanrocketry.com/products/h135w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:45",
-    "last_change_at": "2026-11-09T21:00:33+00:00",
+    "last_change_at": "2026-11-12T22:00:37+00:00",
     "last_in_stock_at": "2026-11-09T21:00:33+00:00",
     "last_restock_at": "2026-11-09T21:00:33+00:00",
     "restock_count": 3,
