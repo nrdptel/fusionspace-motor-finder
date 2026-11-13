@@ -3939,10 +3939,10 @@
     "price_high_cents": 2324
   },
   "https://www.buyrocketmotors.com/products/aerotech-d15-blue-thunder-rms-24-40-3-pack?variant=50855200162089": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T02:23:50",
-    "last_change_at": "2026-05-31T02:23:50",
+    "last_change_at": "2026-11-13T04:00:34+00:00",
     "last_in_stock_at": "2026-05-31T02:23:50",
     "last_restock_at": null,
     "restock_count": 0,
@@ -4472,10 +4472,10 @@
     "price_high_cents": 4299
   },
   "https://www.buyrocketmotors.com/products/aerotech-e28-blue-thunder-rms-24-40-3-pack?variant=50855185711401": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T02:23:51",
-    "last_change_at": "2026-05-31T02:23:51",
+    "last_change_at": "2026-11-13T04:00:34+00:00",
     "last_in_stock_at": "2026-05-31T02:23:51",
     "last_restock_at": null,
     "restock_count": 0,
@@ -6123,10 +6123,10 @@
     "price_high_cents": 1724
   },
   "https://www.buyrocketmotors.com/products/aerotech-f52-blue-thunder-rms-29-40-120?variant=50855177519401": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T02:23:56",
-    "last_change_at": "2026-10-14T20:02:16+00:00",
+    "last_change_at": "2026-11-13T04:00:34+00:00",
     "last_in_stock_at": "2026-10-14T20:02:16+00:00",
     "last_restock_at": "2026-10-14T20:02:16+00:00",
     "restock_count": 1,
