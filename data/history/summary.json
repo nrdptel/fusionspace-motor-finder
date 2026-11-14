@@ -325,10 +325,10 @@
     "price_high_cents": 800
   },
   "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/18mm/18-20-reloads/aerotech-d13-10w-white-lightning-rocket-motor.html": {
-    "currently_in_stock": true,
-    "status_current": "in_stock_with_count",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-30T22:32:29",
-    "last_change_at": "2026-07-29T01:00:56+00:00",
+    "last_change_at": "2026-11-14T22:02:30+00:00",
     "last_in_stock_at": "2026-07-29T01:00:56+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -15028,10 +15028,10 @@
     "price_high_cents": 2522
   },
   "https://www.siriusrocketry.biz/ishop/aerotech-f32-6t-24mm-single-use-motor-283.html": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T04:23:52",
-    "last_change_at": "2026-07-03T19:27:24+00:00",
+    "last_change_at": "2026-11-14T22:03:38+00:00",
     "last_in_stock_at": "2026-07-03T19:27:24+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -21034,10 +21034,10 @@
     "price_high_cents": 6939
   },
   "https://www.csrocketry.com/rocket-motors/cesaroni/motors/pro-38/3g-reloads/cesaroni-i170-14a-classic-rocket-motor.html": {
-    "currently_in_stock": true,
-    "status_current": "in_stock_with_count",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-03T02:28:20+00:00",
-    "last_change_at": "2026-06-03T02:28:20+00:00",
+    "last_change_at": "2026-11-14T22:03:43+00:00",
     "last_in_stock_at": "2026-06-03T02:28:20+00:00",
     "last_restock_at": null,
     "restock_count": 0,
