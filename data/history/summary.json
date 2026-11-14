@@ -17914,10 +17914,10 @@
     "price_high_cents": 85199
   },
   "https://www.siriusrocketry.biz/ishop/aerotech-high-power-l900dm-ps-reload-kit-hazmat-1266.html": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T04:27:31",
-    "last_change_at": "2026-07-03T19:31:01+00:00",
+    "last_change_at": "2026-11-14T21:05:50+00:00",
     "last_in_stock_at": "2026-07-03T19:31:01+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -40612,10 +40612,10 @@
     "price_high_cents": 24400
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=10120092362615#K661%20Blue%20Streak%202%20Grain": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:37+00:00",
-    "last_change_at": "2026-09-23T16:00:50+00:00",
+    "last_change_at": "2026-11-14T21:00:48+00:00",
     "last_in_stock_at": "2026-09-23T16:00:50+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -40677,10 +40677,10 @@
     "price_high_cents": 20199
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=10120092362615#2486-K510-P%20Classic%202%20Grain": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:37+00:00",
-    "last_change_at": "2026-09-23T16:00:50+00:00",
+    "last_change_at": "2026-11-14T21:00:48+00:00",
     "last_in_stock_at": "2026-09-23T16:00:50+00:00",
     "last_restock_at": "2026-09-23T16:00:50+00:00",
     "restock_count": 1,
