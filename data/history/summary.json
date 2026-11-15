@@ -10855,10 +10855,10 @@
     "price_high_cents": 12399
   },
   "https://www.buyrocketmotors.com/products/aerotech-j460t-14a-blue-thunder?variant=50855076266281": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T02:24:18",
-    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_change_at": "2026-11-15T04:00:33+00:00",
     "last_in_stock_at": "2026-11-10T00:04:30+00:00",
     "last_restock_at": "2026-11-10T00:04:30+00:00",
     "restock_count": 1,
@@ -28678,10 +28678,10 @@
     "price_high_cents": 4299
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=9000#F35-5W%20%282%20pack%29": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:23+00:00",
-    "last_change_at": "2026-09-17T11:00:34+00:00",
+    "last_change_at": "2026-11-15T04:00:35+00:00",
     "last_in_stock_at": "2026-09-17T11:00:34+00:00",
     "last_restock_at": "2026-09-17T11:00:34+00:00",
     "restock_count": 1,
@@ -28704,10 +28704,10 @@
     "price_high_cents": 3799
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=9000#F35-11W%20%282%20pack%29": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:23+00:00",
-    "last_change_at": "2026-09-17T11:00:34+00:00",
+    "last_change_at": "2026-11-15T04:00:35+00:00",
     "last_in_stock_at": "2026-09-17T11:00:34+00:00",
     "last_restock_at": "2026-09-17T11:00:34+00:00",
     "restock_count": 1,
@@ -29484,10 +29484,10 @@
     "price_high_cents": 1800
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=9000#F62-10FJ%20%282%20pack%29": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:23+00:00",
-    "last_change_at": "2026-09-17T11:00:34+00:00",
+    "last_change_at": "2026-11-15T04:00:35+00:00",
     "last_in_stock_at": "2026-09-17T11:00:34+00:00",
     "last_restock_at": "2026-09-17T11:00:34+00:00",
     "restock_count": 1,
