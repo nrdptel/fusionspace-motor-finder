@@ -2665,10 +2665,10 @@
     "price_high_cents": 13499
   },
   "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/54mm/dms-rocket-motors/aerotech-j450dm-14a-dark-matter-dms-rocket-motor.html": {
-    "currently_in_stock": true,
-    "status_current": "in_stock_with_count",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-30T22:33:32",
-    "last_change_at": "2026-10-15T16:01:53+00:00",
+    "last_change_at": "2026-11-16T18:01:49+00:00",
     "last_in_stock_at": "2026-10-15T16:01:53+00:00",
     "last_restock_at": "2026-10-15T16:01:53+00:00",
     "restock_count": 2,
@@ -2990,10 +2990,10 @@
     "price_high_cents": 26099
   },
   "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/54mm/dms-rocket-motors/aerotech-k400c-14a-classic-dms-rocket-motor.html": {
-    "currently_in_stock": true,
-    "status_current": "in_stock_with_count",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-30T22:33:33",
-    "last_change_at": "2026-10-15T16:01:53+00:00",
+    "last_change_at": "2026-11-16T18:01:49+00:00",
     "last_in_stock_at": "2026-10-15T16:01:53+00:00",
     "last_restock_at": "2026-10-15T16:01:53+00:00",
     "restock_count": 1,
@@ -8853,10 +8853,10 @@
     "price_high_cents": 7899
   },
   "https://cart.amwprox.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1441&virtuemart_category_id=139&Itemid=533": {
-    "currently_in_stock": true,
-    "status_current": "in_stock_with_count",
+    "currently_in_stock": false,
+    "status_current": "special_order",
     "first_seen_at": "2026-05-31T02:57:58",
-    "last_change_at": "2026-11-01T21:00:51+00:00",
+    "last_change_at": "2026-11-16T18:00:58+00:00",
     "last_in_stock_at": "2026-11-01T21:00:51+00:00",
     "last_restock_at": "2026-11-01T21:00:51+00:00",
     "restock_count": 1,
@@ -14586,10 +14586,10 @@
     "price_high_cents": 3740
   },
   "https://www.siriusrocketry.biz/ishop/aerotech-e18-7w-reload-kit-205.html": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T04:23:12",
-    "last_change_at": "2026-10-19T23:01:54+00:00",
+    "last_change_at": "2026-11-16T18:01:42+00:00",
     "last_in_stock_at": "2026-10-19T23:01:54+00:00",
     "last_restock_at": "2026-10-19T23:01:54+00:00",
     "restock_count": 1,
