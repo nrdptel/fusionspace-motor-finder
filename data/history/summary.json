@@ -37453,10 +37453,10 @@
     "price_high_cents": 16200
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=101502105556613#1043-J380-16A%20-%20Smoky_Sam": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:36+00:00",
-    "last_change_at": "2026-08-31T19:00:37+00:00",
+    "last_change_at": "2026-11-17T16:00:49+00:00",
     "last_in_stock_at": "2026-08-31T19:00:37+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -37895,10 +37895,10 @@
     "price_high_cents": 11867
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=101502105556613#716-J280-16A%20-%20Smoky_Sam": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:36+00:00",
-    "last_change_at": "2026-08-31T19:00:37+00:00",
+    "last_change_at": "2026-11-17T16:00:49+00:00",
     "last_in_stock_at": "2026-08-31T19:00:37+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -38142,10 +38142,10 @@
     "price_high_cents": 14700
   },
   "https://performancehobbies.com/secure/store.aspx?groupid=101502105556613#J244%20White": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-05T17:00:36+00:00",
-    "last_change_at": "2026-08-31T19:00:37+00:00",
+    "last_change_at": "2026-11-17T16:00:49+00:00",
     "last_in_stock_at": "2026-08-31T19:00:37+00:00",
     "last_restock_at": null,
     "restock_count": 0,
