@@ -14950,10 +14950,10 @@
     "price_high_cents": 3419
   },
   "https://www.siriusrocketry.biz/ishop/aerotech-f27-4r-econojet-single-use-motor-2-pack-248.html": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T04:23:45",
-    "last_change_at": "2026-07-03T19:27:18+00:00",
+    "last_change_at": "2026-11-17T04:04:33+00:00",
     "last_in_stock_at": "2026-07-03T19:27:18+00:00",
     "last_restock_at": null,
     "restock_count": 0,
