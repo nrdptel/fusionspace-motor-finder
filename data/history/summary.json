@@ -8996,10 +8996,10 @@
     "price_high_cents": 5299
   },
   "https://www.buyrocketmotors.com/products/aerotech-h135-14a-white-lightning-29-mm-dms?variant=50855109919017": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T02:24:03",
-    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_change_at": "2026-11-21T07:00:30+00:00",
     "last_in_stock_at": "2026-11-10T00:04:30+00:00",
     "last_restock_at": "2026-11-10T00:04:30+00:00",
     "restock_count": 2,
