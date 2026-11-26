@@ -3952,10 +3952,10 @@
     "price_high_cents": 2324
   },
   "https://wildmanrocketry.com/products/d20-4w-q-jet-2-pk-1": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:09",
-    "last_change_at": "2026-07-01T17:00:28+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-07-01T17:00:28+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -4576,10 +4576,10 @@
     "price_high_cents": 3849
   },
   "https://wildmanrocketry.com/products/f115sn-12a-29mm-dms": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:15",
-    "last_change_at": "2026-11-09T21:00:33+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T21:00:33+00:00",
     "last_restock_at": "2026-11-09T21:00:33+00:00",
     "restock_count": 2,
@@ -4667,10 +4667,10 @@
     "price_high_cents": 4949
   },
   "https://wildmanrocketry.com/products/f20-7w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:16",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -5057,10 +5057,10 @@
     "price_high_cents": 3599
   },
   "https://wildmanrocketry.com/products/f27-4r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:18",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -5070,10 +5070,10 @@
     "price_high_cents": 4949
   },
   "https://wildmanrocketry.com/products/f27-8r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:18",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -5148,10 +5148,10 @@
     "price_high_cents": 2899
   },
   "https://wildmanrocketry.com/products/f30-6fj": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:19",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -5265,10 +5265,10 @@
     "price_high_cents": 2899
   },
   "https://wildmanrocketry.com/products/f32-6t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:19",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 3,
@@ -5369,10 +5369,10 @@
     "price_high_cents": 2899
   },
   "https://wildmanrocketry.com/products/f35-11w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:20",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -5382,10 +5382,10 @@
     "price_high_cents": 4299
   },
   "https://wildmanrocketry.com/products/f35-5w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:20",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -5395,10 +5395,10 @@
     "price_high_cents": 4299
   },
   "https://wildmanrocketry.com/products/f35-8w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:20",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -5538,10 +5538,10 @@
     "price_high_cents": 4299
   },
   "https://wildmanrocketry.com/products/f40-10w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:21",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -5564,10 +5564,10 @@
     "price_high_cents": 2599
   },
   "https://wildmanrocketry.com/products/f40-7w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:21",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -5668,10 +5668,10 @@
     "price_high_cents": 4949
   },
   "https://wildmanrocketry.com/products/f42-8t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:22",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -5746,10 +5746,10 @@
     "price_high_cents": 4399
   },
   "https://wildmanrocketry.com/products/f44-8w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:22",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -5824,10 +5824,10 @@
     "price_high_cents": 4049
   },
   "https://wildmanrocketry.com/products/f50-6t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:23",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -5928,10 +5928,10 @@
     "price_high_cents": 3599
   },
   "https://wildmanrocketry.com/products/f51-10nt": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:23",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -6097,10 +6097,10 @@
     "price_high_cents": 2599
   },
   "https://wildmanrocketry.com/products/f52-8t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:24",
-    "last_change_at": "2026-07-01T18:00:30+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-07-01T18:00:30+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -6227,10 +6227,10 @@
     "price_high_cents": 2949
   },
   "https://wildmanrocketry.com/products/f63-10r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:25",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -6318,10 +6318,10 @@
     "price_high_cents": 4949
   },
   "https://wildmanrocketry.com/products/f67-6w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:25",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -6513,10 +6513,10 @@
     "price_high_cents": 4399
   },
   "https://wildmanrocketry.com/products/g12st-p-29mm-dms": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:35",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -6552,10 +6552,10 @@
     "price_high_cents": 4849
   },
   "https://wildmanrocketry.com/products/g25w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:35",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -6669,10 +6669,10 @@
     "price_high_cents": 4399
   },
   "https://wildmanrocketry.com/products/g40-7w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:36",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -6955,10 +6955,10 @@
     "price_high_cents": 3949
   },
   "https://wildmanrocketry.com/products/g64-10w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:38",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -6981,10 +6981,10 @@
     "price_high_cents": 2599
   },
   "https://wildmanrocketry.com/products/g64-7w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:38",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -7072,10 +7072,10 @@
     "price_high_cents": 2599
   },
   "https://wildmanrocketry.com/products/g67r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:38",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -7124,10 +7124,10 @@
     "price_high_cents": 3514
   },
   "https://wildmanrocketry.com/products/g72dm": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:39",
-    "last_change_at": "2026-07-22T21:05:06+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-07-22T21:05:06+00:00",
     "last_restock_at": "2026-07-22T21:05:06+00:00",
     "restock_count": 1,
@@ -7176,10 +7176,10 @@
     "price_high_cents": 6499
   },
   "https://wildmanrocketry.com/products/g74-6w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:39",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -7332,10 +7332,10 @@
     "price_high_cents": 3899
   },
   "https://wildmanrocketry.com/products/g76-10g": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:40",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -7345,10 +7345,10 @@
     "price_high_cents": 2949
   },
   "https://wildmanrocketry.com/products/g76-4g": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:40",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -7358,10 +7358,10 @@
     "price_high_cents": 2949
   },
   "https://wildmanrocketry.com/products/g76-7g": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:40",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -7475,10 +7475,10 @@
     "price_high_cents": 4399
   },
   "https://wildmanrocketry.com/products/g77-7r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:41",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -7852,10 +7852,10 @@
     "price_high_cents": 4399
   },
   "https://wildmanrocketry.com/products/g80t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:43",
-    "last_change_at": "2026-11-09T21:00:33+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T21:00:33+00:00",
     "last_restock_at": "2026-11-09T21:00:33+00:00",
     "restock_count": 1,
@@ -7995,10 +7995,10 @@
     "price_high_cents": 4299
   },
   "https://wildmanrocketry.com/products/g138nt-14a": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:35",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -8034,10 +8034,10 @@
     "price_high_cents": 3199
   },
   "https://wildmanrocketry.com/products/h100w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:44",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -8086,10 +8086,10 @@
     "price_high_cents": 5889
   },
   "https://wildmanrocketry.com/products/h123w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:44",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -8125,10 +8125,10 @@
     "price_high_cents": 5049
   },
   "https://wildmanrocketry.com/products/h128w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:44",
-    "last_change_at": "2026-11-09T21:00:33+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T21:00:33+00:00",
     "last_restock_at": "2026-11-09T21:00:33+00:00",
     "restock_count": 1,
@@ -8242,10 +8242,10 @@
     "price_high_cents": 5799
   },
   "https://wildmanrocketry.com/products/h148r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:45",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -8333,10 +8333,10 @@
     "price_high_cents": 7099
   },
   "https://wildmanrocketry.com/products/h165r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:45",
-    "last_change_at": "2026-11-09T21:00:33+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T21:00:33+00:00",
     "last_restock_at": "2026-11-09T21:00:33+00:00",
     "restock_count": 1,
@@ -8372,10 +8372,10 @@
     "price_high_cents": 3949
   },
   "https://wildmanrocketry.com/products/h169ws": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:46",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -8411,10 +8411,10 @@
     "price_high_cents": 5299
   },
   "https://wildmanrocketry.com/products/h170m": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:46",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -8489,10 +8489,10 @@
     "price_high_cents": 6199
   },
   "https://wildmanrocketry.com/products/h180w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:46",
-    "last_change_at": "2026-07-01T21:00:30+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-07-01T21:00:30+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -8528,10 +8528,10 @@
     "price_high_cents": 4749
   },
   "https://wildmanrocketry.com/products/h210r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:47",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -8567,10 +8567,10 @@
     "price_high_cents": 4749
   },
   "https://wildmanrocketry.com/products/h219t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:47",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -8606,10 +8606,10 @@
     "price_high_cents": 6199
   },
   "https://wildmanrocketry.com/products/h220t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:47",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -8645,10 +8645,10 @@
     "price_high_cents": 4749
   },
   "https://wildmanrocketry.com/products/h238t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:47",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -8684,10 +8684,10 @@
     "price_high_cents": 3949
   },
   "https://wildmanrocketry.com/products/h242t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:48",
-    "last_change_at": "2026-11-09T21:00:33+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T21:00:33+00:00",
     "last_restock_at": "2026-11-09T21:00:33+00:00",
     "restock_count": 1,
@@ -8723,10 +8723,10 @@
     "price_high_cents": 5049
   },
   "https://wildmanrocketry.com/products/h250g": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:48",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -8762,10 +8762,10 @@
     "price_high_cents": 4749
   },
   "https://wildmanrocketry.com/products/h268r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:48",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -8775,10 +8775,10 @@
     "price_high_cents": 5849
   },
   "https://www.buyrocketmotors.com/products/aerotech-h268r-14a-redline?variant=50855046676777": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T02:24:07",
-    "last_change_at": "2026-11-10T00:04:30+00:00",
+    "last_change_at": "2026-11-26T05:00:31+00:00",
     "last_in_stock_at": "2026-11-10T00:04:30+00:00",
     "last_restock_at": "2026-11-10T00:04:30+00:00",
     "restock_count": 1,
@@ -8788,10 +8788,10 @@
     "price_high_cents": 5849
   },
   "https://wildmanrocketry.com/products/h283st": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:48",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -8827,10 +8827,10 @@
     "price_high_cents": 6199
   },
   "https://wildmanrocketry.com/products/h550st": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:49",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -8944,10 +8944,10 @@
     "price_high_cents": 6174
   },
   "https://wildmanrocketry.com/products/h115dm": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:44",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -8983,10 +8983,10 @@
     "price_high_cents": 5299
   },
   "https://wildmanrocketry.com/products/h135w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:45",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 4,
@@ -9022,10 +9022,10 @@
     "price_high_cents": 5299
   },
   "https://wildmanrocketry.com/products/h182r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:46",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -9061,10 +9061,10 @@
     "price_high_cents": 5299
   },
   "https://wildmanrocketry.com/products/h195nt": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:47",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -9100,10 +9100,10 @@
     "price_high_cents": 5299
   },
   "https://wildmanrocketry.com/products/h45w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:48",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -9165,10 +9165,10 @@
     "price_high_cents": 6299
   },
   "https://wildmanrocketry.com/products/i140w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:50",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -9204,10 +9204,10 @@
     "price_high_cents": 8699
   },
   "https://wildmanrocketry.com/products/i205w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:51",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -9243,10 +9243,10 @@
     "price_high_cents": 8199
   },
   "https://wildmanrocketry.com/products/i280dm": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:52",
-    "last_change_at": "2026-11-09T22:00:35+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T22:00:35+00:00",
     "last_restock_at": "2026-11-09T22:00:35+00:00",
     "restock_count": 1,
@@ -9282,10 +9282,10 @@
     "price_high_cents": 12999
   },
   "https://wildmanrocketry.com/products/i500t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:55",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -9386,10 +9386,10 @@
     "price_high_cents": 7124
   },
   "https://wildmanrocketry.com/products/i1299n": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:50",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -9438,10 +9438,10 @@
     "price_high_cents": 6934
   },
   "https://wildmanrocketry.com/products/i161w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:50",
-    "last_change_at": "2026-11-09T22:00:35+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T22:00:35+00:00",
     "last_restock_at": "2026-11-09T22:00:35+00:00",
     "restock_count": 1,
@@ -9503,10 +9503,10 @@
     "price_high_cents": 8399
   },
   "https://wildmanrocketry.com/products/i175ws-13a": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:50",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -9568,10 +9568,10 @@
     "price_high_cents": 6949
   },
   "https://wildmanrocketry.com/products/i200w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:51",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -9594,10 +9594,10 @@
     "price_high_cents": 5604
   },
   "https://wildmanrocketry.com/products/i211w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:51",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -9607,10 +9607,10 @@
     "price_high_cents": 8199
   },
   "https://www.buyrocketmotors.com/products/aerotech-i211w-14a-38mm-rms-plus-white-lightning?variant=50855058866473": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T02:24:11",
-    "last_change_at": "2026-09-11T17:00:35+00:00",
+    "last_change_at": "2026-11-26T05:00:31+00:00",
     "last_in_stock_at": "2026-09-11T17:00:35+00:00",
     "last_restock_at": "2026-09-11T17:00:35+00:00",
     "restock_count": 1,
@@ -9633,10 +9633,10 @@
     "price_high_cents": 8199
   },
   "https://wildmanrocketry.com/products/i215r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:51",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -9672,10 +9672,10 @@
     "price_high_cents": 7499
   },
   "https://wildmanrocketry.com/products/i218r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:52",
-    "last_change_at": "2026-11-09T22:00:35+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T22:00:35+00:00",
     "last_restock_at": "2026-11-09T22:00:35+00:00",
     "restock_count": 1,
@@ -9724,10 +9724,10 @@
     "price_high_cents": 6934
   },
   "https://wildmanrocketry.com/products/i229t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:52",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -9763,10 +9763,10 @@
     "price_high_cents": 7499
   },
   "https://wildmanrocketry.com/products/i245g": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:52",
-    "last_change_at": "2026-11-09T22:00:35+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T22:00:35+00:00",
     "last_restock_at": "2026-11-09T22:00:35+00:00",
     "restock_count": 1,
@@ -9802,10 +9802,10 @@
     "price_high_cents": 6199
   },
   "https://wildmanrocketry.com/products/i284w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:52",
-    "last_change_at": "2026-11-09T22:00:35+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T22:00:35+00:00",
     "last_restock_at": "2026-11-09T22:00:35+00:00",
     "restock_count": 1,
@@ -9841,10 +9841,10 @@
     "price_high_cents": 9299
   },
   "https://wildmanrocketry.com/products/i285r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:53",
-    "last_change_at": "2026-11-09T22:00:35+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T22:00:35+00:00",
     "last_restock_at": "2026-11-09T22:00:35+00:00",
     "restock_count": 1,
@@ -9854,10 +9854,10 @@
     "price_high_cents": 8199
   },
   "https://www.buyrocketmotors.com/products/aerotech-i285r-14a-redline?variant=50855059915049": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T02:24:12",
-    "last_change_at": "2026-11-10T03:00:36+00:00",
+    "last_change_at": "2026-11-26T05:00:31+00:00",
     "last_in_stock_at": "2026-11-10T03:00:36+00:00",
     "last_restock_at": "2026-11-10T03:00:36+00:00",
     "restock_count": 1,
@@ -9880,10 +9880,10 @@
     "price_high_cents": 8199
   },
   "https://wildmanrocketry.com/products/i300t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:53",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -9919,10 +9919,10 @@
     "price_high_cents": 8199
   },
   "https://wildmanrocketry.com/products/i327dm": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:53",
-    "last_change_at": "2026-07-01T22:00:29+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-07-01T22:00:29+00:00",
     "last_restock_at": null,
     "restock_count": 0,
@@ -9958,10 +9958,10 @@
     "price_high_cents": 8999
   },
   "https://wildmanrocketry.com/products/i357t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:53",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -9997,10 +9997,10 @@
     "price_high_cents": 6199
   },
   "https://wildmanrocketry.com/products/i366r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:53",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10049,10 +10049,10 @@
     "price_high_cents": 6649
   },
   "https://wildmanrocketry.com/products/i435t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:54",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -10101,10 +10101,10 @@
     "price_high_cents": 6174
   },
   "https://wildmanrocketry.com/products/i599n": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:55",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -10140,10 +10140,10 @@
     "price_high_cents": 8199
   },
   "https://wildmanrocketry.com/products/i59n": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:55",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10179,10 +10179,10 @@
     "price_high_cents": 8649
   },
   "https://wildmanrocketry.com/products/i600r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:55",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10218,10 +10218,10 @@
     "price_high_cents": 8999
   },
   "https://wildmanrocketry.com/products/j270w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:57",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10257,10 +10257,10 @@
     "price_high_cents": 13499
   },
   "https://wildmanrocketry.com/products/j425r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:58",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -10296,10 +10296,10 @@
     "price_high_cents": 13499
   },
   "https://wildmanrocketry.com/products/j1299n": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:56",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10335,10 +10335,10 @@
     "price_high_cents": 12999
   },
   "https://wildmanrocketry.com/products/j135w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:56",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10374,10 +10374,10 @@
     "price_high_cents": 13599
   },
   "https://wildmanrocketry.com/products/j1799n": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:56",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10413,10 +10413,10 @@
     "price_high_cents": 14899
   },
   "https://wildmanrocketry.com/products/j180t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:56",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10478,10 +10478,10 @@
     "price_high_cents": 10999
   },
   "https://wildmanrocketry.com/products/j250w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:57",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10517,10 +10517,10 @@
     "price_high_cents": 14999
   },
   "https://wildmanrocketry.com/products/j275w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:57",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10556,10 +10556,10 @@
     "price_high_cents": 10999
   },
   "https://wildmanrocketry.com/products/j315r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:57",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -10595,10 +10595,10 @@
     "price_high_cents": 10999
   },
   "https://wildmanrocketry.com/products/j340m": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:57",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10634,10 +10634,10 @@
     "price_high_cents": 9599
   },
   "https://wildmanrocketry.com/products/j350w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:58",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -10686,10 +10686,10 @@
     "price_high_cents": 12919
   },
   "https://wildmanrocketry.com/products/j415w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:58",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -10725,10 +10725,10 @@
     "price_high_cents": 13599
   },
   "https://wildmanrocketry.com/products/j420r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:58",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10764,10 +10764,10 @@
     "price_high_cents": 9599
   },
   "https://wildmanrocketry.com/products/j435ws": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:58",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10803,10 +10803,10 @@
     "price_high_cents": 13499
   },
   "https://wildmanrocketry.com/products/j450dm": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:59",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10842,10 +10842,10 @@
     "price_high_cents": 18899
   },
   "https://wildmanrocketry.com/products/j460t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:59",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -10881,10 +10881,10 @@
     "price_high_cents": 10999
   },
   "https://wildmanrocketry.com/products/j500g": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:59",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10920,10 +10920,10 @@
     "price_high_cents": 9599
   },
   "https://wildmanrocketry.com/products/j510w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:59",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -10985,10 +10985,10 @@
     "price_high_cents": 13000
   },
   "https://wildmanrocketry.com/products/j540r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:15:59",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11024,10 +11024,10 @@
     "price_high_cents": 13599
   },
   "https://wildmanrocketry.com/products/j550st-14": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:00",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -11063,10 +11063,10 @@
     "price_high_cents": 10999
   },
   "https://wildmanrocketry.com/products/j570w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:00",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11128,10 +11128,10 @@
     "price_high_cents": 10999
   },
   "https://wildmanrocketry.com/products/j800t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:00",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11167,10 +11167,10 @@
     "price_high_cents": 13599
   },
   "https://wildmanrocketry.com/products/j825r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:00",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11206,10 +11206,10 @@
     "price_high_cents": 11599
   },
   "https://wildmanrocketry.com/products/j90w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:00",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 3,
@@ -11271,10 +11271,10 @@
     "price_high_cents": 10999
   },
   "https://wildmanrocketry.com/products/k535w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:04",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11310,10 +11310,10 @@
     "price_high_cents": 21699
   },
   "https://wildmanrocketry.com/products/k1000t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:01",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -11362,10 +11362,10 @@
     "price_high_cents": 24414
   },
   "https://wildmanrocketry.com/products/k1100t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:01",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11401,10 +11401,10 @@
     "price_high_cents": 16799
   },
   "https://wildmanrocketry.com/products/k1103x": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:01",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 3,
@@ -11440,10 +11440,10 @@
     "price_high_cents": 16799
   },
   "https://wildmanrocketry.com/products/k1275r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:01",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11492,10 +11492,10 @@
     "price_high_cents": 17099
   },
   "https://wildmanrocketry.com/products/k1800st-p": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:02",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 4,
@@ -11531,10 +11531,10 @@
     "price_high_cents": 27999
   },
   "https://wildmanrocketry.com/products/k185w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:02",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11570,10 +11570,10 @@
     "price_high_cents": 16799
   },
   "https://wildmanrocketry.com/products/k1999n": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:02",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11596,10 +11596,10 @@
     "price_high_cents": 28799
   },
   "https://wildmanrocketry.com/products/k2050st": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:02",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -11635,10 +11635,10 @@
     "price_high_cents": 16799
   },
   "https://wildmanrocketry.com/products/k250w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:02",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11661,10 +11661,10 @@
     "price_high_cents": 38899
   },
   "https://wildmanrocketry.com/products/k270w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:03",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -11700,10 +11700,10 @@
     "price_high_cents": 26099
   },
   "https://wildmanrocketry.com/products/k375nw": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:03",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11739,10 +11739,10 @@
     "price_high_cents": 26099
   },
   "https://wildmanrocketry.com/products/k400c": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:03",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11778,10 +11778,10 @@
     "price_high_cents": 21699
   },
   "https://wildmanrocketry.com/products/k455nw": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:03",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -11817,10 +11817,10 @@
     "price_high_cents": 33099
   },
   "https://wildmanrocketry.com/products/k456dm": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:04",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11856,10 +11856,10 @@
     "price_high_cents": 16799
   },
   "https://wildmanrocketry.com/products/k480w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:04",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11921,10 +11921,10 @@
     "price_high_cents": 16799
   },
   "https://wildmanrocketry.com/products/k540m": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:04",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -11960,10 +11960,10 @@
     "price_high_cents": 16799
   },
   "https://wildmanrocketry.com/products/k550w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:05",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -11999,10 +11999,10 @@
     "price_high_cents": 18899
   },
   "https://wildmanrocketry.com/products/k560w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:05",
-    "last_change_at": "2026-11-09T22:00:35+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T22:00:35+00:00",
     "last_restock_at": "2026-11-09T22:00:35+00:00",
     "restock_count": 1,
@@ -12038,10 +12038,10 @@
     "price_high_cents": 20299
   },
   "https://wildmanrocketry.com/products/k695r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:05",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -12077,10 +12077,10 @@
     "price_high_cents": 16799
   },
   "https://wildmanrocketry.com/products/k700w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:05",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -12116,10 +12116,10 @@
     "price_high_cents": 26099
   },
   "https://wildmanrocketry.com/products/k750st-ps": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:05",
-    "last_change_at": "2026-11-09T22:00:35+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T22:00:35+00:00",
     "last_restock_at": "2026-11-09T22:00:35+00:00",
     "restock_count": 1,
@@ -12155,10 +12155,10 @@
     "price_high_cents": 19499
   },
   "https://wildmanrocketry.com/products/k780r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:06",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -12194,10 +12194,10 @@
     "price_high_cents": 22799
   },
   "https://wildmanrocketry.com/products/k805g": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:06",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -12246,10 +12246,10 @@
     "price_high_cents": 22134
   },
   "https://wildmanrocketry.com/products/k850dm": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:06",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -12285,10 +12285,10 @@
     "price_high_cents": 33099
   },
   "https://wildmanrocketry.com/products/k990dm": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:06",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -12324,10 +12324,10 @@
     "price_high_cents": 28799
   },
   "https://wildmanrocketry.com/products/l1000w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:06",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -12376,10 +12376,10 @@
     "price_high_cents": 32299
   },
   "https://wildmanrocketry.com/products/l1090w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:07",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -12493,10 +12493,10 @@
     "price_high_cents": 51099
   },
   "https://wildmanrocketry.com/products/l1256ws": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:07",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -12545,10 +12545,10 @@
     "price_high_cents": 35814
   },
   "https://wildmanrocketry.com/products/l1390g": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:07",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -12584,10 +12584,10 @@
     "price_high_cents": 32499
   },
   "https://wildmanrocketry.com/products/l1420r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:07",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -12623,10 +12623,10 @@
     "price_high_cents": 42299
   },
   "https://wildmanrocketry.com/products/l1520t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:08",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -12662,10 +12662,10 @@
     "price_high_cents": 32499
   },
   "https://wildmanrocketry.com/products/l1940x-ps": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:08",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -12701,10 +12701,10 @@
     "price_high_cents": 34099
   },
   "https://wildmanrocketry.com/products/l2200g": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:08",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 3,
@@ -12740,10 +12740,10 @@
     "price_high_cents": 42299
   },
   "https://wildmanrocketry.com/products/l2500st": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:08",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -12779,10 +12779,10 @@
     "price_high_cents": 42699
   },
   "https://wildmanrocketry.com/products/l850w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:09",
-    "last_change_at": "2026-11-09T22:00:35+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T22:00:35+00:00",
     "last_restock_at": "2026-11-09T22:00:35+00:00",
     "restock_count": 1,
@@ -12844,10 +12844,10 @@
     "price_high_cents": 75999
   },
   "https://wildmanrocketry.com/products/l900dm": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:09",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -12896,10 +12896,10 @@
     "price_high_cents": 71999
   },
   "https://wildmanrocketry.com/products/m1297w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:10",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 3,
@@ -12935,10 +12935,10 @@
     "price_high_cents": 42299
   },
   "https://wildmanrocketry.com/products/m1315w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:10",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -12974,10 +12974,10 @@
     "price_high_cents": 51099
   },
   "https://wildmanrocketry.com/products/m1340w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:10",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -13013,10 +13013,10 @@
     "price_high_cents": 89899
   },
   "https://wildmanrocketry.com/products/m1350w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:10",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -13052,10 +13052,10 @@
     "price_high_cents": 79999
   },
   "https://wildmanrocketry.com/products/m1419w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:10",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -13104,10 +13104,10 @@
     "price_high_cents": 42299
   },
   "https://wildmanrocketry.com/products/m1550r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:11",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -13156,10 +13156,10 @@
     "price_high_cents": 71999
   },
   "https://wildmanrocketry.com/products/m1780nt": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:11",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -13208,10 +13208,10 @@
     "price_high_cents": 96300
   },
   "https://wildmanrocketry.com/products/m1845nt": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:12",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -13234,10 +13234,10 @@
     "price_high_cents": 71999
   },
   "https://wildmanrocketry.com/products/m1850w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:12",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -13273,10 +13273,10 @@
     "price_high_cents": 60399
   },
   "https://wildmanrocketry.com/products/m1939w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:12",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 4,
@@ -13299,10 +13299,10 @@
     "price_high_cents": 96300
   },
   "https://wildmanrocketry.com/products/m2050x": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:12",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -13377,10 +13377,10 @@
     "price_high_cents": 42299
   },
   "https://wildmanrocketry.com/products/m2400t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:13",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -13403,10 +13403,10 @@
     "price_high_cents": 71999
   },
   "https://wildmanrocketry.com/products/m2500t": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:13",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 4,
@@ -13429,10 +13429,10 @@
     "price_high_cents": 96300
   },
   "https://wildmanrocketry.com/products/m4500st": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:14",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -13455,10 +13455,10 @@
     "price_high_cents": 77699
   },
   "https://wildmanrocketry.com/products/m6000st": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:14",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -13481,10 +13481,10 @@
     "price_high_cents": 100500
   },
   "https://wildmanrocketry.com/products/m650w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:14",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -13520,10 +13520,10 @@
     "price_high_cents": 53199
   },
   "https://wildmanrocketry.com/products/m685w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:15",
-    "last_change_at": "2026-11-09T22:00:35+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-09T22:00:35+00:00",
     "last_restock_at": "2026-11-09T22:00:35+00:00",
     "restock_count": 1,
@@ -13559,10 +13559,10 @@
     "price_high_cents": 64799
   },
   "https://wildmanrocketry.com/products/n1000w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:15",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -13585,10 +13585,10 @@
     "price_high_cents": 140800
   },
   "https://wildmanrocketry.com/products/n2000w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:15",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 2,
@@ -13624,10 +13624,10 @@
     "price_high_cents": 126900
   },
   "https://wildmanrocketry.com/products/n2700-w": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:16",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -13663,10 +13663,10 @@
     "price_high_cents": 87399
   },
   "https://wildmanrocketry.com/products/n3120x-ps-75mm-dms": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:16",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -13676,10 +13676,10 @@
     "price_high_cents": 167999
   },
   "https://wildmanrocketry.com/products/n3300r": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:16",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -13702,10 +13702,10 @@
     "price_high_cents": 129200
   },
   "https://wildmanrocketry.com/products/n4000w-ps": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:16",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 3,
@@ -13728,10 +13728,10 @@
     "price_high_cents": 201599
   },
   "https://wildmanrocketry.com/products/o5280x": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:17",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
@@ -14300,10 +14300,10 @@
     "price_high_cents": 6999
   },
   "https://wildmanrocketry.com/products/o5040x-ps": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-31T01:16:17",
-    "last_change_at": "2026-11-26T00:00:37+00:00",
+    "last_change_at": "2026-11-26T05:00:34+00:00",
     "last_in_stock_at": "2026-11-26T00:00:37+00:00",
     "last_restock_at": "2026-11-26T00:00:37+00:00",
     "restock_count": 1,
