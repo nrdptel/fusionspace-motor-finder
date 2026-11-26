@@ -1,15 +1,10 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T18:07:32+00:00",
+  "updated_at": "2026-11-26T19:07:28+00:00",
   "listings": {
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/40-120-reloads/aerotech-e16-4w-white-lightning-rocket-motor.html": {
       "vendor_slug": "csrocketry",
       "events": [
-        {
-          "t": "2026-05-30T18:37:08",
-          "status": "in_stock_with_count",
-          "price_cents": 1999
-        },
         {
           "t": "2026-07-29T01:01:07+00:00",
           "status": "in_stock_with_count",
@@ -21,11 +16,6 @@
       "vendor_slug": "csrocketry",
       "events": [
         {
-          "t": "2026-05-30T18:37:13",
-          "status": "in_stock_with_count",
-          "price_cents": 1999
-        },
-        {
           "t": "2026-07-29T01:01:08+00:00",
           "status": "in_stock_with_count",
           "price_cents": 2249
@@ -35,11 +25,6 @@
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/40-120-reloads/aerotech-e23-5t-blue-thunder-rocket-motor.html": {
       "vendor_slug": "csrocketry",
       "events": [
-        {
-          "t": "2026-05-30T18:37:19",
-          "status": "out_of_stock",
-          "price_cents": 1999
-        },
         {
           "t": "2026-07-29T01:01:08+00:00",
           "status": "out_of_stock",
@@ -55,11 +40,6 @@
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/40-120-reloads/aerotech-e23-8t-blue-thunder-rocket-motor.html": {
       "vendor_slug": "csrocketry",
       "events": [
-        {
-          "t": "2026-05-30T18:37:24",
-          "status": "in_stock_with_count",
-          "price_cents": 1999
-        },
         {
           "t": "2026-07-29T01:01:08+00:00",
           "status": "in_stock_with_count",
@@ -91,11 +71,6 @@
       "vendor_slug": "csrocketry",
       "events": [
         {
-          "t": "2026-05-30T18:37:41",
-          "status": "in_stock_with_count",
-          "price_cents": 2299
-        },
-        {
           "t": "2026-07-29T01:01:08+00:00",
           "status": "in_stock_with_count",
           "price_cents": 2599
@@ -111,11 +86,6 @@
       "vendor_slug": "csrocketry",
       "events": [
         {
-          "t": "2026-05-30T18:37:46",
-          "status": "in_stock_with_count",
-          "price_cents": 2299
-        },
-        {
           "t": "2026-07-29T01:01:09+00:00",
           "status": "in_stock_with_count",
           "price_cents": 2599
@@ -125,11 +95,6 @@
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/100-reloads/aerotech-g104t-14a-blue-thunder-rocket-motor.html": {
       "vendor_slug": "csrocketry",
       "events": [
-        {
-          "t": "2026-05-30T18:35:41",
-          "status": "out_of_stock",
-          "price_cents": 2799
-        },
         {
           "t": "2026-07-29T01:01:04+00:00",
           "status": "out_of_stock",
@@ -146,11 +111,6 @@
       "vendor_slug": "csrocketry",
       "events": [
         {
-          "t": "2026-05-30T18:35:51",
-          "status": "in_stock_with_count",
-          "price_cents": 3099
-        },
-        {
           "t": "2026-07-29T01:01:04+00:00",
           "status": "in_stock_with_count",
           "price_cents": 3499
@@ -165,11 +125,6 @@
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/100-reloads/aerotech-g54w-14a-white-lightning-rocket-motor.html": {
       "vendor_slug": "csrocketry",
       "events": [
-        {
-          "t": "2026-05-30T18:35:46",
-          "status": "in_stock_with_count",
-          "price_cents": 2799
-        },
         {
           "t": "2026-06-09T15:01:20+00:00",
           "status": "out_of_stock",
@@ -196,11 +151,6 @@
       "vendor_slug": "csrocketry",
       "events": [
         {
-          "t": "2026-05-30T18:35:57",
-          "status": "out_of_stock",
-          "price_cents": 3099
-        },
-        {
           "t": "2026-06-30T17:01:07+00:00",
           "status": "in_stock_with_count",
           "price_cents": 3099
@@ -225,11 +175,6 @@
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/120-reloads/aerotech-g79w-14a-white-lightning-rocket-motor.html": {
       "vendor_slug": "csrocketry",
       "events": [
-        {
-          "t": "2026-05-30T18:36:02",
-          "status": "in_stock_with_count",
-          "price_cents": 3099
-        },
         {
           "t": "2026-07-29T01:01:05+00:00",
           "status": "in_stock_with_count",
@@ -256,11 +201,6 @@
       "vendor_slug": "csrocketry",
       "events": [
         {
-          "t": "2026-05-30T18:36:13",
-          "status": "in_stock_with_count",
-          "price_cents": 3499
-        },
-        {
           "t": "2026-07-29T01:01:05+00:00",
           "status": "in_stock_with_count",
           "price_cents": 3949
@@ -275,11 +215,6 @@
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/180-reloads/aerotech-h165r-14a-redline-rocket-motor.html": {
       "vendor_slug": "csrocketry",
       "events": [
-        {
-          "t": "2026-05-30T18:36:19",
-          "status": "in_stock_with_count",
-          "price_cents": 3499
-        },
         {
           "t": "2026-07-29T01:01:05+00:00",
           "status": "in_stock_with_count",
@@ -316,11 +251,6 @@
       "vendor_slug": "csrocketry",
       "events": [
         {
-          "t": "2026-05-30T18:36:30",
-          "status": "in_stock_with_count",
-          "price_cents": 4199
-        },
-        {
           "t": "2026-07-29T01:01:06+00:00",
           "status": "in_stock_with_count",
           "price_cents": 4749
@@ -346,11 +276,6 @@
       "vendor_slug": "csrocketry",
       "events": [
         {
-          "t": "2026-05-30T18:36:35",
-          "status": "in_stock_with_count",
-          "price_cents": 4199
-        },
-        {
           "t": "2026-07-29T01:01:06+00:00",
           "status": "in_stock_with_count",
           "price_cents": 4749
@@ -360,11 +285,6 @@
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/240-reloads/aerotech-h220t-14a-blue-thunder-rocket-motor.html": {
       "vendor_slug": "csrocketry",
       "events": [
-        {
-          "t": "2026-05-30T18:36:41",
-          "status": "in_stock_with_count",
-          "price_cents": 4199
-        },
         {
           "t": "2026-07-29T01:01:06+00:00",
           "status": "in_stock_with_count",
@@ -381,11 +301,6 @@
       "vendor_slug": "csrocketry",
       "events": [
         {
-          "t": "2026-05-30T18:36:24",
-          "status": "in_stock_with_count",
-          "price_cents": 3499
-        },
-        {
           "t": "2026-07-29T01:01:06+00:00",
           "status": "in_stock_with_count",
           "price_cents": 3949
@@ -401,11 +316,6 @@
       "vendor_slug": "csrocketry",
       "events": [
         {
-          "t": "2026-05-30T18:36:46",
-          "status": "in_stock_with_count",
-          "price_cents": 4199
-        },
-        {
           "t": "2026-07-29T01:01:06+00:00",
           "status": "in_stock_with_count",
           "price_cents": 4749
@@ -415,11 +325,6 @@
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/360-reloads/aerotech-h268r-14a-redline-rocket-motor.html": {
       "vendor_slug": "csrocketry",
       "events": [
-        {
-          "t": "2026-05-30T18:36:57",
-          "status": "in_stock_with_count",
-          "price_cents": 5199
-        },
         {
           "t": "2026-07-13T04:01:16+00:00",
           "status": "out_of_stock",
@@ -436,11 +341,6 @@
       "vendor_slug": "csrocketry",
       "events": [
         {
-          "t": "2026-05-30T18:36:52",
-          "status": "out_of_stock",
-          "price_cents": 4199
-        },
-        {
           "t": "2026-10-15T16:01:18+00:00",
           "status": "in_stock_with_count",
           "price_cents": 4199
@@ -455,11 +355,6 @@
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/360-reloads/aerotech-i200w-14a-white-lightning-rocket-motor.html": {
       "vendor_slug": "csrocketry",
       "events": [
-        {
-          "t": "2026-05-30T18:37:02",
-          "status": "in_stock_with_count",
-          "price_cents": 5899
-        },
         {
           "t": "2026-07-29T01:01:07+00:00",
           "status": "in_stock_with_count",
