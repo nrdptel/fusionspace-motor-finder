@@ -208,10 +208,10 @@
     "price_high_cents": 3949
   },
   "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/240-reloads/aerotech-h180w-14a-white-lightning-rocket-motor.html": {
-    "currently_in_stock": true,
-    "status_current": "in_stock_with_count",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-05-30T18:36:30",
-    "last_change_at": "2026-11-25T21:01:18+00:00",
+    "last_change_at": "2026-11-26T02:01:24+00:00",
     "last_in_stock_at": "2026-11-25T21:01:18+00:00",
     "last_restock_at": "2026-11-25T21:01:18+00:00",
     "restock_count": 1,
