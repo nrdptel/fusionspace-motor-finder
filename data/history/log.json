@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T21:02:59+00:00",
+  "updated_at": "2026-11-27T22:02:53+00:00",
   "listings": {
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/40-120-reloads/aerotech-e16-4w-white-lightning-rocket-motor.html": {
       "vendor_slug": "csrocketry",
@@ -18416,11 +18416,6 @@
       "vendor_slug": "sirius",
       "events": [
         {
-          "t": "2026-05-31T21:17:09+00:00",
-          "status": "out_of_stock",
-          "price_cents": null
-        },
-        {
           "t": "2026-05-31T22:19:10+00:00",
           "status": "out_of_stock",
           "price_cents": 5219
@@ -18570,11 +18565,6 @@
     "https://www.siriusrocketry.biz/ishop/aerotech-c3-4t-p-rms-rc-reload-kit-3-pack-1848.html": {
       "vendor_slug": "sirius",
       "events": [
-        {
-          "t": "2026-05-31T21:17:10+00:00",
-          "status": "out_of_stock",
-          "price_cents": null
-        },
         {
           "t": "2026-06-01T00:22:09+00:00",
           "status": "out_of_stock",
@@ -18946,16 +18936,6 @@
       "vendor_slug": "sirius",
       "events": [
         {
-          "t": "2026-05-31T21:17:18+00:00",
-          "status": "out_of_stock",
-          "price_cents": 2974
-        },
-        {
-          "t": "2026-05-31T21:41:56+00:00",
-          "status": "out_of_stock",
-          "price_cents": 27719
-        },
-        {
           "t": "2026-05-31T22:19:19+00:00",
           "status": "out_of_stock",
           "price_cents": null
@@ -19195,16 +19175,6 @@
     "https://www.siriusrocketry.biz/ishop/aerotech-d7-rct-rms-rc-reload-kit-3-pack-1852.html": {
       "vendor_slug": "sirius",
       "events": [
-        {
-          "t": "2026-05-31T21:17:24+00:00",
-          "status": "in_stock",
-          "price_cents": 10529
-        },
-        {
-          "t": "2026-05-31T21:42:02+00:00",
-          "status": "in_stock",
-          "price_cents": null
-        },
         {
           "t": "2026-05-31T22:19:25+00:00",
           "status": "in_stock",
@@ -22366,16 +22336,6 @@
       "vendor_slug": "sirius",
       "events": [
         {
-          "t": "2026-05-31T21:21:54+00:00",
-          "status": "out_of_stock",
-          "price_cents": 3827
-        },
-        {
-          "t": "2026-05-31T21:46:31+00:00",
-          "status": "out_of_stock",
-          "price_cents": null
-        },
-        {
           "t": "2026-05-31T23:25:59+00:00",
           "status": "out_of_stock",
           "price_cents": 3827
@@ -23051,11 +23011,6 @@
       "vendor_slug": "sirius",
       "events": [
         {
-          "t": "2026-05-31T21:46:28+00:00",
-          "status": "in_stock",
-          "price_cents": 3827
-        },
-        {
           "t": "2026-05-31T22:23:51+00:00",
           "status": "in_stock",
           "price_cents": 5219
@@ -23630,16 +23585,6 @@
     "https://www.siriusrocketry.biz/ishop/aerotech-high-power-o5280x-ps-98mm-dms-hazmat-special-order-2040.html": {
       "vendor_slug": "sirius",
       "events": [
-        {
-          "t": "2026-05-31T21:22:27+00:00",
-          "status": "special_order",
-          "price_cents": 4001
-        },
-        {
-          "t": "2026-05-31T21:47:05+00:00",
-          "status": "special_order",
-          "price_cents": 240499
-        },
         {
           "t": "2026-06-01T00:27:26+00:00",
           "status": "special_order",
