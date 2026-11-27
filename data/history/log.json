@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T18:07:34+00:00",
+  "updated_at": "2026-11-27T19:08:19+00:00",
   "listings": {
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/40-120-reloads/aerotech-e16-4w-white-lightning-rocket-motor.html": {
       "vendor_slug": "csrocketry",
@@ -18416,11 +18416,6 @@
       "vendor_slug": "sirius",
       "events": [
         {
-          "t": "2026-05-31T18:20:19+00:00",
-          "status": "out_of_stock",
-          "price_cents": 3827
-        },
-        {
           "t": "2026-05-31T19:28:52+00:00",
           "status": "out_of_stock",
           "price_cents": 10529
@@ -18800,11 +18795,6 @@
     "https://www.siriusrocketry.biz/ishop/aerotech-d2-3t-p-rms-rc-reload-kit-12-pack-1850.html": {
       "vendor_slug": "sirius",
       "events": [
-        {
-          "t": "2026-05-31T18:20:27+00:00",
-          "status": "out_of_stock",
-          "price_cents": 5219
-        },
         {
           "t": "2026-05-31T19:29:00+00:00",
           "status": "out_of_stock",
@@ -22411,11 +22401,6 @@
       "vendor_slug": "sirius",
       "events": [
         {
-          "t": "2026-05-31T18:25:03+00:00",
-          "status": "out_of_stock",
-          "price_cents": null
-        },
-        {
           "t": "2026-05-31T19:33:35+00:00",
           "status": "out_of_stock",
           "price_cents": 27719
@@ -22845,11 +22830,6 @@
     "https://www.siriusrocketry.biz/ishop/aerotech-high-power-l1250dm-p-reload-kit-hazmat-1666.html": {
       "vendor_slug": "sirius",
       "events": [
-        {
-          "t": "2026-05-31T18:24:49+00:00",
-          "status": "in_stock",
-          "price_cents": 10529
-        },
         {
           "t": "2026-05-31T19:33:22+00:00",
           "status": "in_stock",
