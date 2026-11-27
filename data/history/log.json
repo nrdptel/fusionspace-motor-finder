@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T01:02:59+00:00",
+  "updated_at": "2026-11-27T02:07:28+00:00",
   "listings": {
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/40-120-reloads/aerotech-e16-4w-white-lightning-rocket-motor.html": {
       "vendor_slug": "csrocketry",
@@ -4326,11 +4326,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:09",
-          "status": "in_stock_with_count",
-          "price_cents": 1599
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 1599
@@ -4350,11 +4345,6 @@
     "https://wildmanrocketry.com/products/d22-7w-q-jet": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:10",
-          "status": "in_stock_with_count",
-          "price_cents": 1599
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -4441,11 +4431,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:11",
-          "status": "in_stock_with_count",
-          "price_cents": 1999
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 1999
@@ -4460,11 +4445,6 @@
     "https://wildmanrocketry.com/products/e16-7w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:11",
-          "status": "in_stock_with_count",
-          "price_cents": 1999
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -4531,11 +4511,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:11",
-          "status": "in_stock_with_count",
-          "price_cents": 3799
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3799
@@ -4550,11 +4525,6 @@
     "https://wildmanrocketry.com/products/e18-7w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:11",
-          "status": "in_stock_with_count",
-          "price_cents": 3799
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -4606,11 +4576,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:11",
-          "status": "in_stock_with_count",
-          "price_cents": 3399
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3399
@@ -4625,11 +4590,6 @@
     "https://wildmanrocketry.com/products/e20-7w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:12",
-          "status": "in_stock_with_count",
-          "price_cents": 3399
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -4731,11 +4691,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:12",
-          "status": "in_stock_with_count",
-          "price_cents": 1999
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 1999
@@ -4750,11 +4705,6 @@
     "https://wildmanrocketry.com/products/e23-8t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:12",
-          "status": "in_stock_with_count",
-          "price_cents": 1999
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -4831,11 +4781,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:12",
-          "status": "in_stock_with_count",
-          "price_cents": 4199
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 4199
@@ -4850,11 +4795,6 @@
     "https://wildmanrocketry.com/products/e24c-7-enerjet-2-pack": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:12",
-          "status": "out_of_stock",
-          "price_cents": 4199
-        },
         {
           "t": "2026-06-12T14:02:14+00:00",
           "status": "in_stock_with_count",
@@ -4906,11 +4846,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:13",
-          "status": "in_stock_with_count",
-          "price_cents": 1999
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 1999
@@ -4925,11 +4860,6 @@
     "https://wildmanrocketry.com/products/e26-4w-q-jet-2-pk": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:13",
-          "status": "in_stock_with_count",
-          "price_cents": 1999
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -4956,11 +4886,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:13",
-          "status": "in_stock_with_count",
-          "price_cents": 1999
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 1999
@@ -4976,11 +4901,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:13",
-          "status": "in_stock_with_count",
-          "price_cents": 3799
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3799
@@ -4995,11 +4915,6 @@
     "https://wildmanrocketry.com/products/e28-7t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:13",
-          "status": "out_of_stock",
-          "price_cents": 3799
-        },
         {
           "t": "2026-07-01T18:00:30+00:00",
           "status": "out_of_stock",
@@ -5041,11 +4956,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:13",
-          "status": "in_stock_with_count",
-          "price_cents": 3399
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3399
@@ -5060,11 +4970,6 @@
     "https://wildmanrocketry.com/products/e30-7t-24mm-single-use-2-pack": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:14",
-          "status": "in_stock_with_count",
-          "price_cents": 3399
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -5161,11 +5066,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:15",
-          "status": "in_stock_with_count",
-          "price_cents": 2999
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 2999
@@ -5231,11 +5131,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:15",
-          "status": "out_of_stock",
-          "price_cents": 4299
-        },
-        {
           "t": "2026-07-01T18:00:30+00:00",
           "status": "out_of_stock",
           "price_cents": 4849
@@ -5286,11 +5181,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:16",
-          "status": "in_stock_with_count",
-          "price_cents": 4399
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 4399
@@ -5305,11 +5195,6 @@
     "https://wildmanrocketry.com/products/f20-7w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:16",
-          "status": "in_stock_with_count",
-          "price_cents": 4399
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -5516,11 +5401,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:17",
-          "status": "in_stock_with_count",
-          "price_cents": 4299
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 4299
@@ -5535,11 +5415,6 @@
     "https://wildmanrocketry.com/products/f24-7w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:17",
-          "status": "in_stock_with_count",
-          "price_cents": 4299
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -5586,11 +5461,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:17",
-          "status": "in_stock_with_count",
-          "price_cents": 3599
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3599
@@ -5605,11 +5475,6 @@
     "https://wildmanrocketry.com/products/f25-6w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:17",
-          "status": "in_stock_with_count",
-          "price_cents": 3599
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -5701,11 +5566,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:18",
-          "status": "in_stock_with_count",
-          "price_cents": 3599
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3599
@@ -5776,11 +5636,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:18",
-          "status": "in_stock_with_count",
-          "price_cents": 4399
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 4399
@@ -5810,11 +5665,6 @@
     "https://wildmanrocketry.com/products/f27-8r": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:18",
-          "status": "in_stock_with_count",
-          "price_cents": 4399
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -5921,11 +5771,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:19",
-          "status": "in_stock_with_count",
-          "price_cents": 2549
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 2549
@@ -5940,11 +5785,6 @@
     "https://wildmanrocketry.com/products/f30-6fj": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:19",
-          "status": "in_stock_with_count",
-          "price_cents": 2549
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -5975,11 +5815,6 @@
     "https://wildmanrocketry.com/products/f30-8fj": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:19",
-          "status": "in_stock_with_count",
-          "price_cents": 2549
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -6096,11 +5931,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:19",
-          "status": "out_of_stock",
-          "price_cents": 2549
-        },
-        {
           "t": "2026-07-01T18:00:30+00:00",
           "status": "out_of_stock",
           "price_cents": 2899
@@ -6115,11 +5945,6 @@
     "https://wildmanrocketry.com/products/f32-6t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:19",
-          "status": "out_of_stock",
-          "price_cents": 2549
-        },
         {
           "t": "2026-06-12T14:02:49+00:00",
           "status": "in_stock_with_count",
@@ -6165,11 +5990,6 @@
     "https://wildmanrocketry.com/products/f32-8t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:20",
-          "status": "out_of_stock",
-          "price_cents": 2549
-        },
         {
           "t": "2026-06-12T14:02:50+00:00",
           "status": "in_stock_with_count",
@@ -6336,11 +6156,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:20",
-          "status": "in_stock_with_count",
-          "price_cents": 3799
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3799
@@ -6371,11 +6186,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:20",
-          "status": "in_stock_with_count",
-          "price_cents": 3799
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3799
@@ -6405,11 +6215,6 @@
     "https://wildmanrocketry.com/products/f35-8w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:20",
-          "status": "in_stock_with_count",
-          "price_cents": 3799
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -6481,11 +6286,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:20",
-          "status": "in_stock_with_count",
-          "price_cents": 4299
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 4299
@@ -6500,11 +6300,6 @@
     "https://wildmanrocketry.com/products/f39-9t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:21",
-          "status": "in_stock_with_count",
-          "price_cents": 4299
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -6581,11 +6376,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:21",
-          "status": "in_stock_with_count",
-          "price_cents": 2299
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 2299
@@ -6616,11 +6406,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:21",
-          "status": "in_stock_with_count",
-          "price_cents": 2299
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 2299
@@ -6635,11 +6420,6 @@
     "https://wildmanrocketry.com/products/f40-7w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:21",
-          "status": "in_stock_with_count",
-          "price_cents": 2299
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -6756,11 +6536,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:22",
-          "status": "in_stock_with_count",
-          "price_cents": 4399
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 4399
@@ -6775,11 +6550,6 @@
     "https://wildmanrocketry.com/products/f42-8t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:22",
-          "status": "out_of_stock",
-          "price_cents": 4399
-        },
         {
           "t": "2026-06-12T13:21:09+00:00",
           "status": "in_stock_with_count",
@@ -6916,11 +6686,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:22",
-          "status": "in_stock_with_count",
-          "price_cents": 3899
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3899
@@ -6935,11 +6700,6 @@
     "https://wildmanrocketry.com/products/f44-8w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:22",
-          "status": "in_stock_with_count",
-          "price_cents": 3899
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -7046,11 +6806,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:22",
-          "status": "in_stock_with_count",
-          "price_cents": 3599
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3599
@@ -7065,11 +6820,6 @@
     "https://wildmanrocketry.com/products/f50-6t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:23",
-          "status": "in_stock_with_count",
-          "price_cents": 3599
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -7100,11 +6850,6 @@
     "https://wildmanrocketry.com/products/f50-9t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:23",
-          "status": "in_stock_with_count",
-          "price_cents": 3599
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -7241,11 +6986,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:23",
-          "status": "in_stock_with_count",
-          "price_cents": 3799
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3799
@@ -7316,11 +7056,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:24",
-          "status": "in_stock_with_count",
-          "price_cents": 4399
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 4399
@@ -7335,11 +7070,6 @@
     "https://wildmanrocketry.com/products/f52-8c-enerjet-2-pk": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:24",
-          "status": "in_stock_with_count",
-          "price_cents": 4399
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -7466,11 +7196,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:23",
-          "status": "in_stock_with_count",
-          "price_cents": 2299
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 2299
@@ -7486,11 +7211,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:24",
-          "status": "in_stock_with_count",
-          "price_cents": 2299
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 2299
@@ -7505,11 +7225,6 @@
     "https://wildmanrocketry.com/products/f52-8t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:24",
-          "status": "in_stock_with_count",
-          "price_cents": 2299
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -7631,11 +7346,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:25",
-          "status": "out_of_stock",
-          "price_cents": 2599
-        },
-        {
           "t": "2026-07-01T18:00:30+00:00",
           "status": "out_of_stock",
           "price_cents": 2949
@@ -7691,11 +7401,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:25",
-          "status": "in_stock_with_count",
-          "price_cents": 3799
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3799
@@ -7740,11 +7445,6 @@
     "https://wildmanrocketry.com/products/f67c-6-enerjet-2-pack": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:26",
-          "status": "in_stock_with_count",
-          "price_cents": 4599
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -7811,11 +7511,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:25",
-          "status": "in_stock_with_count",
-          "price_cents": 4399
-        },
-        {
           "t": "2026-06-08T03:03:16+00:00",
           "status": "out_of_stock",
           "price_cents": 4399
@@ -7840,11 +7535,6 @@
     "https://wildmanrocketry.com/products/f67-6w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:25",
-          "status": "out_of_stock",
-          "price_cents": 4399
-        },
         {
           "t": "2026-06-12T13:21:26+00:00",
           "status": "in_stock_with_count",
@@ -7880,11 +7570,6 @@
     "https://wildmanrocketry.com/products/f67-9w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:25",
-          "status": "in_stock_with_count",
-          "price_cents": 4399
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -8031,11 +7716,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:28",
-          "status": "in_stock_with_count",
-          "price_cents": 2799
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 2799
@@ -8081,11 +7761,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:32",
-          "status": "out_of_stock",
-          "price_cents": 4399
-        },
-        {
           "t": "2026-07-01T18:00:30+00:00",
           "status": "out_of_stock",
           "price_cents": 5399
@@ -8095,11 +7770,6 @@
     "https://wildmanrocketry.com/products/g125t-14a": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:32",
-          "status": "out_of_stock",
-          "price_cents": 3899
-        },
         {
           "t": "2026-07-01T18:00:30+00:00",
           "status": "out_of_stock",
@@ -8160,11 +7830,6 @@
     "https://wildmanrocketry.com/products/g12st-p-29mm-dms": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:35",
-          "status": "in_stock_with_count",
-          "price_cents": 4299
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -8245,11 +7910,6 @@
     "https://wildmanrocketry.com/products/g25w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:35",
-          "status": "in_stock_with_count",
-          "price_cents": 3099
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -8361,11 +8021,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:36",
-          "status": "in_stock_with_count",
-          "price_cents": 3899
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3899
@@ -8381,11 +8036,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:36",
-          "status": "in_stock_with_count",
-          "price_cents": 3899
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3899
@@ -8400,11 +8050,6 @@
     "https://wildmanrocketry.com/products/g40-7w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:36",
-          "status": "in_stock_with_count",
-          "price_cents": 3899
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -8516,11 +8161,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:37",
-          "status": "in_stock_with_count",
-          "price_cents": 2599
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 2599
@@ -8536,11 +8176,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:37",
-          "status": "in_stock_with_count",
-          "price_cents": 2599
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 2599
@@ -8555,11 +8190,6 @@
     "https://wildmanrocketry.com/products/g53-7fj": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:37",
-          "status": "in_stock_with_count",
-          "price_cents": 2599
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -8661,11 +8291,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:37",
-          "status": "in_stock_with_count",
-          "price_cents": 2799
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 2799
@@ -8710,11 +8335,6 @@
     "https://wildmanrocketry.com/products/g61w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:38",
-          "status": "in_stock_with_count",
-          "price_cents": 3499
-        },
         {
           "t": "2026-06-10T21:04:15+00:00",
           "status": "out_of_stock",
@@ -8801,11 +8421,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:38",
-          "status": "in_stock_with_count",
-          "price_cents": 2599
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 2599
@@ -8836,11 +8451,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:38",
-          "status": "in_stock_with_count",
-          "price_cents": 2599
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 2599
@@ -8850,11 +8460,6 @@
     "https://wildmanrocketry.com/products/g64-7w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:38",
-          "status": "in_stock_with_count",
-          "price_cents": 2599
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -9001,11 +8606,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:38",
-          "status": "out_of_stock",
-          "price_cents": 3499
-        },
-        {
           "t": "2026-07-01T18:00:30+00:00",
           "status": "out_of_stock",
           "price_cents": 3949
@@ -9086,11 +8686,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:39",
-          "status": "out_of_stock",
-          "price_cents": 3899
-        },
-        {
           "t": "2026-07-01T18:00:30+00:00",
           "status": "out_of_stock",
           "price_cents": 4399
@@ -9151,11 +8746,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:39",
-          "status": "in_stock_with_count",
-          "price_cents": 5799
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 5799
@@ -9180,11 +8770,6 @@
     "https://wildmanrocketry.com/products/g74-6w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:39",
-          "status": "out_of_stock",
-          "price_cents": 5799
-        },
         {
           "t": "2026-07-01T21:00:30+00:00",
           "status": "out_of_stock",
@@ -9215,11 +8800,6 @@
     "https://wildmanrocketry.com/products/g74-9w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:39",
-          "status": "in_stock_with_count",
-          "price_cents": 5799
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -9421,11 +9001,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:40",
-          "status": "in_stock_with_count",
-          "price_cents": 2599
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 2599
@@ -9456,11 +9031,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:40",
-          "status": "in_stock_with_count",
-          "price_cents": 2599
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 2599
@@ -9490,11 +9060,6 @@
     "https://wildmanrocketry.com/products/g76-7g": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:40",
-          "status": "in_stock_with_count",
-          "price_cents": 2599
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -9641,11 +9206,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:40",
-          "status": "in_stock_with_count",
-          "price_cents": 3899
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3899
@@ -9661,11 +9221,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:41",
-          "status": "in_stock_with_count",
-          "price_cents": 3899
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3899
@@ -9680,11 +9235,6 @@
     "https://wildmanrocketry.com/products/g77-7r": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:41",
-          "status": "out_of_stock",
-          "price_cents": 3899
-        },
         {
           "t": "2026-07-01T21:00:30+00:00",
           "status": "out_of_stock",
@@ -9705,11 +9255,6 @@
     "https://wildmanrocketry.com/products/g77r": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:41",
-          "status": "in_stock_with_count",
-          "price_cents": 3099
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -9826,11 +9371,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:41",
-          "status": "in_stock_with_count",
-          "price_cents": 3899
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3899
@@ -9846,11 +9386,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:41",
-          "status": "in_stock_with_count",
-          "price_cents": 3899
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3899
@@ -9865,11 +9400,6 @@
     "https://wildmanrocketry.com/products/g78-7g": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:42",
-          "status": "in_stock_with_count",
-          "price_cents": 3899
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -9990,11 +9520,6 @@
     "https://wildmanrocketry.com/products/g79w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:42",
-          "status": "in_stock_with_count",
-          "price_cents": 3099
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -10151,11 +9676,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:42",
-          "status": "out_of_stock",
-          "price_cents": 3899
-        },
-        {
           "t": "2026-07-01T21:00:30+00:00",
           "status": "out_of_stock",
           "price_cents": 4399
@@ -10170,11 +9690,6 @@
     "https://wildmanrocketry.com/products/g80-13t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:43",
-          "status": "in_stock_with_count",
-          "price_cents": 3899
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -10201,11 +9716,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:43",
-          "status": "out_of_stock",
-          "price_cents": 3899
-        },
-        {
           "t": "2026-07-01T21:00:30+00:00",
           "status": "out_of_stock",
           "price_cents": 4399
@@ -10230,11 +9740,6 @@
     "https://wildmanrocketry.com/products/g80t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:43",
-          "status": "out_of_stock",
-          "price_cents": 3899
-        },
         {
           "t": "2026-07-01T21:00:30+00:00",
           "status": "out_of_stock",
@@ -10441,11 +9946,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:35",
-          "status": "in_stock_with_count",
-          "price_cents": 3199
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3199
@@ -10515,11 +10015,6 @@
     "https://wildmanrocketry.com/products/h100w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:44",
-          "status": "in_stock_with_count",
-          "price_cents": 5499
-        },
         {
           "t": "2026-06-08T03:04:50+00:00",
           "status": "out_of_stock",
@@ -10651,11 +10146,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:44",
-          "status": "in_stock_with_count",
-          "price_cents": 4499
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 4499
@@ -10745,11 +10235,6 @@
     "https://wildmanrocketry.com/products/h128w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:44",
-          "status": "in_stock_with_count",
-          "price_cents": 3499
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -10976,11 +10461,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:45",
-          "status": "in_stock_with_count",
-          "price_cents": 4499
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 4499
@@ -11121,11 +10601,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:45",
-          "status": "in_stock_with_count",
-          "price_cents": 3499
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3499
@@ -11221,11 +10696,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:46",
-          "status": "out_of_stock",
-          "price_cents": 4699
-        },
-        {
           "t": "2026-07-01T21:00:30+00:00",
           "status": "out_of_stock",
           "price_cents": 5299
@@ -11310,11 +10780,6 @@
     "https://wildmanrocketry.com/products/h170m": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:46",
-          "status": "in_stock_with_count",
-          "price_cents": 6199
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -11406,11 +10871,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:46",
-          "status": "in_stock_with_count",
-          "price_cents": 6199
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 6199
@@ -11470,11 +10930,6 @@
     "https://wildmanrocketry.com/products/h180w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:46",
-          "status": "in_stock_with_count",
-          "price_cents": 4199
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -11586,11 +11041,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:47",
-          "status": "in_stock_with_count",
-          "price_cents": 4199
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 4199
@@ -11701,11 +11151,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:47",
-          "status": "in_stock_with_count",
-          "price_cents": 5499
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 5499
@@ -11780,11 +11225,6 @@
     "https://wildmanrocketry.com/products/h220t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:47",
-          "status": "in_stock_with_count",
-          "price_cents": 4199
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -11876,11 +11316,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:47",
-          "status": "in_stock_with_count",
-          "price_cents": 3499
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 3499
@@ -11966,11 +11401,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:48",
-          "status": "in_stock_with_count",
-          "price_cents": 4499
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 4499
@@ -12040,11 +11470,6 @@
     "https://wildmanrocketry.com/products/h250g": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:48",
-          "status": "in_stock_with_count",
-          "price_cents": 4199
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -12126,11 +11551,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:48",
-          "status": "in_stock_with_count",
-          "price_cents": 5199
-        },
-        {
           "t": "2026-06-17T13:29:24+00:00",
           "status": "out_of_stock",
           "price_cents": 5199
@@ -12175,11 +11595,6 @@
     "https://wildmanrocketry.com/products/h283st": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:48",
-          "status": "in_stock_with_count",
-          "price_cents": 5499
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -12250,11 +11665,6 @@
     "https://wildmanrocketry.com/products/h550st": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:49",
-          "status": "out_of_stock",
-          "price_cents": 6299
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -12411,11 +11821,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:44",
-          "status": "out_of_stock",
-          "price_cents": 4699
-        },
-        {
           "t": "2026-07-01T21:00:30+00:00",
           "status": "out_of_stock",
           "price_cents": 5299
@@ -12465,11 +11870,6 @@
     "https://wildmanrocketry.com/products/h135w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:45",
-          "status": "out_of_stock",
-          "price_cents": 4699
-        },
         {
           "t": "2026-06-12T14:04:55+00:00",
           "status": "in_stock_with_count",
@@ -12571,11 +11971,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:46",
-          "status": "out_of_stock",
-          "price_cents": 4699
-        },
-        {
           "t": "2026-07-01T21:00:30+00:00",
           "status": "out_of_stock",
           "price_cents": 5299
@@ -12641,11 +12036,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:47",
-          "status": "out_of_stock",
-          "price_cents": 4699
-        },
-        {
           "t": "2026-07-01T21:00:30+00:00",
           "status": "out_of_stock",
           "price_cents": 5299
@@ -12710,11 +12100,6 @@
     "https://wildmanrocketry.com/products/h45w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:48",
-          "status": "in_stock_with_count",
-          "price_cents": 6299
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -12826,11 +12211,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:50",
-          "status": "out_of_stock",
-          "price_cents": 6499
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 8699
@@ -12910,11 +12290,6 @@
     "https://wildmanrocketry.com/products/i205w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:51",
-          "status": "out_of_stock",
-          "price_cents": 6399
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -13000,11 +12375,6 @@
     "https://wildmanrocketry.com/products/i280dm": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:52",
-          "status": "in_stock_with_count",
-          "price_cents": 9699
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -13095,11 +12465,6 @@
     "https://wildmanrocketry.com/products/i500t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:55",
-          "status": "out_of_stock",
-          "price_cents": 9699
-        },
         {
           "t": "2026-06-12T13:23:53+00:00",
           "status": "in_stock_with_count",
@@ -13256,11 +12621,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:50",
-          "status": "in_stock_with_count",
-          "price_cents": 7699
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 7699
@@ -13330,11 +12690,6 @@
     "https://wildmanrocketry.com/products/i161w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:50",
-          "status": "in_stock_with_count",
-          "price_cents": 6199
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -13440,11 +12795,6 @@
     "https://wildmanrocketry.com/products/i175ws-13a": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:50",
-          "status": "in_stock_with_count",
-          "price_cents": 6499
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -13566,11 +12916,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:51",
-          "status": "in_stock_with_count",
-          "price_cents": 5899
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 5899
@@ -13610,11 +12955,6 @@
     "https://wildmanrocketry.com/products/i211w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:51",
-          "status": "in_stock_with_count",
-          "price_cents": 7299
-        },
         {
           "t": "2026-06-06T16:07:22+00:00",
           "status": "out_of_stock",
@@ -13706,11 +13046,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:51",
-          "status": "out_of_stock",
-          "price_cents": 7499
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 8399
@@ -13765,11 +13100,6 @@
     "https://wildmanrocketry.com/products/i218r": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:52",
-          "status": "in_stock_with_count",
-          "price_cents": 6199
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -13856,11 +13186,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:52",
-          "status": "in_stock_with_count",
-          "price_cents": 7499
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 7499
@@ -13915,11 +13240,6 @@
     "https://wildmanrocketry.com/products/i245g": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:52",
-          "status": "in_stock_with_count",
-          "price_cents": 6199
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -14001,11 +13321,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:52",
-          "status": "in_stock_with_count",
-          "price_cents": 8299
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 8299
@@ -14075,11 +13390,6 @@
     "https://wildmanrocketry.com/products/i285r": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:53",
-          "status": "in_stock_with_count",
-          "price_cents": 7299
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -14176,11 +13486,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:53",
-          "status": "in_stock_with_count",
-          "price_cents": 7299
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 7299
@@ -14276,11 +13581,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:53",
-          "status": "in_stock_with_count",
-          "price_cents": 8999
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 8999
@@ -14340,11 +13640,6 @@
     "https://wildmanrocketry.com/products/i357t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:53",
-          "status": "in_stock_with_count",
-          "price_cents": 6199
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -14441,11 +13736,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:53",
-          "status": "in_stock_with_count",
-          "price_cents": 8299
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 8299
@@ -14525,11 +13815,6 @@
     "https://wildmanrocketry.com/products/i435t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:54",
-          "status": "in_stock_with_count",
-          "price_cents": 8299
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -14626,11 +13911,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:55",
-          "status": "out_of_stock",
-          "price_cents": 8199
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 9199
@@ -14701,11 +13981,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:55",
-          "status": "out_of_stock",
-          "price_cents": 7699
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 8649
@@ -14756,11 +14031,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:55",
-          "status": "in_stock_with_count",
-          "price_cents": 8999
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "out_of_stock",
           "price_cents": 8999
@@ -14810,11 +14080,6 @@
     "https://wildmanrocketry.com/products/j270w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:57",
-          "status": "out_of_stock",
-          "price_cents": 10299
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -14870,11 +14135,6 @@
     "https://wildmanrocketry.com/products/j425r": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:58",
-          "status": "out_of_stock",
-          "price_cents": 10299
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -14935,11 +14195,6 @@
     "https://wildmanrocketry.com/products/j1299n": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:56",
-          "status": "in_stock_with_count",
-          "price_cents": 11599
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -15031,11 +14286,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:56",
-          "status": "out_of_stock",
-          "price_cents": 13599
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 15299
@@ -15085,11 +14335,6 @@
     "https://wildmanrocketry.com/products/j1799n": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:56",
-          "status": "in_stock_with_count",
-          "price_cents": 14899
-        },
         {
           "t": "2026-06-08T18:05:47+00:00",
           "status": "out_of_stock",
@@ -15145,11 +14390,6 @@
     "https://wildmanrocketry.com/products/j180t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:56",
-          "status": "in_stock_with_count",
-          "price_cents": 10999
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -15241,11 +14481,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:57",
-          "status": "out_of_stock",
-          "price_cents": 12899
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 14999
@@ -15321,11 +14556,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:57",
-          "status": "in_stock_with_count",
-          "price_cents": 10999
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 10999
@@ -15390,11 +14620,6 @@
     "https://wildmanrocketry.com/products/j315r": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:57",
-          "status": "in_stock_with_count",
-          "price_cents": 10999
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -15486,11 +14711,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:57",
-          "status": "in_stock_with_count",
-          "price_cents": 9599
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 9599
@@ -15545,11 +14765,6 @@
     "https://wildmanrocketry.com/products/j350w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:58",
-          "status": "out_of_stock",
-          "price_cents": 9599
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -15651,11 +14866,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:58",
-          "status": "out_of_stock",
-          "price_cents": 13599
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 15299
@@ -15710,11 +14920,6 @@
     "https://wildmanrocketry.com/products/j420r": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:58",
-          "status": "out_of_stock",
-          "price_cents": 9599
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -15790,11 +14995,6 @@
     "https://wildmanrocketry.com/products/j435ws": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:58",
-          "status": "out_of_stock",
-          "price_cents": 10299
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -15886,11 +15086,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:59",
-          "status": "out_of_stock",
-          "price_cents": 16799
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 18899
@@ -15966,11 +15161,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:59",
-          "status": "out_of_stock",
-          "price_cents": 10999
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 12399
@@ -16036,11 +15226,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:59",
-          "status": "out_of_stock",
-          "price_cents": 9599
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 10799
@@ -16095,11 +15280,6 @@
     "https://wildmanrocketry.com/products/j510w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:15:59",
-          "status": "out_of_stock",
-          "price_cents": 12899
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -16191,11 +15371,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:15:59",
-          "status": "out_of_stock",
-          "price_cents": 13599
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 18899
@@ -16250,11 +15425,6 @@
     "https://wildmanrocketry.com/products/j550st-14": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:00",
-          "status": "out_of_stock",
-          "price_cents": 10999
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -16315,11 +15485,6 @@
     "https://wildmanrocketry.com/products/j570w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:00",
-          "status": "in_stock_with_count",
-          "price_cents": 11399
-        },
         {
           "t": "2026-06-12T17:07:25+00:00",
           "status": "out_of_stock",
@@ -16401,11 +15566,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:00",
-          "status": "out_of_stock",
-          "price_cents": 13599
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 15299
@@ -16456,11 +15616,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:00",
-          "status": "out_of_stock",
-          "price_cents": 11599
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 12999
@@ -16505,11 +15660,6 @@
     "https://wildmanrocketry.com/products/j90w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:00",
-          "status": "out_of_stock",
-          "price_cents": 10999
-        },
         {
           "t": "2026-06-12T13:24:22+00:00",
           "status": "in_stock_with_count",
@@ -16611,11 +15761,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:04",
-          "status": "out_of_stock",
-          "price_cents": 19299
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 21699
@@ -16680,11 +15825,6 @@
     "https://wildmanrocketry.com/products/k1000t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:01",
-          "status": "in_stock_with_count",
-          "price_cents": 20299
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -16766,11 +15906,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:01",
-          "status": "in_stock_with_count",
-          "price_cents": 16799
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 16799
@@ -16830,11 +15965,6 @@
     "https://wildmanrocketry.com/products/k1103x": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:01",
-          "status": "in_stock_with_count",
-          "price_cents": 16799
-        },
         {
           "t": "2026-06-18T21:06:26+00:00",
           "status": "out_of_stock",
@@ -16916,11 +16046,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:01",
-          "status": "in_stock_with_count",
-          "price_cents": 23299
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 23299
@@ -17000,11 +16125,6 @@
     "https://wildmanrocketry.com/products/k1800st-p": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:02",
-          "status": "out_of_stock",
-          "price_cents": 24999
-        },
         {
           "t": "2026-06-12T14:06:20+00:00",
           "status": "in_stock_with_count",
@@ -17106,11 +16226,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:02",
-          "status": "in_stock_with_count",
-          "price_cents": 16799
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 16799
@@ -17176,11 +16291,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:02",
-          "status": "in_stock_with_count",
-          "price_cents": 25699
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 25699
@@ -17235,11 +16345,6 @@
     "https://wildmanrocketry.com/products/k2050st": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:02",
-          "status": "out_of_stock",
-          "price_cents": 16799
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -17296,11 +16401,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:02",
-          "status": "out_of_stock",
-          "price_cents": 34699
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 38899
@@ -17340,11 +16440,6 @@
     "https://wildmanrocketry.com/products/k270w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:03",
-          "status": "out_of_stock",
-          "price_cents": 23299
-        },
         {
           "t": "2026-06-12T13:24:34+00:00",
           "status": "in_stock_with_count",
@@ -17416,11 +16511,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:03",
-          "status": "out_of_stock",
-          "price_cents": 23299
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 26099
@@ -17470,11 +16560,6 @@
     "https://wildmanrocketry.com/products/k400c": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:03",
-          "status": "out_of_stock",
-          "price_cents": 19299
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -17535,11 +16620,6 @@
     "https://wildmanrocketry.com/products/k455nw": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:03",
-          "status": "out_of_stock",
-          "price_cents": 29499
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -17606,11 +16686,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:04",
-          "status": "in_stock_with_count",
-          "price_cents": 16799
-        },
-        {
           "t": "2026-06-10T00:06:24+00:00",
           "status": "out_of_stock",
           "price_cents": 16799
@@ -17660,11 +16735,6 @@
     "https://wildmanrocketry.com/products/k480w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:04",
-          "status": "in_stock_with_count",
-          "price_cents": 23299
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -17761,11 +16831,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:04",
-          "status": "in_stock_with_count",
-          "price_cents": 16799
-        },
-        {
           "t": "2026-06-17T00:06:35+00:00",
           "status": "out_of_stock",
           "price_cents": 16799
@@ -17815,11 +16880,6 @@
     "https://wildmanrocketry.com/products/k550w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:05",
-          "status": "out_of_stock",
-          "price_cents": 16799
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -17906,11 +16966,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:05",
-          "status": "in_stock_with_count",
-          "price_cents": 20299
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 20299
@@ -17971,11 +17026,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:05",
-          "status": "out_of_stock",
-          "price_cents": 16799
-        },
-        {
           "t": "2026-09-01T14:00:33+00:00",
           "status": "in_stock",
           "price_cents": 16799
@@ -18031,11 +17081,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:05",
-          "status": "out_of_stock",
-          "price_cents": 23299
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 26099
@@ -18090,11 +17135,6 @@
     "https://wildmanrocketry.com/products/k750st-ps": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:05",
-          "status": "out_of_stock",
-          "price_cents": 17399
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -18155,11 +17195,6 @@
     "https://wildmanrocketry.com/products/k780r": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:06",
-          "status": "in_stock_with_count",
-          "price_cents": 20299
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -18251,11 +17286,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:06",
-          "status": "out_of_stock",
-          "price_cents": 16799
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 18899
@@ -18310,11 +17340,6 @@
     "https://wildmanrocketry.com/products/k850dm": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:06",
-          "status": "in_stock_with_count",
-          "price_cents": 29499
-        },
         {
           "t": "2026-06-06T21:07:08+00:00",
           "status": "out_of_stock",
@@ -18416,11 +17441,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:06",
-          "status": "out_of_stock",
-          "price_cents": 25699
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 28799
@@ -18470,11 +17490,6 @@
     "https://wildmanrocketry.com/products/l1000w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:06",
-          "status": "in_stock_with_count",
-          "price_cents": 30799
-        },
         {
           "t": "2026-06-10T00:06:38+00:00",
           "status": "out_of_stock",
@@ -18561,11 +17576,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:07",
-          "status": "out_of_stock",
-          "price_cents": 26999
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 30299
@@ -18625,11 +17635,6 @@
     "https://wildmanrocketry.com/products/l1150r": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:07",
-          "status": "in_stock_with_count",
-          "price_cents": 28999
-        },
         {
           "t": "2026-06-07T23:06:39+00:00",
           "status": "out_of_stock",
@@ -18745,11 +17750,6 @@
     "https://wildmanrocketry.com/products/l1256ws": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:07",
-          "status": "out_of_stock",
-          "price_cents": 28999
-        },
         {
           "t": "2026-06-12T14:06:48+00:00",
           "status": "in_stock_with_count",
@@ -18881,11 +17881,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:07",
-          "status": "in_stock_with_count",
-          "price_cents": 28999
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 28999
@@ -18960,11 +17955,6 @@
     "https://wildmanrocketry.com/products/l1420r": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:07",
-          "status": "out_of_stock",
-          "price_cents": 37699
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -19041,11 +18031,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:08",
-          "status": "in_stock_with_count",
-          "price_cents": 28999
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 28999
@@ -19110,11 +18095,6 @@
     "https://wildmanrocketry.com/products/l1940x-ps": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:08",
-          "status": "out_of_stock",
-          "price_cents": 30399
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -19190,11 +18170,6 @@
     "https://wildmanrocketry.com/products/l2200g": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:08",
-          "status": "out_of_stock",
-          "price_cents": 37699
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -19286,11 +18261,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:08",
-          "status": "out_of_stock",
-          "price_cents": 46199
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 51799
@@ -19355,11 +18325,6 @@
     "https://wildmanrocketry.com/products/l850w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:09",
-          "status": "in_stock_with_count",
-          "price_cents": 28999
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -19471,11 +18436,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:09",
-          "status": "in_stock_with_count",
-          "price_cents": 37699
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 37699
@@ -19555,11 +18515,6 @@
     "https://wildmanrocketry.com/products/m1297w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:10",
-          "status": "out_of_stock",
-          "price_cents": 37699
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -19641,11 +18596,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:10",
-          "status": "out_of_stock",
-          "price_cents": 45559
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 51099
@@ -19705,11 +18655,6 @@
     "https://wildmanrocketry.com/products/m1340w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:10",
-          "status": "in_stock_with_count",
-          "price_cents": 70599
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -19776,11 +18721,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:10",
-          "status": "out_of_stock",
-          "price_cents": 77999
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 79999
@@ -19845,11 +18785,6 @@
     "https://wildmanrocketry.com/products/m1419w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:10",
-          "status": "in_stock_with_count",
-          "price_cents": 64199
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -19961,11 +18896,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:11",
-          "status": "out_of_stock",
-          "price_cents": 45599
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 51099
@@ -20050,11 +18980,6 @@
     "https://wildmanrocketry.com/products/m1780nt": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:11",
-          "status": "out_of_stock",
-          "price_cents": 37699
-        },
         {
           "t": "2026-06-12T14:07:38+00:00",
           "status": "in_stock_with_count",
@@ -20141,11 +19066,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:12",
-          "status": "out_of_stock",
-          "price_cents": 64199
-        },
-        {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
           "price_cents": 71999
@@ -20195,11 +19115,6 @@
     "https://wildmanrocketry.com/products/m1850w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:12",
-          "status": "out_of_stock",
-          "price_cents": 53899
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -20260,11 +19175,6 @@
     "https://wildmanrocketry.com/products/m1939w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:12",
-          "status": "out_of_stock",
-          "price_cents": 85999
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -20340,11 +19250,6 @@
     "https://wildmanrocketry.com/products/m2050x": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:12",
-          "status": "out_of_stock",
-          "price_cents": 40599
-        },
         {
           "t": "2026-07-01T22:00:29+00:00",
           "status": "out_of_stock",
@@ -20456,11 +19361,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:13",
-          "status": "out_of_stock",
-          "price_cents": 64199
-        },
-        {
           "t": "2026-07-01T23:00:27+00:00",
           "status": "out_of_stock",
           "price_cents": 71999
@@ -20510,11 +19410,6 @@
     "https://wildmanrocketry.com/products/m2500t": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:13",
-          "status": "out_of_stock",
-          "price_cents": 85999
-        },
         {
           "t": "2026-07-01T23:00:27+00:00",
           "status": "out_of_stock",
@@ -20591,11 +19486,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:14",
-          "status": "out_of_stock",
-          "price_cents": 69299
-        },
-        {
           "t": "2026-07-01T23:00:27+00:00",
           "status": "out_of_stock",
           "price_cents": 77699
@@ -20651,11 +19541,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:14",
-          "status": "out_of_stock",
-          "price_cents": 89799
-        },
-        {
           "t": "2026-07-01T23:00:27+00:00",
           "status": "out_of_stock",
           "price_cents": 100599
@@ -20695,11 +19580,6 @@
     "https://wildmanrocketry.com/products/m650w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:14",
-          "status": "out_of_stock",
-          "price_cents": 47499
-        },
         {
           "t": "2026-07-01T23:00:27+00:00",
           "status": "out_of_stock",
@@ -20771,11 +19651,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:15",
-          "status": "out_of_stock",
-          "price_cents": 57799
-        },
-        {
           "t": "2026-07-01T23:00:27+00:00",
           "status": "out_of_stock",
           "price_cents": 64799
@@ -20841,11 +19716,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:15",
-          "status": "out_of_stock",
-          "price_cents": 125799
-        },
-        {
           "t": "2026-07-01T23:00:27+00:00",
           "status": "out_of_stock",
           "price_cents": 140899
@@ -20885,11 +19755,6 @@
     "https://wildmanrocketry.com/products/n2000w": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:15",
-          "status": "out_of_stock",
-          "price_cents": 121599
-        },
         {
           "t": "2026-07-01T23:00:27+00:00",
           "status": "out_of_stock",
@@ -20961,11 +19826,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:16",
-          "status": "in_stock_with_count",
-          "price_cents": 89999
-        },
-        {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
           "price_cents": 89999
@@ -21021,11 +19881,6 @@
       "vendor_slug": "wildman",
       "events": [
         {
-          "t": "2026-05-31T01:16:16",
-          "status": "out_of_stock",
-          "price_cents": 149999
-        },
-        {
           "t": "2026-07-01T23:00:27+00:00",
           "status": "out_of_stock",
           "price_cents": 167999
@@ -21045,11 +19900,6 @@
     "https://wildmanrocketry.com/products/n3300r": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:16",
-          "status": "out_of_stock",
-          "price_cents": 115399
-        },
         {
           "t": "2026-07-01T23:00:27+00:00",
           "status": "out_of_stock",
@@ -21095,11 +19945,6 @@
     "https://wildmanrocketry.com/products/n4000w-ps": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:16",
-          "status": "in_stock_with_count",
-          "price_cents": 179999
-        },
         {
           "t": "2026-06-09T17:07:35+00:00",
           "status": "out_of_stock",
@@ -21165,11 +20010,6 @@
     "https://wildmanrocketry.com/products/o5280x": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:17",
-          "status": "in_stock_with_count",
-          "price_cents": 299999
-        },
         {
           "t": "2026-06-25T01:34:12+00:00",
           "status": "in_stock",
@@ -21245,11 +20085,6 @@
     "https://wildmanrocketry.com/products/o8000": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:17",
-          "status": "out_of_stock",
-          "price_cents": 999900
-        },
         {
           "t": "2026-07-01T23:00:27+00:00",
           "status": "out_of_stock",
@@ -21665,11 +20500,6 @@
     "https://wildmanrocketry.com/products/o5040x-ps": {
       "vendor_slug": "wildman",
       "events": [
-        {
-          "t": "2026-05-31T01:16:17",
-          "status": "out_of_stock",
-          "price_cents": 303159
-        },
         {
           "t": "2026-11-26T00:00:37+00:00",
           "status": "in_stock",
@@ -36374,6 +35204,11 @@
           "t": "2026-11-27T01:00:43+00:00",
           "status": "unknown",
           "price_cents": 1900
+        },
+        {
+          "t": "2026-11-27T02:00:35+00:00",
+          "status": "out_of_stock",
+          "price_cents": 1900
         }
       ]
     },
@@ -36978,6 +35813,11 @@
         {
           "t": "2026-11-27T01:00:43+00:00",
           "status": "unknown",
+          "price_cents": 2300
+        },
+        {
+          "t": "2026-11-27T02:00:36+00:00",
+          "status": "out_of_stock",
           "price_cents": 2300
         }
       ]
@@ -37659,6 +36499,11 @@
           "t": "2026-11-27T01:00:44+00:00",
           "status": "unknown",
           "price_cents": 1900
+        },
+        {
+          "t": "2026-11-27T02:00:36+00:00",
+          "status": "out_of_stock",
+          "price_cents": 1900
         }
       ]
     },
@@ -38273,6 +37118,11 @@
         {
           "t": "2026-11-27T01:00:44+00:00",
           "status": "unknown",
+          "price_cents": 1800
+        },
+        {
+          "t": "2026-11-27T02:00:37+00:00",
+          "status": "out_of_stock",
           "price_cents": 1800
         }
       ]
@@ -38899,6 +37749,11 @@
           "t": "2026-11-27T01:00:45+00:00",
           "status": "unknown",
           "price_cents": 1899
+        },
+        {
+          "t": "2026-11-27T02:00:37+00:00",
+          "status": "out_of_stock",
+          "price_cents": 1899
         }
       ]
     },
@@ -39504,6 +38359,11 @@
           "t": "2026-11-27T01:00:45+00:00",
           "status": "unknown",
           "price_cents": 2300
+        },
+        {
+          "t": "2026-11-27T02:00:38+00:00",
+          "status": "in_stock_with_count",
+          "price_cents": 2300
         }
       ]
     },
@@ -40059,6 +38919,11 @@
           "t": "2026-11-27T01:01:32+00:00",
           "status": "unknown",
           "price_cents": 2400
+        },
+        {
+          "t": "2026-11-27T02:03:00+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2400
         }
       ]
     },
@@ -40608,6 +39473,11 @@
         {
           "t": "2026-11-27T01:01:33+00:00",
           "status": "unknown",
+          "price_cents": 2400
+        },
+        {
+          "t": "2026-11-27T02:03:01+00:00",
+          "status": "out_of_stock",
           "price_cents": 2400
         }
       ]
@@ -41224,6 +40094,11 @@
           "t": "2026-11-27T01:00:46+00:00",
           "status": "unknown",
           "price_cents": 2900
+        },
+        {
+          "t": "2026-11-27T02:00:38+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2900
         }
       ]
     },
@@ -41838,6 +40713,11 @@
         {
           "t": "2026-11-27T01:00:46+00:00",
           "status": "unknown",
+          "price_cents": 2300
+        },
+        {
+          "t": "2026-11-27T02:00:39+00:00",
+          "status": "out_of_stock",
           "price_cents": 2300
         }
       ]
@@ -42458,6 +41338,11 @@
         {
           "t": "2026-11-27T01:00:47+00:00",
           "status": "unknown",
+          "price_cents": 3500
+        },
+        {
+          "t": "2026-11-27T02:00:39+00:00",
+          "status": "out_of_stock",
           "price_cents": 3500
         }
       ]
@@ -43124,6 +42009,11 @@
           "t": "2026-11-27T01:00:47+00:00",
           "status": "unknown",
           "price_cents": 1199
+        },
+        {
+          "t": "2026-11-27T02:00:40+00:00",
+          "status": "out_of_stock",
+          "price_cents": 1199
         }
       ]
     },
@@ -43728,6 +42618,11 @@
         {
           "t": "2026-11-27T01:00:48+00:00",
           "status": "unknown",
+          "price_cents": 1500
+        },
+        {
+          "t": "2026-11-27T02:00:40+00:00",
+          "status": "out_of_stock",
           "price_cents": 1500
         }
       ]
@@ -44389,6 +43284,11 @@
           "t": "2026-11-27T01:00:48+00:00",
           "status": "unknown",
           "price_cents": 2599
+        },
+        {
+          "t": "2026-11-27T02:00:41+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2599
         }
       ]
     },
@@ -44993,6 +43893,11 @@
         {
           "t": "2026-11-27T01:00:49+00:00",
           "status": "unknown",
+          "price_cents": 2900
+        },
+        {
+          "t": "2026-11-27T02:00:41+00:00",
+          "status": "out_of_stock",
           "price_cents": 2900
         }
       ]
@@ -45659,6 +44564,11 @@
           "t": "2026-11-27T01:00:49+00:00",
           "status": "unknown",
           "price_cents": 2500
+        },
+        {
+          "t": "2026-11-27T02:00:42+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2500
         }
       ]
     },
@@ -46263,6 +45173,11 @@
         {
           "t": "2026-11-27T01:00:50+00:00",
           "status": "unknown",
+          "price_cents": 2500
+        },
+        {
+          "t": "2026-11-27T02:00:42+00:00",
+          "status": "out_of_stock",
           "price_cents": 2500
         }
       ]
@@ -46928,6 +45843,11 @@
         {
           "t": "2026-11-27T01:00:50+00:00",
           "status": "unknown",
+          "price_cents": 1500
+        },
+        {
+          "t": "2026-11-27T02:00:43+00:00",
+          "status": "out_of_stock",
           "price_cents": 1500
         }
       ]
@@ -47699,6 +46619,11 @@
           "t": "2026-11-27T01:00:51+00:00",
           "status": "unknown",
           "price_cents": 2499
+        },
+        {
+          "t": "2026-11-27T02:00:43+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2499
         }
       ]
     },
@@ -48303,6 +47228,11 @@
         {
           "t": "2026-11-27T01:00:51+00:00",
           "status": "unknown",
+          "price_cents": 2499
+        },
+        {
+          "t": "2026-11-27T02:00:44+00:00",
+          "status": "out_of_stock",
           "price_cents": 2499
         }
       ]
@@ -48969,6 +47899,11 @@
           "t": "2026-11-27T01:00:52+00:00",
           "status": "unknown",
           "price_cents": 3500
+        },
+        {
+          "t": "2026-11-27T02:00:44+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3500
         }
       ]
     },
@@ -49588,6 +48523,11 @@
         {
           "t": "2026-11-27T01:00:52+00:00",
           "status": "unknown",
+          "price_cents": 2300
+        },
+        {
+          "t": "2026-11-27T02:00:45+00:00",
+          "status": "out_of_stock",
           "price_cents": 2300
         }
       ]
@@ -50214,6 +49154,11 @@
           "t": "2026-11-27T01:00:53+00:00",
           "status": "unknown",
           "price_cents": 2000
+        },
+        {
+          "t": "2026-11-27T02:00:45+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2000
         }
       ]
     },
@@ -50758,6 +49703,11 @@
         {
           "t": "2026-11-27T01:01:35+00:00",
           "status": "unknown",
+          "price_cents": 3300
+        },
+        {
+          "t": "2026-11-27T02:03:03+00:00",
+          "status": "out_of_stock",
           "price_cents": 3300
         }
       ]
@@ -51309,6 +50259,11 @@
           "t": "2026-11-27T01:01:37+00:00",
           "status": "unknown",
           "price_cents": 2700
+        },
+        {
+          "t": "2026-11-27T02:03:05+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2700
         }
       ]
     },
@@ -51854,6 +50809,11 @@
           "t": "2026-11-27T01:01:36+00:00",
           "status": "unknown",
           "price_cents": 3300
+        },
+        {
+          "t": "2026-11-27T02:03:04+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3300
         }
       ]
     },
@@ -52398,6 +51358,11 @@
         {
           "t": "2026-11-27T01:01:35+00:00",
           "status": "unknown",
+          "price_cents": 3300
+        },
+        {
+          "t": "2026-11-27T02:03:03+00:00",
+          "status": "out_of_stock",
           "price_cents": 3300
         }
       ]
@@ -52949,6 +51914,11 @@
           "t": "2026-11-27T01:01:38+00:00",
           "status": "unknown",
           "price_cents": 2700
+        },
+        {
+          "t": "2026-11-27T02:03:06+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2700
         }
       ]
     },
@@ -53493,6 +52463,11 @@
         {
           "t": "2026-11-27T01:01:33+00:00",
           "status": "unknown",
+          "price_cents": 3400
+        },
+        {
+          "t": "2026-11-27T02:03:01+00:00",
+          "status": "out_of_stock",
           "price_cents": 3400
         }
       ]
@@ -54049,6 +53024,11 @@
           "t": "2026-11-27T01:01:34+00:00",
           "status": "unknown",
           "price_cents": 3300
+        },
+        {
+          "t": "2026-11-27T02:03:02+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3300
         }
       ]
     },
@@ -54593,6 +53573,11 @@
         {
           "t": "2026-11-27T01:01:38+00:00",
           "status": "unknown",
+          "price_cents": 3300
+        },
+        {
+          "t": "2026-11-27T02:03:06+00:00",
+          "status": "out_of_stock",
           "price_cents": 3300
         }
       ]
@@ -55143,6 +54128,11 @@
         {
           "t": "2026-11-27T01:01:36+00:00",
           "status": "unknown",
+          "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:03:04+00:00",
+          "status": "out_of_stock",
           "price_cents": 3000
         }
       ]
@@ -55704,6 +54694,11 @@
           "t": "2026-11-27T01:01:39+00:00",
           "status": "unknown",
           "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:03:07+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3000
         }
       ]
     },
@@ -56253,6 +55248,11 @@
         {
           "t": "2026-11-27T01:01:34+00:00",
           "status": "unknown",
+          "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:03:02+00:00",
+          "status": "out_of_stock",
           "price_cents": 3000
         }
       ]
@@ -56804,6 +55804,11 @@
           "t": "2026-11-27T01:01:39+00:00",
           "status": "unknown",
           "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:03:07+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3000
         }
       ]
     },
@@ -57353,6 +56358,11 @@
         {
           "t": "2026-11-27T01:01:37+00:00",
           "status": "unknown",
+          "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:03:05+00:00",
+          "status": "out_of_stock",
           "price_cents": 3000
         }
       ]
@@ -58039,6 +57049,11 @@
           "t": "2026-11-27T01:00:53+00:00",
           "status": "unknown",
           "price_cents": 2999
+        },
+        {
+          "t": "2026-11-27T02:00:46+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2999
         }
       ]
     },
@@ -58643,6 +57658,11 @@
         {
           "t": "2026-11-27T01:00:54+00:00",
           "status": "unknown",
+          "price_cents": 3300
+        },
+        {
+          "t": "2026-11-27T02:00:46+00:00",
+          "status": "out_of_stock",
           "price_cents": 3300
         }
       ]
@@ -59264,6 +58284,11 @@
           "t": "2026-11-27T01:00:54+00:00",
           "status": "unknown",
           "price_cents": 2500
+        },
+        {
+          "t": "2026-11-27T02:00:47+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2500
         }
       ]
     },
@@ -59883,6 +58908,11 @@
         {
           "t": "2026-11-27T01:00:55+00:00",
           "status": "unknown",
+          "price_cents": 2500
+        },
+        {
+          "t": "2026-11-27T02:00:47+00:00",
+          "status": "out_of_stock",
           "price_cents": 2500
         }
       ]
@@ -60564,6 +59594,11 @@
           "t": "2026-11-27T01:00:55+00:00",
           "status": "unknown",
           "price_cents": 3600
+        },
+        {
+          "t": "2026-11-27T02:00:48+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3600
         }
       ]
     },
@@ -61168,6 +60203,11 @@
         {
           "t": "2026-11-27T01:00:56+00:00",
           "status": "unknown",
+          "price_cents": 4500
+        },
+        {
+          "t": "2026-11-27T02:00:48+00:00",
+          "status": "out_of_stock",
           "price_cents": 4500
         }
       ]
@@ -61834,6 +60874,11 @@
           "t": "2026-11-27T01:00:56+00:00",
           "status": "unknown",
           "price_cents": 1599
+        },
+        {
+          "t": "2026-11-27T02:00:49+00:00",
+          "status": "out_of_stock",
+          "price_cents": 1599
         }
       ]
     },
@@ -62438,6 +61483,11 @@
         {
           "t": "2026-11-27T01:00:57+00:00",
           "status": "unknown",
+          "price_cents": 1800
+        },
+        {
+          "t": "2026-11-27T02:00:49+00:00",
+          "status": "out_of_stock",
           "price_cents": 1800
         }
       ]
@@ -63058,6 +62108,11 @@
         {
           "t": "2026-11-27T01:00:58+00:00",
           "status": "unknown",
+          "price_cents": 2600
+        },
+        {
+          "t": "2026-11-27T02:00:51+00:00",
+          "status": "out_of_stock",
           "price_cents": 2600
         }
       ]
@@ -63704,6 +62759,11 @@
           "t": "2026-11-27T01:00:57+00:00",
           "status": "unknown",
           "price_cents": 3600
+        },
+        {
+          "t": "2026-11-27T02:00:50+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3600
         }
       ]
     },
@@ -64308,6 +63368,11 @@
         {
           "t": "2026-11-27T01:00:58+00:00",
           "status": "unknown",
+          "price_cents": 4500
+        },
+        {
+          "t": "2026-11-27T02:00:50+00:00",
+          "status": "out_of_stock",
           "price_cents": 4500
         }
       ]
@@ -64964,6 +64029,11 @@
           "t": "2026-11-27T01:00:59+00:00",
           "status": "unknown",
           "price_cents": 4300
+        },
+        {
+          "t": "2026-11-27T02:00:51+00:00",
+          "status": "out_of_stock",
+          "price_cents": 4300
         }
       ]
     },
@@ -65568,6 +64638,11 @@
         {
           "t": "2026-11-27T01:00:59+00:00",
           "status": "unknown",
+          "price_cents": 4300
+        },
+        {
+          "t": "2026-11-27T02:00:52+00:00",
+          "status": "out_of_stock",
           "price_cents": 4300
         }
       ]
@@ -66259,6 +65334,11 @@
           "t": "2026-11-27T01:01:00+00:00",
           "status": "unknown",
           "price_cents": 2800
+        },
+        {
+          "t": "2026-11-27T02:00:52+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2800
         }
       ]
     },
@@ -66864,6 +65944,11 @@
           "t": "2026-11-27T01:01:00+00:00",
           "status": "unknown",
           "price_cents": 2800
+        },
+        {
+          "t": "2026-11-27T02:00:53+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2800
         }
       ]
     },
@@ -67468,6 +66553,11 @@
         {
           "t": "2026-11-27T01:01:01+00:00",
           "status": "unknown",
+          "price_cents": 2800
+        },
+        {
+          "t": "2026-11-27T02:00:53+00:00",
+          "status": "out_of_stock",
           "price_cents": 2800
         }
       ]
@@ -68134,6 +67224,11 @@
           "t": "2026-11-27T01:01:01+00:00",
           "status": "unknown",
           "price_cents": 2800
+        },
+        {
+          "t": "2026-11-27T02:00:54+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2800
         }
       ]
     },
@@ -68738,6 +67833,11 @@
         {
           "t": "2026-11-27T01:01:02+00:00",
           "status": "unknown",
+          "price_cents": 2800
+        },
+        {
+          "t": "2026-11-27T02:00:54+00:00",
+          "status": "out_of_stock",
           "price_cents": 2800
         }
       ]
@@ -69404,6 +68504,11 @@
           "t": "2026-11-27T01:01:02+00:00",
           "status": "unknown",
           "price_cents": 3600
+        },
+        {
+          "t": "2026-11-27T02:00:55+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3600
         }
       ]
     },
@@ -70008,6 +69113,11 @@
         {
           "t": "2026-11-27T01:01:03+00:00",
           "status": "unknown",
+          "price_cents": 4500
+        },
+        {
+          "t": "2026-11-27T02:00:55+00:00",
+          "status": "out_of_stock",
           "price_cents": 4500
         }
       ]
@@ -70704,6 +69814,11 @@
           "t": "2026-11-27T01:01:03+00:00",
           "status": "unknown",
           "price_cents": 2000
+        },
+        {
+          "t": "2026-11-27T02:00:56+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2000
         }
       ]
     },
@@ -71309,6 +70424,11 @@
           "t": "2026-11-27T01:01:04+00:00",
           "status": "unknown",
           "price_cents": 2000
+        },
+        {
+          "t": "2026-11-27T02:00:56+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2000
         }
       ]
     },
@@ -71913,6 +71033,11 @@
         {
           "t": "2026-11-27T01:01:04+00:00",
           "status": "unknown",
+          "price_cents": 2000
+        },
+        {
+          "t": "2026-11-27T02:00:57+00:00",
+          "status": "out_of_stock",
           "price_cents": 2000
         }
       ]
@@ -72619,6 +71744,11 @@
           "t": "2026-11-27T01:01:05+00:00",
           "status": "unknown",
           "price_cents": 2000
+        },
+        {
+          "t": "2026-11-27T02:00:57+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2000
         }
       ]
     },
@@ -73224,6 +72354,11 @@
           "t": "2026-11-27T01:01:05+00:00",
           "status": "unknown",
           "price_cents": 2000
+        },
+        {
+          "t": "2026-11-27T02:00:58+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2000
         }
       ]
     },
@@ -73828,6 +72963,11 @@
         {
           "t": "2026-11-27T01:01:06+00:00",
           "status": "unknown",
+          "price_cents": 2000
+        },
+        {
+          "t": "2026-11-27T02:00:58+00:00",
+          "status": "out_of_stock",
           "price_cents": 2000
         }
       ]
@@ -74529,6 +73669,11 @@
           "t": "2026-11-27T01:01:06+00:00",
           "status": "unknown",
           "price_cents": 3800
+        },
+        {
+          "t": "2026-11-27T02:00:59+00:00",
+          "status": "in_stock_with_count",
+          "price_cents": 3800
         }
       ]
     },
@@ -75134,6 +74279,11 @@
           "t": "2026-11-27T01:01:07+00:00",
           "status": "unknown",
           "price_cents": 3800
+        },
+        {
+          "t": "2026-11-27T02:00:59+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3800
         }
       ]
     },
@@ -75738,6 +74888,11 @@
         {
           "t": "2026-11-27T01:01:07+00:00",
           "status": "unknown",
+          "price_cents": 3800
+        },
+        {
+          "t": "2026-11-27T02:01:00+00:00",
+          "status": "out_of_stock",
           "price_cents": 3800
         }
       ]
@@ -76368,6 +75523,11 @@
         {
           "t": "2026-11-27T01:01:08+00:00",
           "status": "unknown",
+          "price_cents": 1900
+        },
+        {
+          "t": "2026-11-27T02:01:00+00:00",
+          "status": "out_of_stock",
           "price_cents": 1900
         }
       ]
@@ -77029,6 +76189,11 @@
           "t": "2026-11-27T01:01:08+00:00",
           "status": "unknown",
           "price_cents": 4300
+        },
+        {
+          "t": "2026-11-27T02:01:01+00:00",
+          "status": "out_of_stock",
+          "price_cents": 4300
         }
       ]
     },
@@ -77633,6 +76798,11 @@
         {
           "t": "2026-11-27T01:01:09+00:00",
           "status": "unknown",
+          "price_cents": 4300
+        },
+        {
+          "t": "2026-11-27T02:01:01+00:00",
+          "status": "out_of_stock",
           "price_cents": 4300
         }
       ]
@@ -78344,6 +77514,11 @@
           "t": "2026-11-27T01:01:09+00:00",
           "status": "unknown",
           "price_cents": 1800
+        },
+        {
+          "t": "2026-11-27T02:01:02+00:00",
+          "status": "out_of_stock",
+          "price_cents": 1800
         }
       ]
     },
@@ -78949,6 +78124,11 @@
           "t": "2026-11-27T01:01:10+00:00",
           "status": "unknown",
           "price_cents": 1599
+        },
+        {
+          "t": "2026-11-27T02:01:02+00:00",
+          "status": "out_of_stock",
+          "price_cents": 1599
         }
       ]
     },
@@ -79553,6 +78733,11 @@
         {
           "t": "2026-11-27T01:01:10+00:00",
           "status": "unknown",
+          "price_cents": 1800
+        },
+        {
+          "t": "2026-11-27T02:01:03+00:00",
+          "status": "out_of_stock",
           "price_cents": 1800
         }
       ]
@@ -80219,6 +79404,11 @@
           "t": "2026-11-27T01:01:11+00:00",
           "status": "unknown",
           "price_cents": 3600
+        },
+        {
+          "t": "2026-11-27T02:01:03+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3600
         }
       ]
     },
@@ -80823,6 +80013,11 @@
         {
           "t": "2026-11-27T01:01:11+00:00",
           "status": "unknown",
+          "price_cents": 4500
+        },
+        {
+          "t": "2026-11-27T02:01:04+00:00",
+          "status": "out_of_stock",
           "price_cents": 4500
         }
       ]
@@ -81489,6 +80684,11 @@
           "t": "2026-11-27T01:01:12+00:00",
           "status": "unknown",
           "price_cents": 2900
+        },
+        {
+          "t": "2026-11-27T02:01:04+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2900
         }
       ]
     },
@@ -82093,6 +81293,11 @@
         {
           "t": "2026-11-27T01:01:12+00:00",
           "status": "unknown",
+          "price_cents": 2900
+        },
+        {
+          "t": "2026-11-27T02:01:05+00:00",
+          "status": "out_of_stock",
           "price_cents": 2900
         }
       ]
@@ -82794,6 +81999,11 @@
           "t": "2026-11-27T01:01:13+00:00",
           "status": "unknown",
           "price_cents": 2800
+        },
+        {
+          "t": "2026-11-27T02:01:05+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2800
         }
       ]
     },
@@ -83399,6 +82609,11 @@
           "t": "2026-11-27T01:01:13+00:00",
           "status": "unknown",
           "price_cents": 2800
+        },
+        {
+          "t": "2026-11-27T02:01:06+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2800
         }
       ]
     },
@@ -84003,6 +83218,11 @@
         {
           "t": "2026-11-27T01:01:14+00:00",
           "status": "unknown",
+          "price_cents": 2800
+        },
+        {
+          "t": "2026-11-27T02:01:06+00:00",
+          "status": "out_of_stock",
           "price_cents": 2800
         }
       ]
@@ -84834,6 +84054,11 @@
           "t": "2026-11-27T01:01:14+00:00",
           "status": "unknown",
           "price_cents": 1800
+        },
+        {
+          "t": "2026-11-27T02:01:07+00:00",
+          "status": "out_of_stock",
+          "price_cents": 1800
         }
       ]
     },
@@ -85439,6 +84664,11 @@
           "t": "2026-11-27T01:01:15+00:00",
           "status": "unknown",
           "price_cents": 1599
+        },
+        {
+          "t": "2026-11-27T02:01:07+00:00",
+          "status": "out_of_stock",
+          "price_cents": 1599
         }
       ]
     },
@@ -86043,6 +85273,11 @@
         {
           "t": "2026-11-27T01:01:15+00:00",
           "status": "unknown",
+          "price_cents": 1800
+        },
+        {
+          "t": "2026-11-27T02:01:08+00:00",
+          "status": "out_of_stock",
           "price_cents": 1800
         }
       ]
@@ -86713,6 +85948,11 @@
         {
           "t": "2026-11-27T01:01:16+00:00",
           "status": "unknown",
+          "price_cents": 1900
+        },
+        {
+          "t": "2026-11-27T02:01:08+00:00",
+          "status": "out_of_stock",
           "price_cents": 1900
         }
       ]
@@ -87484,6 +86724,11 @@
           "t": "2026-11-27T01:01:52+00:00",
           "status": "unknown",
           "price_cents": 3700
+        },
+        {
+          "t": "2026-11-27T02:03:20+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3700
         }
       ]
     },
@@ -88029,6 +87274,11 @@
           "t": "2026-11-27T01:01:48+00:00",
           "status": "unknown",
           "price_cents": 3700
+        },
+        {
+          "t": "2026-11-27T02:03:16+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3700
         }
       ]
     },
@@ -88573,6 +87823,11 @@
         {
           "t": "2026-11-27T01:01:50+00:00",
           "status": "unknown",
+          "price_cents": 3700
+        },
+        {
+          "t": "2026-11-27T02:03:18+00:00",
+          "status": "out_of_stock",
           "price_cents": 3700
         }
       ]
@@ -89149,6 +88404,11 @@
           "t": "2026-11-27T01:01:40+00:00",
           "status": "unknown",
           "price_cents": 4100
+        },
+        {
+          "t": "2026-11-27T02:03:08+00:00",
+          "status": "out_of_stock",
+          "price_cents": 4100
         }
       ]
     },
@@ -89694,6 +88954,11 @@
           "t": "2026-11-27T01:01:43+00:00",
           "status": "unknown",
           "price_cents": 3700
+        },
+        {
+          "t": "2026-11-27T02:03:11+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3700
         }
       ]
     },
@@ -90238,6 +89503,11 @@
         {
           "t": "2026-11-27T01:01:50+00:00",
           "status": "unknown",
+          "price_cents": 4800
+        },
+        {
+          "t": "2026-11-27T02:03:18+00:00",
+          "status": "out_of_stock",
           "price_cents": 4800
         }
       ]
@@ -90799,6 +90069,11 @@
           "t": "2026-11-27T01:01:44+00:00",
           "status": "unknown",
           "price_cents": 3900
+        },
+        {
+          "t": "2026-11-27T02:03:12+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3900
         }
       ]
     },
@@ -91348,6 +90623,11 @@
         {
           "t": "2026-11-27T01:01:46+00:00",
           "status": "unknown",
+          "price_cents": 4200
+        },
+        {
+          "t": "2026-11-27T02:03:14+00:00",
+          "status": "out_of_stock",
           "price_cents": 4200
         }
       ]
@@ -91939,6 +91219,11 @@
           "t": "2026-11-27T01:01:53+00:00",
           "status": "unknown",
           "price_cents": 4100
+        },
+        {
+          "t": "2026-11-27T02:03:21+00:00",
+          "status": "out_of_stock",
+          "price_cents": 4100
         }
       ]
     },
@@ -92489,6 +91774,11 @@
           "t": "2026-11-27T01:01:49+00:00",
           "status": "unknown",
           "price_cents": 4500
+        },
+        {
+          "t": "2026-11-27T02:03:17+00:00",
+          "status": "out_of_stock",
+          "price_cents": 4500
         }
       ]
     },
@@ -93038,6 +92328,11 @@
         {
           "t": "2026-11-27T01:01:44+00:00",
           "status": "unknown",
+          "price_cents": 4100
+        },
+        {
+          "t": "2026-11-27T02:03:12+00:00",
+          "status": "out_of_stock",
           "price_cents": 4100
         }
       ]
@@ -93593,6 +92888,11 @@
         {
           "t": "2026-11-27T01:01:48+00:00",
           "status": "unknown",
+          "price_cents": 4500
+        },
+        {
+          "t": "2026-11-27T02:03:16+00:00",
+          "status": "out_of_stock",
           "price_cents": 4500
         }
       ]
@@ -94154,6 +93454,11 @@
           "t": "2026-11-27T01:01:40+00:00",
           "status": "unknown",
           "price_cents": 4400
+        },
+        {
+          "t": "2026-11-27T02:03:08+00:00",
+          "status": "out_of_stock",
+          "price_cents": 4400
         }
       ]
     },
@@ -94704,6 +94009,11 @@
           "t": "2026-11-27T01:01:41+00:00",
           "status": "unknown",
           "price_cents": 4100
+        },
+        {
+          "t": "2026-11-27T02:03:09+00:00",
+          "status": "out_of_stock",
+          "price_cents": 4100
         }
       ]
     },
@@ -95253,6 +94563,11 @@
         {
           "t": "2026-11-27T01:01:45+00:00",
           "status": "unknown",
+          "price_cents": 4100
+        },
+        {
+          "t": "2026-11-27T02:03:13+00:00",
+          "status": "out_of_stock",
           "price_cents": 4100
         }
       ]
@@ -95809,6 +95124,11 @@
           "t": "2026-11-27T01:01:41+00:00",
           "status": "unknown",
           "price_cents": 4500
+        },
+        {
+          "t": "2026-11-27T02:03:09+00:00",
+          "status": "out_of_stock",
+          "price_cents": 4500
         }
       ]
     },
@@ -96358,6 +95678,11 @@
         {
           "t": "2026-11-27T01:01:51+00:00",
           "status": "unknown",
+          "price_cents": 4500
+        },
+        {
+          "t": "2026-11-27T02:03:19+00:00",
+          "status": "out_of_stock",
           "price_cents": 4500
         }
       ]
@@ -96909,6 +96234,11 @@
           "t": "2026-11-27T01:01:42+00:00",
           "status": "unknown",
           "price_cents": 4100
+        },
+        {
+          "t": "2026-11-27T02:03:10+00:00",
+          "status": "out_of_stock",
+          "price_cents": 4100
         }
       ]
     },
@@ -97459,6 +96789,11 @@
           "t": "2026-11-27T01:01:45+00:00",
           "status": "unknown",
           "price_cents": 4100
+        },
+        {
+          "t": "2026-11-27T02:03:13+00:00",
+          "status": "out_of_stock",
+          "price_cents": 4100
         }
       ]
     },
@@ -97993,6 +97328,11 @@
         {
           "t": "2026-11-27T01:01:46+00:00",
           "status": "unknown",
+          "price_cents": 3900
+        },
+        {
+          "t": "2026-11-27T02:03:14+00:00",
+          "status": "out_of_stock",
           "price_cents": 3900
         }
       ]
@@ -98544,6 +97884,11 @@
           "t": "2026-11-27T01:01:49+00:00",
           "status": "unknown",
           "price_cents": 4100
+        },
+        {
+          "t": "2026-11-27T02:03:17+00:00",
+          "status": "out_of_stock",
+          "price_cents": 4100
         }
       ]
     },
@@ -99094,6 +98439,11 @@
           "t": "2026-11-27T01:01:47+00:00",
           "status": "unknown",
           "price_cents": 4600
+        },
+        {
+          "t": "2026-11-27T02:03:15+00:00",
+          "status": "out_of_stock",
+          "price_cents": 4600
         }
       ]
     },
@@ -99638,6 +98988,11 @@
         {
           "t": "2026-11-27T01:01:42+00:00",
           "status": "unknown",
+          "price_cents": 3900
+        },
+        {
+          "t": "2026-11-27T02:03:10+00:00",
+          "status": "out_of_stock",
           "price_cents": 3900
         }
       ]
@@ -100184,6 +99539,11 @@
           "t": "2026-11-27T01:01:43+00:00",
           "status": "unknown",
           "price_cents": 3900
+        },
+        {
+          "t": "2026-11-27T02:03:11+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3900
         }
       ]
     },
@@ -100729,6 +100089,11 @@
           "t": "2026-11-27T01:01:47+00:00",
           "status": "unknown",
           "price_cents": 3900
+        },
+        {
+          "t": "2026-11-27T02:03:15+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3900
         }
       ]
     },
@@ -101273,6 +100638,11 @@
         {
           "t": "2026-11-27T01:01:53+00:00",
           "status": "unknown",
+          "price_cents": 3700
+        },
+        {
+          "t": "2026-11-27T02:03:21+00:00",
+          "status": "out_of_stock",
           "price_cents": 3700
         }
       ]
@@ -101833,6 +101203,11 @@
         {
           "t": "2026-11-27T01:01:52+00:00",
           "status": "unknown",
+          "price_cents": 3800
+        },
+        {
+          "t": "2026-11-27T02:03:20+00:00",
+          "status": "out_of_stock",
           "price_cents": 3800
         }
       ]
@@ -102484,6 +101859,11 @@
           "t": "2026-11-27T01:01:16+00:00",
           "status": "unknown",
           "price_cents": 1799
+        },
+        {
+          "t": "2026-11-27T02:01:09+00:00",
+          "status": "out_of_stock",
+          "price_cents": 1799
         }
       ]
     },
@@ -103103,6 +102483,11 @@
         {
           "t": "2026-11-27T01:01:17+00:00",
           "status": "unknown",
+          "price_cents": 2900
+        },
+        {
+          "t": "2026-11-27T02:01:09+00:00",
+          "status": "out_of_stock",
           "price_cents": 2900
         }
       ]
@@ -103758,6 +103143,11 @@
         {
           "t": "2026-11-27T01:01:17+00:00",
           "status": "unknown",
+          "price_cents": 2499
+        },
+        {
+          "t": "2026-11-27T02:01:10+00:00",
+          "status": "out_of_stock",
           "price_cents": 2499
         }
       ]
@@ -104449,6 +103839,11 @@
           "t": "2026-11-27T01:01:19+00:00",
           "status": "unknown",
           "price_cents": 2300
+        },
+        {
+          "t": "2026-11-27T02:01:11+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2300
         }
       ]
     },
@@ -105073,6 +104468,11 @@
         {
           "t": "2026-11-27T01:01:19+00:00",
           "status": "unknown",
+          "price_cents": 2399
+        },
+        {
+          "t": "2026-11-27T02:01:12+00:00",
+          "status": "out_of_stock",
           "price_cents": 2399
         }
       ]
@@ -105709,6 +105109,11 @@
           "t": "2026-11-27T01:01:20+00:00",
           "status": "unknown",
           "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:01:12+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3000
         }
       ]
     },
@@ -106313,6 +105718,11 @@
         {
           "t": "2026-11-27T01:01:20+00:00",
           "status": "unknown",
+          "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:01:13+00:00",
+          "status": "out_of_stock",
           "price_cents": 3000
         }
       ]
@@ -107009,6 +106419,11 @@
           "t": "2026-11-27T01:01:21+00:00",
           "status": "unknown",
           "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:01:13+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3000
         }
       ]
     },
@@ -107614,6 +107029,11 @@
           "t": "2026-11-27T01:01:21+00:00",
           "status": "unknown",
           "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:01:14+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3000
         }
       ]
     },
@@ -108218,6 +107638,11 @@
         {
           "t": "2026-11-27T01:01:22+00:00",
           "status": "unknown",
+          "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:01:14+00:00",
+          "status": "out_of_stock",
           "price_cents": 3000
         }
       ]
@@ -108934,6 +108359,11 @@
           "t": "2026-11-27T01:01:22+00:00",
           "status": "unknown",
           "price_cents": 2000
+        },
+        {
+          "t": "2026-11-27T02:01:15+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2000
         }
       ]
     },
@@ -109539,6 +108969,11 @@
           "t": "2026-11-27T01:01:23+00:00",
           "status": "unknown",
           "price_cents": 1699
+        },
+        {
+          "t": "2026-11-27T02:01:15+00:00",
+          "status": "out_of_stock",
+          "price_cents": 1699
         }
       ]
     },
@@ -110143,6 +109578,11 @@
         {
           "t": "2026-11-27T01:01:23+00:00",
           "status": "unknown",
+          "price_cents": 2000
+        },
+        {
+          "t": "2026-11-27T02:01:16+00:00",
+          "status": "out_of_stock",
           "price_cents": 2000
         }
       ]
@@ -110794,6 +110234,11 @@
           "t": "2026-11-27T01:01:24+00:00",
           "status": "unknown",
           "price_cents": 2000
+        },
+        {
+          "t": "2026-11-27T02:01:16+00:00",
+          "status": "in_stock_with_count",
+          "price_cents": 2000
         }
       ]
     },
@@ -111443,6 +110888,11 @@
         {
           "t": "2026-11-27T01:01:24+00:00",
           "status": "unknown",
+          "price_cents": 2600
+        },
+        {
+          "t": "2026-11-27T02:01:17+00:00",
+          "status": "out_of_stock",
           "price_cents": 2600
         }
       ]
@@ -112139,6 +111589,11 @@
           "t": "2026-11-27T01:01:25+00:00",
           "status": "unknown",
           "price_cents": 2600
+        },
+        {
+          "t": "2026-11-27T02:01:17+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2600
         }
       ]
     },
@@ -112744,6 +112199,11 @@
           "t": "2026-11-27T01:01:25+00:00",
           "status": "unknown",
           "price_cents": 2600
+        },
+        {
+          "t": "2026-11-27T02:01:18+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2600
         }
       ]
     },
@@ -113348,6 +112808,11 @@
         {
           "t": "2026-11-27T01:01:26+00:00",
           "status": "unknown",
+          "price_cents": 2600
+        },
+        {
+          "t": "2026-11-27T02:01:18+00:00",
+          "status": "out_of_stock",
           "price_cents": 2600
         }
       ]
@@ -114004,6 +113469,11 @@
           "t": "2026-11-27T01:01:26+00:00",
           "status": "unknown",
           "price_cents": 2600
+        },
+        {
+          "t": "2026-11-27T02:01:19+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2600
         }
       ]
     },
@@ -114628,6 +114098,11 @@
         {
           "t": "2026-11-27T01:01:27+00:00",
           "status": "unknown",
+          "price_cents": 2800
+        },
+        {
+          "t": "2026-11-27T02:01:19+00:00",
+          "status": "out_of_stock",
           "price_cents": 2800
         }
       ]
@@ -115409,6 +114884,11 @@
           "t": "2026-11-27T01:01:27+00:00",
           "status": "unknown",
           "price_cents": 3200
+        },
+        {
+          "t": "2026-11-27T02:01:20+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3200
         }
       ]
     },
@@ -116013,6 +115493,11 @@
         {
           "t": "2026-11-27T01:01:28+00:00",
           "status": "unknown",
+          "price_cents": 3200
+        },
+        {
+          "t": "2026-11-27T02:01:20+00:00",
+          "status": "out_of_stock",
           "price_cents": 3200
         }
       ]
@@ -116649,6 +116134,11 @@
           "t": "2026-11-27T01:01:29+00:00",
           "status": "unknown",
           "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:01:21+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3000
         }
       ]
     },
@@ -117284,6 +116774,11 @@
           "t": "2026-11-27T01:01:28+00:00",
           "status": "unknown",
           "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:01:21+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3000
         }
       ]
     },
@@ -117888,6 +117383,11 @@
         {
           "t": "2026-11-27T01:01:29+00:00",
           "status": "unknown",
+          "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:01:22+00:00",
+          "status": "out_of_stock",
           "price_cents": 3000
         }
       ]
@@ -118584,6 +118084,11 @@
           "t": "2026-11-27T01:01:30+00:00",
           "status": "unknown",
           "price_cents": 2000
+        },
+        {
+          "t": "2026-11-27T02:01:22+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2000
         }
       ]
     },
@@ -119189,6 +118694,11 @@
           "t": "2026-11-27T01:01:30+00:00",
           "status": "unknown",
           "price_cents": 2000
+        },
+        {
+          "t": "2026-11-27T02:01:23+00:00",
+          "status": "out_of_stock",
+          "price_cents": 2000
         }
       ]
     },
@@ -119723,6 +119233,11 @@
         {
           "t": "2026-11-27T01:01:31+00:00",
           "status": "unknown",
+          "price_cents": 2000
+        },
+        {
+          "t": "2026-11-27T02:01:23+00:00",
+          "status": "out_of_stock",
           "price_cents": 2000
         }
       ]
@@ -120399,6 +119914,11 @@
           "t": "2026-11-27T01:01:31+00:00",
           "status": "unknown",
           "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:01:24+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3000
         }
       ]
     },
@@ -120933,6 +120453,11 @@
         {
           "t": "2026-11-27T01:01:32+00:00",
           "status": "unknown",
+          "price_cents": 3000
+        },
+        {
+          "t": "2026-11-27T02:01:24+00:00",
+          "status": "out_of_stock",
           "price_cents": 3000
         }
       ]
@@ -122149,6 +121674,11 @@
           "t": "2026-11-27T01:01:18+00:00",
           "status": "unknown",
           "price_cents": 1999
+        },
+        {
+          "t": "2026-11-27T02:01:11+00:00",
+          "status": "out_of_stock",
+          "price_cents": 1999
         }
       ]
     },
@@ -122729,6 +122259,11 @@
           "t": "2026-11-27T01:01:57+00:00",
           "status": "unknown",
           "price_cents": 3900
+        },
+        {
+          "t": "2026-11-27T02:03:25+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3900
         }
       ]
     },
@@ -123273,6 +122808,11 @@
         {
           "t": "2026-11-27T01:02:11+00:00",
           "status": "unknown",
+          "price_cents": 3900
+        },
+        {
+          "t": "2026-11-27T02:03:39+00:00",
+          "status": "out_of_stock",
           "price_cents": 3900
         }
       ]
@@ -123834,6 +123374,11 @@
           "t": "2026-11-27T01:02:02+00:00",
           "status": "unknown",
           "price_cents": 3900
+        },
+        {
+          "t": "2026-11-27T02:03:30+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3900
         }
       ]
     },
@@ -124393,6 +123938,11 @@
         {
           "t": "2026-11-27T01:02:03+00:00",
           "status": "unknown",
+          "price_cents": 4800
+        },
+        {
+          "t": "2026-11-27T02:03:31+00:00",
+          "status": "out_of_stock",
           "price_cents": 4800
         }
       ]
@@ -124969,6 +124519,11 @@
           "t": "2026-11-27T01:02:10+00:00",
           "status": "unknown",
           "price_cents": 3900
+        },
+        {
+          "t": "2026-11-27T02:03:38+00:00",
+          "status": "out_of_stock",
+          "price_cents": 3900
         }
       ]
     },
@@ -125513,6 +125068,11 @@
         {
           "t": "2026-11-27T01:02:11+00:00",
           "status": "unknown",
+          "price_cents": 4500
+        },
+        {
+          "t": "2026-11-27T02:03:39+00:00",
+          "status": "out_of_stock",
           "price_cents": 4500
         }
       ]
@@ -126074,6 +125634,11 @@
           "t": "2026-11-27T01:01:56+00:00",
           "status": "unknown",
           "price_cents": 5000
+        },
+        {
+          "t": "2026-11-27T02:03:24+00:00",
+          "status": "out_of_stock",
+          "price_cents": 5000
         }
       ]
     },
@@ -126608,6 +126173,11 @@
         {
           "t": "2026-11-27T01:02:09+00:00",
           "status": "unknown",
+          "price_cents": 4800
+        },
+        {
+          "t": "2026-11-27T02:03:37+00:00",
+          "status": "out_of_stock",
           "price_cents": 4800
         }
       ]
@@ -127169,6 +126739,11 @@
           "t": "2026-11-27T01:02:06+00:00",
           "status": "unknown",
           "price_cents": 5400
+        },
+        {
+          "t": "2026-11-27T02:03:34+00:00",
+          "status": "out_of_stock",
+          "price_cents": 5400
         }
       ]
     },
@@ -127713,6 +127288,11 @@
         {
           "t": "2026-11-27T01:01:59+00:00",
           "status": "unknown",
+          "price_cents": 4800
+        },
+        {
+          "t": "2026-11-27T02:03:27+00:00",
+          "status": "out_of_stock",
           "price_cents": 4800
         }
       ]
@@ -128259,6 +127839,11 @@
           "t": "2026-11-27T01:01:55+00:00",
           "status": "unknown",
           "price_cents": 4800
+        },
+        {
+          "t": "2026-11-27T02:03:23+00:00",
+          "status": "out_of_stock",
+          "price_cents": 4800
         }
       ]
     },
@@ -128803,6 +128388,11 @@
         {
           "t": "2026-11-27T01:01:58+00:00",
           "status": "unknown",
+          "price_cents": 4800
+        },
+        {
+          "t": "2026-11-27T02:03:26+00:00",
+          "status": "out_of_stock",
           "price_cents": 4800
         }
       ]
@@ -129349,6 +128939,11 @@
           "t": "2026-11-27T01:02:02+00:00",
           "status": "unknown",
           "price_cents": 4800
+        },
+        {
+          "t": "2026-11-27T02:03:30+00:00",
+          "status": "out_of_stock",
+          "price_cents": 4800
         }
       ]
     },
@@ -129894,6 +129489,11 @@
           "t": "2026-11-27T01:02:01+00:00",
           "status": "unknown",
           "price_cents": 5900
+        },
+        {
+          "t": "2026-11-27T02:03:29+00:00",
+          "status": "out_of_stock",
+          "price_cents": 5900
         }
       ]
     },
@@ -130438,6 +130038,11 @@
         {
           "t": "2026-11-27T01:02:07+00:00",
           "status": "unknown",
+          "price_cents": 4800
+        },
+        {
+          "t": "2026-11-27T02:03:35+00:00",
+          "status": "out_of_stock",
           "price_cents": 4800
         }
       ]
@@ -130994,6 +130599,11 @@
           "t": "2026-11-27T01:01:56+00:00",
           "status": "unknown",
           "price_cents": 6300
+        },
+        {
+          "t": "2026-11-27T02:03:24+00:00",
+          "status": "out_of_stock",
+          "price_cents": 6300
         }
       ]
     },
@@ -131543,6 +131153,11 @@
         {
           "t": "2026-11-27T01:02:10+00:00",
           "status": "unknown",
+          "price_cents": 5400
+        },
+        {
+          "t": "2026-11-27T02:03:38+00:00",
+          "status": "out_of_stock",
           "price_cents": 5400
         }
       ]
@@ -132109,6 +131724,11 @@
           "t": "2026-11-27T01:02:08+00:00",
           "status": "unknown",
           "price_cents": 6400
+        },
+        {
+          "t": "2026-11-27T02:03:36+00:00",
+          "status": "out_of_stock",
+          "price_cents": 6400
         }
       ]
     },
@@ -132669,6 +132289,11 @@
           "t": "2026-11-27T01:02:03+00:00",
           "status": "unknown",
           "price_cents": 6700
+        },
+        {
+          "t": "2026-11-27T02:03:31+00:00",
+          "status": "out_of_stock",
+          "price_cents": 6700
         }
       ]
     },
@@ -133213,6 +132838,11 @@
         {
           "t": "2026-11-27T01:02:04+00:00",
           "status": "unknown",
+          "price_cents": 5400
+        },
+        {
+          "t": "2026-11-27T02:03:32+00:00",
+          "status": "out_of_stock",
           "price_cents": 5400
         }
       ]
@@ -133769,6 +133399,11 @@
           "t": "2026-11-27T01:01:55+00:00",
           "status": "unknown",
           "price_cents": 6000
+        },
+        {
+          "t": "2026-11-27T02:03:23+00:00",
+          "status": "out_of_stock",
+          "price_cents": 6000
         }
       ]
     },
@@ -134313,6 +133948,11 @@
         {
           "t": "2026-11-27T01:02:04+00:00",
           "status": "unknown",
+          "price_cents": 5400
+        },
+        {
+          "t": "2026-11-27T02:03:32+00:00",
+          "status": "out_of_stock",
           "price_cents": 5400
         }
       ]
@@ -134869,6 +134509,11 @@
           "t": "2026-11-27T01:01:57+00:00",
           "status": "unknown",
           "price_cents": 5900
+        },
+        {
+          "t": "2026-11-27T02:03:25+00:00",
+          "status": "out_of_stock",
+          "price_cents": 5900
         }
       ]
     },
@@ -135413,6 +135058,11 @@
         {
           "t": "2026-11-27T01:01:58+00:00",
           "status": "unknown",
+          "price_cents": 5400
+        },
+        {
+          "t": "2026-11-27T02:03:26+00:00",
+          "status": "out_of_stock",
           "price_cents": 5400
         }
       ]
@@ -135969,6 +135619,11 @@
           "t": "2026-11-27T01:01:54+00:00",
           "status": "unknown",
           "price_cents": 6000
+        },
+        {
+          "t": "2026-11-27T02:03:22+00:00",
+          "status": "out_of_stock",
+          "price_cents": 6000
         }
       ]
     },
@@ -136523,6 +136178,11 @@
         {
           "t": "2026-11-27T01:02:05+00:00",
           "status": "unknown",
+          "price_cents": 6100
+        },
+        {
+          "t": "2026-11-27T02:03:33+00:00",
+          "status": "out_of_stock",
           "price_cents": 6100
         }
       ]
@@ -137079,6 +136739,11 @@
           "t": "2026-11-27T01:02:00+00:00",
           "status": "unknown",
           "price_cents": 6000
+        },
+        {
+          "t": "2026-11-27T02:03:28+00:00",
+          "status": "out_of_stock",
+          "price_cents": 6000
         }
       ]
     },
@@ -137623,6 +137288,11 @@
         {
           "t": "2026-11-27T01:02:09+00:00",
           "status": "unknown",
+          "price_cents": 6400
+        },
+        {
+          "t": "2026-11-27T02:03:37+00:00",
+          "status": "out_of_stock",
           "price_cents": 6400
         }
       ]
@@ -138174,6 +137844,11 @@
           "t": "2026-11-27T01:01:54+00:00",
           "status": "unknown",
           "price_cents": 6300
+        },
+        {
+          "t": "2026-11-27T02:03:22+00:00",
+          "status": "out_of_stock",
+          "price_cents": 6300
         }
       ]
     },
@@ -138718,6 +138393,11 @@
         {
           "t": "2026-11-27T01:02:08+00:00",
           "status": "unknown",
+          "price_cents": 6900
+        },
+        {
+          "t": "2026-11-27T02:03:36+00:00",
+          "status": "out_of_stock",
           "price_cents": 6900
         }
       ]
@@ -139279,6 +138959,11 @@
           "t": "2026-11-27T01:02:00+00:00",
           "status": "unknown",
           "price_cents": 6400
+        },
+        {
+          "t": "2026-11-27T02:03:28+00:00",
+          "status": "out_of_stock",
+          "price_cents": 6400
         }
       ]
     },
@@ -139824,6 +139509,11 @@
           "t": "2026-11-27T01:02:05+00:00",
           "status": "unknown",
           "price_cents": 7200
+        },
+        {
+          "t": "2026-11-27T02:03:33+00:00",
+          "status": "out_of_stock",
+          "price_cents": 7200
         }
       ]
     },
@@ -140358,6 +140048,11 @@
         {
           "t": "2026-11-27T01:02:06+00:00",
           "status": "unknown",
+          "price_cents": 6400
+        },
+        {
+          "t": "2026-11-27T02:03:34+00:00",
+          "status": "out_of_stock",
           "price_cents": 6400
         }
       ]
@@ -140903,6 +140598,11 @@
         {
           "t": "2026-11-27T01:02:01+00:00",
           "status": "unknown",
+          "price_cents": 6400
+        },
+        {
+          "t": "2026-11-27T02:03:29+00:00",
+          "status": "out_of_stock",
           "price_cents": 6400
         }
       ]
@@ -143114,6 +142814,11 @@
           "t": "2026-11-27T01:02:16+00:00",
           "status": "unknown",
           "price_cents": 7900
+        },
+        {
+          "t": "2026-11-27T02:03:44+00:00",
+          "status": "out_of_stock",
+          "price_cents": 7900
         }
       ]
     },
@@ -143663,6 +143368,11 @@
         {
           "t": "2026-11-27T01:02:17+00:00",
           "status": "unknown",
+          "price_cents": 7600
+        },
+        {
+          "t": "2026-11-27T02:03:45+00:00",
+          "status": "out_of_stock",
           "price_cents": 7600
         }
       ]
@@ -144219,6 +143929,11 @@
           "t": "2026-11-27T01:02:19+00:00",
           "status": "unknown",
           "price_cents": 6900
+        },
+        {
+          "t": "2026-11-27T02:03:47+00:00",
+          "status": "out_of_stock",
+          "price_cents": 6900
         }
       ]
     },
@@ -144764,6 +144479,11 @@
           "t": "2026-11-27T01:02:15+00:00",
           "status": "unknown",
           "price_cents": 7300
+        },
+        {
+          "t": "2026-11-27T02:03:43+00:00",
+          "status": "out_of_stock",
+          "price_cents": 7300
         }
       ]
     },
@@ -145298,6 +145018,11 @@
         {
           "t": "2026-11-27T01:02:21+00:00",
           "status": "unknown",
+          "price_cents": 6900
+        },
+        {
+          "t": "2026-11-27T02:03:49+00:00",
+          "status": "out_of_stock",
           "price_cents": 6900
         }
       ]
@@ -145864,6 +145589,11 @@
           "t": "2026-11-27T01:02:13+00:00",
           "status": "unknown",
           "price_cents": 8700
+        },
+        {
+          "t": "2026-11-27T02:03:41+00:00",
+          "status": "out_of_stock",
+          "price_cents": 8700
         }
       ]
     },
@@ -146408,6 +146138,11 @@
         {
           "t": "2026-11-27T01:02:16+00:00",
           "status": "unknown",
+          "price_cents": 7300
+        },
+        {
+          "t": "2026-11-27T02:03:44+00:00",
+          "status": "out_of_stock",
           "price_cents": 7300
         }
       ]
@@ -146974,6 +146709,11 @@
           "t": "2026-11-27T01:02:15+00:00",
           "status": "unknown",
           "price_cents": 7300
+        },
+        {
+          "t": "2026-11-27T02:03:43+00:00",
+          "status": "out_of_stock",
+          "price_cents": 7300
         }
       ]
     },
@@ -147518,6 +147258,11 @@
         {
           "t": "2026-11-27T01:02:20+00:00",
           "status": "unknown",
+          "price_cents": 7300
+        },
+        {
+          "t": "2026-11-27T02:03:48+00:00",
+          "status": "out_of_stock",
           "price_cents": 7300
         }
       ]
@@ -148099,6 +147844,11 @@
           "t": "2026-11-27T01:02:19+00:00",
           "status": "unknown",
           "price_cents": 9400
+        },
+        {
+          "t": "2026-11-27T02:03:47+00:00",
+          "status": "out_of_stock",
+          "price_cents": 9400
         }
       ]
     },
@@ -148649,6 +148399,11 @@
           "t": "2026-11-27T01:02:14+00:00",
           "status": "unknown",
           "price_cents": 8700
+        },
+        {
+          "t": "2026-11-27T02:03:42+00:00",
+          "status": "out_of_stock",
+          "price_cents": 8700
         }
       ]
     },
@@ -149193,6 +148948,11 @@
         {
           "t": "2026-11-27T01:02:18+00:00",
           "status": "unknown",
+          "price_cents": 9300
+        },
+        {
+          "t": "2026-11-27T02:03:46+00:00",
+          "status": "out_of_stock",
           "price_cents": 9300
         }
       ]
@@ -149739,6 +149499,11 @@
           "t": "2026-11-27T01:02:12+00:00",
           "status": "unknown",
           "price_cents": 9500
+        },
+        {
+          "t": "2026-11-27T02:03:40+00:00",
+          "status": "out_of_stock",
+          "price_cents": 9500
         }
       ]
     },
@@ -150284,6 +150049,11 @@
           "t": "2026-11-27T01:02:22+00:00",
           "status": "unknown",
           "price_cents": 8800
+        },
+        {
+          "t": "2026-11-27T02:03:50+00:00",
+          "status": "out_of_stock",
+          "price_cents": 8800
         }
       ]
     },
@@ -150828,6 +150598,11 @@
         {
           "t": "2026-11-27T01:02:21+00:00",
           "status": "unknown",
+          "price_cents": 8800
+        },
+        {
+          "t": "2026-11-27T02:03:49+00:00",
+          "status": "out_of_stock",
           "price_cents": 8800
         }
       ]
@@ -151383,6 +151158,11 @@
         {
           "t": "2026-11-27T01:02:14+00:00",
           "status": "unknown",
+          "price_cents": 8700
+        },
+        {
+          "t": "2026-11-27T02:03:42+00:00",
+          "status": "out_of_stock",
           "price_cents": 8700
         }
       ]
@@ -151984,6 +151764,11 @@
           "t": "2026-11-27T01:02:20+00:00",
           "status": "unknown",
           "price_cents": 8800
+        },
+        {
+          "t": "2026-11-27T02:03:48+00:00",
+          "status": "out_of_stock",
+          "price_cents": 8800
         }
       ]
     },
@@ -152528,6 +152313,11 @@
         {
           "t": "2026-11-27T01:02:13+00:00",
           "status": "unknown",
+          "price_cents": 10300
+        },
+        {
+          "t": "2026-11-27T02:03:41+00:00",
+          "status": "out_of_stock",
           "price_cents": 10300
         }
       ]
@@ -153104,6 +152894,11 @@
           "t": "2026-11-27T01:02:12+00:00",
           "status": "unknown",
           "price_cents": 12700
+        },
+        {
+          "t": "2026-11-27T02:03:40+00:00",
+          "status": "out_of_stock",
+          "price_cents": 12700
         }
       ]
     },
@@ -153668,6 +153463,11 @@
         {
           "t": "2026-11-27T01:02:18+00:00",
           "status": "unknown",
+          "price_cents": 10100
+        },
+        {
+          "t": "2026-11-27T02:03:46+00:00",
+          "status": "out_of_stock",
           "price_cents": 10100
         }
       ]
@@ -164073,6 +163873,11 @@
         {
           "t": "2026-11-27T01:00:42+00:00",
           "status": "unknown",
+          "price_cents": 69300
+        },
+        {
+          "t": "2026-11-27T02:00:35+00:00",
+          "status": "out_of_stock",
           "price_cents": 69300
         }
       ]
