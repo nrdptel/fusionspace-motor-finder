@@ -14315,7 +14315,7 @@
   "https://www.siriusrocketry.biz/ishop/aerotech-c3-4t-p-rms-rc-reload-kit-12-pack-1849.html": {
     "currently_in_stock": false,
     "status_current": "out_of_stock",
-    "first_seen_at": "2026-06-01T16:01:25+00:00",
+    "first_seen_at": "2026-06-01T20:25:20+00:00",
     "last_change_at": "2026-07-03T19:26:22+00:00",
     "last_in_stock_at": null,
     "last_restock_at": null,
@@ -14406,7 +14406,7 @@
   "https://www.siriusrocketry.biz/ishop/aerotech-d2-3t-p-rms-rc-reload-kit-12-pack-1850.html": {
     "currently_in_stock": false,
     "status_current": "out_of_stock",
-    "first_seen_at": "2026-06-01T16:01:33+00:00",
+    "first_seen_at": "2026-06-01T23:29:40+00:00",
     "last_change_at": "2026-07-03T19:26:30+00:00",
     "last_in_stock_at": null,
     "last_restock_at": null,
@@ -14419,7 +14419,7 @@
   "https://www.siriusrocketry.biz/ishop/aerotech-d2-3t-p-rms-rc-reload-kit-3-pack-1851.html": {
     "currently_in_stock": false,
     "status_current": "out_of_stock",
-    "first_seen_at": "2026-06-01T16:01:34+00:00",
+    "first_seen_at": "2026-06-01T18:53:35+00:00",
     "last_change_at": "2026-07-03T19:26:31+00:00",
     "last_in_stock_at": null,
     "last_restock_at": null,
@@ -14497,7 +14497,7 @@
   "https://www.siriusrocketry.biz/ishop/aerotech-d7-rct-rms-rc-reload-kit-3-pack-1852.html": {
     "currently_in_stock": true,
     "status_current": "in_stock",
-    "first_seen_at": "2026-06-01T16:01:40+00:00",
+    "first_seen_at": "2026-06-02T01:46:57+00:00",
     "last_change_at": "2026-07-03T19:26:37+00:00",
     "last_in_stock_at": "2026-07-03T19:26:37+00:00",
     "last_restock_at": null,
@@ -17760,7 +17760,7 @@
   "https://www.siriusrocketry.biz/ishop/aerotech-high-power-l1250dm-p-reload-kit-hazmat-1666.html": {
     "currently_in_stock": true,
     "status_current": "in_stock",
-    "first_seen_at": "2026-06-01T16:05:55+00:00",
+    "first_seen_at": "2026-06-01T18:57:56+00:00",
     "last_change_at": "2026-06-17T02:05:49+00:00",
     "last_in_stock_at": "2026-06-17T02:05:49+00:00",
     "last_restock_at": null,
@@ -18371,7 +18371,7 @@
   "https://www.siriusrocketry.biz/ishop/aerotech-high-power-o5280x-ps-98mm-dms-hazmat-special-order-2040.html": {
     "currently_in_stock": false,
     "status_current": "special_order",
-    "first_seen_at": "2026-06-01T16:06:43+00:00",
+    "first_seen_at": "2026-06-01T22:06:04+00:00",
     "last_change_at": "2026-07-03T19:31:36+00:00",
     "last_in_stock_at": null,
     "last_restock_at": null,
@@ -23465,10 +23465,10 @@
     "price_high_cents": 23736
   },
   "https://wildmanrocketry.com/products/pr75-2g-c": {
-    "currently_in_stock": true,
-    "status_current": "in_stock",
+    "currently_in_stock": false,
+    "status_current": "out_of_stock",
     "first_seen_at": "2026-06-03T02:38:48+00:00",
-    "last_change_at": "2026-06-25T01:34:12+00:00",
+    "last_change_at": "2026-11-28T16:00:31+00:00",
     "last_in_stock_at": "2026-06-25T01:34:12+00:00",
     "last_restock_at": null,
     "restock_count": 0,
