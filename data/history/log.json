@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T02:02:54+00:00",
+  "updated_at": "2026-11-28T03:03:03+00:00",
   "listings": {
     "https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/29mm/29/40-120-reloads/aerotech-e16-4w-white-lightning-rocket-motor.html": {
       "vendor_slug": "csrocketry",
@@ -18551,11 +18551,6 @@
       "vendor_slug": "sirius",
       "events": [
         {
-          "t": "2026-06-01T03:01:42+00:00",
-          "status": "out_of_stock",
-          "price_cents": 27719
-        },
-        {
           "t": "2026-06-01T05:33:41+00:00",
           "status": "out_of_stock",
           "price_cents": 4001
@@ -18746,11 +18741,6 @@
       "vendor_slug": "sirius",
       "events": [
         {
-          "t": "2026-06-01T03:01:49+00:00",
-          "status": "out_of_stock",
-          "price_cents": null
-        },
-        {
           "t": "2026-06-01T05:33:48+00:00",
           "status": "out_of_stock",
           "price_cents": 5219
@@ -18905,11 +18895,6 @@
     "https://www.siriusrocketry.biz/ishop/aerotech-d2-3t-p-rms-rc-reload-kit-3-pack-1851.html": {
       "vendor_slug": "sirius",
       "events": [
-        {
-          "t": "2026-06-01T03:01:50+00:00",
-          "status": "out_of_stock",
-          "price_cents": 16999
-        },
         {
           "t": "2026-06-01T05:33:49+00:00",
           "status": "out_of_stock",
@@ -19130,11 +19115,6 @@
     "https://www.siriusrocketry.biz/ishop/aerotech-d7-rct-rms-rc-reload-kit-3-pack-1852.html": {
       "vendor_slug": "sirius",
       "events": [
-        {
-          "t": "2026-06-01T03:01:56+00:00",
-          "status": "in_stock",
-          "price_cents": 3827
-        },
         {
           "t": "2026-06-01T05:33:55+00:00",
           "status": "in_stock",
